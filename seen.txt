@@ -163,3 +163,10 @@ https://github.com/sgl-project/sglang
 https://github.com/centerforaisafety/HarmBench
 https://github.com/punkpeye/awesome-mcp-servers
 https://github.com/microsoft/promptflow
+https://maggieappleton.com/gastown
+https://alexkondov.com/i-know-when-youre-vibe-coding/
+https://arxiv.org/abs/2506.08837
+https://news.ycombinator.com/item?id=47388646
+https://www.seangoedecke.com/model-on-a-mbp/
+https://github.com/manaflow-ai/cmux
+https://github.com/jrswab/axe

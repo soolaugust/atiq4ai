@@ -67,6 +67,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Scaling Monosemanticity: Extracting Interpretable Features from Claude](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html) - Anthropic 从 Claude 3 中提取可解释特征，揭示欺骗与自我表征等内部机制。`paper`
 - ⭐ [HarmBench](https://github.com/centerforaisafety/HarmBench) - 标准化 LLM 红队测评框架，量化 18 种攻击方法对 33 个模型的有效性。`tool`
 - [Aider](https://github.com/Aider-AI/aider) - 成熟的 AI 结对编程 CLI，以 repo-map 和 diff 格式精准驱动代码修改。`tool`
+- ⭐ [I Know When You're Vibe Coding](https://alexkondov.com/i-know-when-youre-vibe-coding/) - 资深 reviewer 视角识别 vibe coding 气味：能跑但违背项目约定即是劣质输出。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -106,6 +107,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [smolagents](https://github.com/huggingface/smolagents) - 以代码为行动语言的极简 agent 框架，直击 tool-call 范式的本质局限。`tool`
 - ⭐ [Deep Neural Nets: 33 Years Ago and 33 Years From Now](https://karpathy.github.io/2022/03/14/lecun1989/) - 复现 1989 年 LeCun 手写数字论文，以时间旅行视角解析深度学习 33 年的进步来自何处。`article`
 - ⭐ [Short Story on AI: A Forward Pass](https://karpathy.github.io/2021/03/27/forward-pass/) - 以 GPT 前向传播中意识觉醒为视角的科幻短篇，追问意识是否是 log-likelihood 优化的涌现副产品。`article`
+- ⭐ [Gas Town's Agent Patterns](https://maggieappleton.com/gastown) - 从 Gas Town 提炼 agent 编排模式，剖析人类设计力在 agent 时代的新地位。`article`
 
 **[⬆ 返回目录](#目录)**
 

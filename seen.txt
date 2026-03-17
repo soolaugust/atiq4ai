@@ -584,3 +584,6 @@ https://arxiv.org/abs/2601.19062
 https://arxiv.org/abs/2512.15712
 https://www.anthropic.com/research/AI-fluency-index
 https://transluce.org/pathological-behaviors
+https://bounded-regret.ghost.io/building-technology-to-drive-ai-governance/
+https://gwern.net/hutter-prize
+https://www.jasonwei.net/blog/ai-research-is-a-max-performance-domain

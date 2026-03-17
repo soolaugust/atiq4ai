@@ -128,6 +128,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [AutoCircuit](https://github.com/UFO-101/auto-circuit) - 自动发现 transformer 最小功能电路，同时证明主流评估指标存在系统性鲁棒性缺陷。`tool`
 - ⭐ [ProcessBench](https://github.com/QwenLM/ProcessBench) - 评估推理过程监督质量，定位数学推理链首个错误步骤。`paper`
 - ⭐ [Predictive Concept Decoders](https://arxiv.org/abs/2512.15712) - 把激活解码为概念列表并预测行为，可解释性首次成为可训练能力。`paper`
+- ⭐ [Towards a Better Hutter Prize](https://gwern.net/hutter-prize) - 解剖Hutter Prize的理论美与实践失效，重新定义AI基准的核心度量。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -276,6 +277,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [LLM Skirmish](https://llmskirmish.com/) - 多 LLM 通过写代码在实时策略游戏中 1v1 对战的 benchmark。`tool`
 - ⭐ [CAA: Contrastive Activation Addition](https://github.com/nrimsky/CAA) - 提取正负样本激活差向量，精准操控 Llama 2 顺从性等七种对齐行为。`paper`
 - ⭐ [Block Diffusion: Interpolating AR and Diffusion Language Models](https://m-arriola.com/bd3lms/) - 块级扩散架构在 AR 与扩散模型之间插值，突破可变长度生成限制。`paper`
+- ⭐ [Building Technology to Drive AI Governance](https://bounded-regret.ghost.io/building-technology-to-drive-ai-governance/) - 类比历史监管经验，论证测量技术才是撬动AI治理的真正杠杆。`article`
 
 **[⬆ 返回目录](#目录)**
 

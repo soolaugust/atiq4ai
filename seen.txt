@@ -112,3 +112,14 @@ https://www.promptingguide.ai/
 https://github.com/microsoft/ai-agents-for-beginners
 https://hamel.dev/blog/posts/evals-skills/index.html
 https://github.com/hamelsmu/evals-skills
+https://magazine.sebastianraschka.com/p/llm-evaluation-4-approaches
+https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling
+https://magazine.sebastianraschka.com/p/state-of-llms-2025
+https://maggieappleton.com/ai-dark-forest
+https://maggieappleton.com/tools-for-thought
+https://matt-rickard.com/how
+https://matt-rickard.com/the-model-is-not-the-product
+https://matt-rickard.com/claude-code-anywhere
+https://thegradient.pub/virtue-ethics-ai-alignment/
+https://thegradient.pub/agi-is-not-multimodal/
+https://www.latent.space/p/ai-engineer

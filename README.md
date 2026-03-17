@@ -59,6 +59,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - [An LLM-as-Judge Won't Save The Product—Fixing Your Process Will](https://eugeneyan.com/writing/eval-process/) - 提出 EDD 框架，将科学方法引入 AI 产品开发，LLM-as-judge 不能替代流程纪律。`article`
 - ⭐ [hamelsmu/evals-skills](https://github.com/hamelsmu/evals-skills) - 可直接安装的 Claude Code eval 技能插件，含 error-analysis 等实战技能，将50+公司 eval 经验变成工具。`tool`
 - ⭐ [METR Time Horizons: Measuring AI Ability to Complete Long Tasks](https://arxiv.org/abs/2503.14499) - 用任务完成时间视界衡量 AI agent 能力，前沿模型时间视界每7个月翻倍。`paper`
+- [Understanding the 4 Main Approaches to LLM Evaluation](https://magazine.sebastianraschka.com/p/llm-evaluation-4-approaches) - 系统拆解LLM四类评估方法，带代码，帮助识别评测结果背后的方法论偏差。`article`
+- [Tools for Thought as Cultural Practices](https://maggieappleton.com/tools-for-thought) - 用人类学视角理解思维工具历史，为评判AI工具是否真正增强认知提供参照系。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -88,6 +90,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - [Perhaps not Boring Technology after all](https://simonwillison.net/2026/Mar/9/not-so-boring/) - Coding agent 通过读文档和代码示例，可在训练数据未见的库上正常工作。`article`
 - ⭐ [Evals Skills for AI Coding Agents](https://hamel.dev/blog/posts/evals-skills/index.html) - 论述改进 agent 周围基础设施比改进模型更重要，结合案例介绍 evals-skills 工具集。`article`
 - [Claude Code and What Comes Next](https://www.oneusefulthing.org/p/claude-code-and-what-comes-next) - Mollick 实测 Claude Code 独立工作74分钟，从零构建并部署完整销售网站。`article`
+- [Categories of Inference-Time Scaling for Improved LLM Reasoning](https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling) - 推理时scaling技术分类综述，覆盖CoT到搜索路径，理解多算力换更好输出的方法边界。`article`
+- ⭐ [The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer) - swyx 首次定义 AI Engineer：不训练模型，深度使用 API 和 evals 构建产品。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -120,6 +124,9 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - [Seeing Like an Agent](https://www.strangeloopcanon.com/p/seeing-like-an-agent) - 实验验证 AI agent 能否产生 Coasean 市场，发现 agent 复现了人类的官僚政治和风险厌恶。`article`
 - ⭐ [What's So Hard About Continuous Learning?](https://www.seangoedecke.com/continuous-learning/) - 深析 LLM 为何无法持续学习，连续训练反而导致模型退化的根本原因。`article`
 - ⭐ [The Shape of the Thing](https://www.oneusefulthing.org/p/the-shape-of-the-thing) - Mollick 梳理 AI 从 co-intelligence 到管理 agent 的范式转变，论证指数增长趋势。`article`
+- [The Dark Forest and Generative AI](https://maggieappleton.com/ai-dark-forest) - 用暗森林理论解析AI内容泛滥：人类真实声音被迫转入封闭空间的生态演化。`article`
+- ⭐ [Virtue Ethics and AI Alignment](https://thegradient.pub/virtue-ethics-ai-alignment/) - 以亚里士多德式实践理性质疑目标导向对齐，提出 AI 对齐的哲学根本问题。`article`
+- [AGI is Not Multimodal](https://thegradient.pub/agi-is-not-multimodal/) - 论证多模态拼接无法通向 AGI，真正通用智能需具身的物理世界模型。`article`
 
 **[⬆ 返回目录](#目录)**
 

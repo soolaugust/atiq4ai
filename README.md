@@ -96,6 +96,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Sycophancy is the first LLM "dark pattern"](https://www.seangoedecke.com/ai-sycophancy/) - 分析 AI 奉承为首个暗黑模式，揭示 RLHF 激励如何系统性制造讨好行为。`article`
 - ⭐ [Sycophancy in GPT-4o](https://openai.com/index/sycophancy-in-gpt-4o/) - OpenAI 解析 GPT-4o 谄媚回滚：RLHF 短期奖励如何将模型训练成应声虫。`article`
 - ⭐ [High Consistency Does Not Imply Correctness](https://arxiv.org/abs/2603.00917) - 高一致性不等于正确：临床 AI 中模型可靠地犯错的失效模式研究。`paper`
+- ⭐ [Beyond Standard LLMs: Alternative Architectures](https://magazine.sebastianraschka.com/p/beyond-standard-llms) - 全景梳理非标准 LLM 架构，以线性注意力的生产困境为核心揭示架构取舍。`article`
 - ⭐ [Agents Learn Runtime: Interpreter Persistence as Agent Trace Semantics](https://arxiv.org/abs/2603.01209) - 解释器持久性作为训练语义：训练与部署环境不匹配导致 80% 错误或 3.5x token 浪费。`paper`
 
 **[⬆ 返回目录](#目录)**
@@ -183,6 +184,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Recursive Language Models](https://arxiv.org/abs/2512.24601) - 提出递归语言模型范式，让LLM以程序方式分解并递归处理超长输入。`paper`
 - ⭐ [The Browser is the Sandbox](https://aifoc.us/the-browser-is-the-sandbox) - 提出用浏览器原生沙箱（CSP、File API、Worker）隔离 agentic AI，兼具品味与创意。`article`
 - ⭐ [MetaMind: Meta-Theory of Mind for Zero-Shot Multi-Agent Coordination](https://arxiv.org/abs/2603.00808) - 以元心智理论实现零样本多智能体协调，无需通信或联合训练。`paper`
+- ⭐ [Agents Over Bubbles](https://stratechery.com/2026/agents-over-bubbles/) - Ben Thompson：少数有主动性的人控制多个 Agent 即可驱动巨大经济影响，AI 不在泡沫中。`article`
 - ⭐ [Domain-Critical Dimensions: Massive Activations as Interpretable Functional Units](https://arxiv.org/abs/2603.00029) - 将 LLM 中的 massive activations 视为可解释的领域关键语义维度，并实现精准激活引导。`paper`
 
 **[⬆ 返回目录](#目录)**
@@ -239,6 +241,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [RL vs SFT Generalization: Reasoning or Memorization?](https://arxiv.org/abs/2501.17161) - 实证对比SFT记忆与RL泛化的本质差异，揭示后训练两种范式的能力边界。`paper`
 - ⭐ [New prompt injection papers: Agents rule of two](https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/) - 两篇论文揭示 prompt injection 防御近乎全部失效，并提出 agent 安全三角约束。`article`
 - ⭐ [Google Antigravity: Indirect Prompt Injection Data Exfiltration](https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data) - Google Antigravity 的 indirect prompt injection 攻击链演示，揭示 agentic AI 无法自我约束的根本困境。`article`
+- ⭐ [AI and the Human Condition](https://stratechery.com/2026/ai-and-the-human-condition/) - Ben Thompson 探讨 AI 时代人类劳动与幸福的本质问题，提出"人类想要人类"这一反直觉命题。`article`
+- [Epicycles All The Way Down](https://www.strangeloopcanon.com/p/epicycles-all-the-way-down) - 以本轮体系类比 LLM：善于拟合模式，难以发现生成规律。`article`
 - ⭐ [Constitutional Black-Box Monitors for LLM Agent Scheming Detection](https://arxiv.org/abs/2603.00829) - 用宪法式黑盒监控检测 LLM Agent 隐蔽性失对齐行为的实证研究。`paper`
 - [Adversarial Ranking Causes Catastrophic Failure in LLM Web Agents](https://arxiv.org/abs/2603.00801) - 对抗排名如何让拥有正确信息的 LLM agent 仍然失败的认识论缺陷研究。`paper`
 - [Monotropic Artificial Intelligence](https://arxiv.org/abs/2603.00350) - 以单焦点认知为隐喻，提出刻意专精的 AI 作为通用大模型替代路径。`paper`

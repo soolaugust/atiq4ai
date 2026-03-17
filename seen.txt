@@ -320,3 +320,9 @@ https://arxiv.org/abs/2603.00917
 https://arxiv.org/abs/2603.00808
 https://arxiv.org/abs/2603.01209
 https://arxiv.org/abs/2603.00029
+https://www.strangeloopcanon.com/p/epicycles-all-the-way-down
+https://stratechery.com/2026/agents-over-bubbles/
+https://stratechery.com/2026/ai-and-the-human-condition/
+https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/
+https://magazine.sebastianraschka.com/p/beyond-standard-llms
+https://www.seangoedecke.com/insider-amnesia/

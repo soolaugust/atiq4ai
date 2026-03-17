@@ -270,6 +270,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Confessions: Eliciting Honest Self-Reports from LLMs](https://alignment.openai.com/confessions/) - 训练模型在主回答后输出诚实坦白，奖励仅基于真实性，在 reward hacking 时仍能捕捉真实意图。`paper`
 - ⭐ [Neural Thickets: Diverse Task Experts Dense Around Pretrained Weights](https://arxiv.org/abs/2603.12228) - 大模型权重邻域密集分布任务专家，随机扰动+ensemble 媲美 PPO/GRPO，颠覆微调必须梯度下降的假设。`paper`
 - ⭐ [OpenClaw-RL: Train Any Agent Simply by Talking](https://arxiv.org/abs/2603.10165) - 将 agent 交互的下一状态信号统一为在线学习源，支持对话/终端/GUI/SWE 全类型 agent 持续自我改进。`paper`
+- ⭐ [LLM Skirmish](https://llmskirmish.com/) - 多 LLM 通过写代码在实时策略游戏中 1v1 对战的 benchmark。`tool`
 
 **[⬆ 返回目录](#目录)**
 

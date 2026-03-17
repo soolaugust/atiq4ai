@@ -559,3 +559,12 @@ https://karpathy.ai/jobs/
 https://arxiv.org/abs/2603.10165
 https://www.lesswrong.com/posts/hopeRDfyAgQc4Ez2g/how-i-stopped-being-sure-llms-are-just-making-up-their
 https://www.lesswrong.com/posts/eFZKivCbDrer9G2fw/research-note-on-window-shifting-training-1
+https://nanoclaw.dev/blog/nanoclaw-security-model
+https://github.com/knowsuchagency/mcp2cli
+https://github.com/theredsix/agent-browser-protocol
+https://hallucinatingsplines.com
+https://github.com/htdt/godogen
+https://getbruin.com/blog/go-is-the-best-language-for-agents/
+https://llmskirmish.com/
+https://github.com/mastra-ai/mastra/blob/main/book/principles-of-building-ai-agents.pdf
+https://news.ycombinator.com/item?id=46385179

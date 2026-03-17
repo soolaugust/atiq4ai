@@ -284,6 +284,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [LiTS: Policy Diversity Is the Tree Search Bottleneck](https://arxiv.org/abs/2603.00631) - 发现LLM树搜索瓶颈是策略多样性而非奖励质量，颠覆常规假设。`paper`
 - ⭐ [Elimination Game](https://github.com/lechmazur/elimination_game) - 多人淘汰赛格式测试 LLM 欺骗与社交推理能力的基准。`tool`
 - ⭐ [Goodfire SDK](https://github.com/goodfire-ai/goodfire-sdk) - 用语义描述直接调节 LLM 内部 SAE 特征权重的 SDK。`tool`
+- ⭐ [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335) - 单模型自出题自求解，无需任何人工数据即可自举提升推理能力，超越有监督方法。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -390,6 +391,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [HallusionBench](https://github.com/tianyi-lab/HallusionBench) - 测试视觉模型是否真正理解图像，还是靠语言偏见作答。`tool`
 - ⭐ [Dead Salmons of AI Interpretability](https://arxiv.org/abs/2512.18792) - 批判机械可解释性的方法论陷阱：解释可能只是统计噪声，非真实计算结构。`paper`
 - ⭐ [The Misguided Quest for Mechanistic AI Interpretability](https://www.ai-frontiers.org/articles/the-misguided-quest-for-mechanistic-ai-interpretability) - 批判机械可解释性的根本框架错误：LLM是复杂涌现系统，逐层溯因是误导性类比。`article`
+- ⭐ [Self-Replicating AI: Frontier Models Already Capable of Rudimentary Self-Replication](https://arxiv.org/abs/2412.12140) - 实测 Llama-70B/Qwen-72B 已能独立自复制并链式增殖，指出安全评估框架的系统性盲区。`paper`
 
 **[⬆ 返回目录](#目录)**
 

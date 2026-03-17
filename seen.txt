@@ -608,3 +608,6 @@ https://github.com/sotopia-lab/sotopia
 https://github.com/jonathanmli/Avalon-LLM
 https://github.com/goodfire-ai/goodfire-sdk
 https://github.com/allenai/wildteaming
+https://arxiv.org/abs/2505.03335
+https://arxiv.org/abs/2412.12140
+https://www.reddit.com/r/LocalLLaMA/comments/1kcbr45/wait_we_shouldnt_tell_deepseek_r1_to_think_step/

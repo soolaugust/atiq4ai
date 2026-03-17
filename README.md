@@ -72,6 +72,9 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [CursorBench](https://www.cursor.com/blog/cursorbench) - Cursor 自建 coding benchmark，展示如何设计真实任务评测替代刷榜指标。`tool`
 - ⭐ [HELMET: How to Evaluate Long-context Models Effectively and Thoroughly](https://arxiv.org/abs/2410.02694) - 实证证明 NIAH 等合成任务无法预测真实下游性能，提出覆盖7类场景的长上下文评估框架。`paper`
 - ⭐ [Agentic Engineering Patterns: Anti-patterns](https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/) - 系统整理 agent 辅助编程的反模式，明确好工程实践的负向边界。`article`
+- ⭐ [Context-Engineering](https://github.com/davidkimai/Context-Engineering) - 从第一性原理重构 LLM context 设计认知，是辨别 AI 能力边界的核心方法论框架。`article`
+- ⭐ [baml](https://github.com/BoundaryML/baml) - 用类型安全 DSL 定义 LLM 函数，把 AI 调用变成可测试、可版本化的工程实践。`tool`
+- ⭐ [llm-comparator](https://github.com/PAIR-code/llm-comparator) - Google PAIR 开发的 LLM 响应并排对比可视化评估工具，支持切片级系统化分析。`tool`
 
 **[⬆ 返回目录](#目录)**
 
@@ -121,6 +124,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Three Years from GPT-3 to Gemini 3](https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini) - 用同一提示词三年历史输出对比，直观校准 AI 能力的指数级跃升速度。`article`
 - [Mass Intelligence](https://www.oneusefulthing.org/p/mass-intelligence) - AI 从精英付费工具转向大众基础设施的社会拐点，超十亿用户规模的影响分析。`article`
 - [My AI Stack](https://hamel.dev/blog/posts/ai-stack/index.html) - Hamel Husain 提出「顺 AI 之流」作为工具选择新维度：主流工作流让 AI 发挥最大效力。`article`
+- ⭐ [serena](https://github.com/oraios/serena) - 为 AI coding agent 提供符号级语义检索和编辑的 MCP 工具包，解决大型代码库中定位精度差的核心痛点。`mcp`
+- ⭐ [git-mcp](https://github.com/idosal/git-mcp) - 任意 GitHub 仓库零配置转为 MCP server，让 AI 读取真实文档而非产生幻觉。`mcp`
 
 **[⬆ 返回目录](#目录)**
 
@@ -168,6 +173,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Weak-to-Strong Generalization](https://arxiv.org/abs/2312.09390) - OpenAI 实验：强模型可超越弱监督上限，为超人类 AI 的可扩展对齐提供实验依据。`paper`
 - ⭐ [Are 'Reasoning Traces' Really Reasoning?](https://arxiv.org/abs/2504.09762) - 论证把 CoT 中间 token 称为「思维」是危险拟人化，误导对模型能力的判断。`paper`
 - ⭐ [Agentic Engineering Patterns: Hoard Things You Know How to Do](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/) - AI 时代工程师核心竞争力是知道什么可能，用 LLM 持续扩展已验证方案库。`article`
+- ⭐ [AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - 提出流程工程概念：迭代测试流程替代 prompt 优化，颠覆「更好 prompt = 更好代码」的线性假设。`paper`
 
 **[⬆ 返回目录](#目录)**
 

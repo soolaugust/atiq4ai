@@ -199,3 +199,13 @@ https://www.oneusefulthing.org/p/an-opinionated-guide-to-using-ai
 https://www.oneusefulthing.org/p/mass-intelligence
 https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini
 https://hamel.dev/blog/posts/ai-stack/index.html
+https://github.com/gsd-build/get-shit-done
+https://github.com/davidkimai/Context-Engineering
+https://github.com/oraios/serena
+https://github.com/idosal/git-mcp
+https://github.com/BoundaryML/baml
+https://github.com/emcie-co/parlant
+https://github.com/Codium-ai/AlphaCodium
+https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+https://github.com/PAIR-code/llm-comparator
+https://github.com/ShishirPatil/gorilla

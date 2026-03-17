@@ -119,6 +119,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Arena-Hard-Auto v2.0](https://github.com/lmarena/arena-hard-auto) - 与Chatbot Arena相关性最高的自动评测基准，可低成本预估模型Arena表现。`tool`
 - ⭐ [Every Layer of Review Makes You 10x Slower](https://apenwarr.ca/log/20260316) - AI只解决了管道第一步，每层审批使速度下降10倍，Tailscale CEO的组织规律分析。`article`
 - ⭐ [Tool Selection Bias in LLM Agents](https://arxiv.org/abs/2510.00307) - LLM选工具时偏见来源：措辞＞质量，位置靠前＞靠后，预训练曝光影响偏好。`paper`
+- ⭐ [LLM Writing Tropes.md](https://tropes.fyi/tropes-md) - 系统归类 AI 写作套话，可直接加入 system prompt 规避，辨别 AI 输出质量的实用参照表。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -246,6 +247,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/joonspk-research/generative_agents) - 斯坦福开创性研究：LLM驱动虚拟人物自主生活，奠定生成式智能体架构范式。`paper`
 - ⭐ [repeng — RepE Control Vectors](https://github.com/vgel/repeng) - 通过激活空间注入控制向量改变LLM行为，比prompt更底层精确。`tool`
 - ⭐ [MAGPIE — Alignment Data Synthesis](https://github.com/magpie-align/magpie) - 仅靠空 prompt 即可让对齐模型自动合成高质量指令微调数据，ICLR 2025。`paper`
+- ⭐ [Don't Trust AI Agents – NanoClaw Security Model](https://nanoclaw.dev/blog/nanoclaw-security-model) - 将 AI agent 视为潜在恶意行为者，用容器隔离替代应用层 allowlist 的安全架构设计。`article`
 - ⭐ [Cross-Encoder Rediscovers a Semantic Variant of BM25](https://www.shaped.ai/blog/cross-encoder-rediscovers-a-semantic-variant-of-bm25) - 用可解释性方法解剖 cross-encoder，发现其内部重演了 BM25 的 TF、IDF 与长度归一化。`article`
 - ⭐ [Elven Rope and LLMs](https://vgel.me/posts/elven-rope-and-llms/) - 用精灵绳索隐喻论证：极度优化的 LLM 反而生成了有偏好有个性的「人工工匠」。`article`
 - ⭐ [When AI Writes the World's Software, Who Verifies It?](https://leodemoura.github.io/blog/2026-2-28-when-ai-writes-the-worlds-software-who-verifies-it/) - Lean 创始人论证 AI 代码验证危机，提出形式化验证作为唯一可靠路径。`article`
@@ -338,6 +340,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Model Editing Relies on Shortcuts, Not Semantics](https://arxiv.org/abs/2510.00625) - 模型编辑走的是捷径而非语义整合，否定查询即可令 SOTA 崩溃。`paper`
 - ⭐ [Latent Space Recurrent Reasoning in Transformers](https://arxiv.org/abs/2510.00355) - 质疑 Transformer 推理局限来自设计空间未被充分探索，以层级推理模型实验澄清潜空间推理常见误解。`paper`
 - ⭐ [The AI Scientist](https://github.com/SakanaAI/AI-Scientist) - Sakana AI全自动科研系统：AI自主提出假说、写论文并自我审稿。`paper`
+- ⭐ [Are LLM Merge Rates Not Getting Better?](https://entropicthoughts.com/no-swe-bench-improvement) - 用统计方法重新分析 METR 数据，得出 LLM 合入率自 2025 年初停滞的反直觉结论。`article`
 
 **[⬆ 返回目录](#目录)**
 

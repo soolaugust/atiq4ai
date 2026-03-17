@@ -472,3 +472,9 @@ https://github.com/hyp1231/awesome-llm-powered-agent
 https://github.com/luo-junyu/Awesome-Agent-Papers
 https://github.com/Meirtz/Awesome-Context-Engineering
 https://github.com/VoltAgent/awesome-ai-agent-papers
+https://tropes.fyi/tropes-md
+https://entropicthoughts.com/no-swe-bench-improvement
+https://tomjohnell.com/llms-can-be-absolutely-exhausting/
+https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/
+https://nanoclaw.dev/blog/nanoclaw-security-model
+https://codespeak.dev/

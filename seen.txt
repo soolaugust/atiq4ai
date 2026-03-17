@@ -489,3 +489,11 @@ https://arxiv.org/abs/2410.05229
 https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html
 https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content
 https://economics.mit.edu/news/assuring-accurate-research-record
+https://www.beren.io/2026-01-07-AI-Monotheism-vs-AI-Polytheism/
+https://www.beren.io/2025-12-24-Initial-Quick-Thoughts-on-Singular-Learning-Theory/
+https://blog.eleuther.ai/reward_hacking/
+https://blog.eleuther.ai/deep-ignorance/
+https://research.google/blog/testing-llms-on-superconductivity-research-questions/
+https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/
+https://www.jasonwei.net/blog/life-lessons-from-reinforcement-learning
+https://www.beren.io/2026-01-01-Intellectual-Progress-in-2025/

@@ -256,6 +256,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) - 扫描 MCP server 中 prompt injection 和 tool poisoning 漏洞的安全工具。`tool`
 - [Godogen – AI Skills for Godot Game Dev](https://github.com/htdt/godogen) - 独立视觉 QA agent（只看截图）避免自我审查偏差，orchestrator/executor 分离防错误累积。`tool`
 - [I Built a Sub-500ms Latency Voice Agent from Scratch](https://www.ntik.me/posts/voice-agent) - 从零构建语音 agent：TTFT 决定一切，turn-taking 是协调而非转录问题。`article`
+- ⭐ [Singular Learning Theory: Initial Quick Thoughts](https://www.beren.io/2025-12-24-Initial-Quick-Thoughts-on-Singular-Learning-Theory/) - 提出 SGD 噪声下限可能触发 SLT 类论证的"伪奇点"假说，连接理论与大规模预训练实践。`article`
+- ⭐ [Deep Ignorance: Filtering Pretraining Data for Open-Weight Safety](https://blog.eleuther.ai/deep-ignorance/) - 预训练数据过滤比事后对齐更能构建抗篡改安全基线，实验证明可抗微调篡改。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -346,6 +348,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [NoLiMa: Long-Context Benchmark Without Lexical Overlap](https://arxiv.org/abs/2502.05167) - 无字面匹配时LLM长上下文性能大幅下降，32K时多数模型跌破基线50%。`paper`
 - ⭐ [GSM-Symbolic: Limitations of Math Reasoning in LLMs](https://arxiv.org/abs/2410.05229) - Apple研究：加一个无关子句让SOTA数学推理性能跌65%，本质是模式复制非逻辑推理。`paper`
 - ⭐ [MIT Withdraws AI Scientific Discovery Paper](https://economics.mit.edu/news/assuring-accurate-research-record) - MIT撤回AI加速科学发现高影响力论文，数据来源与可靠性存疑。`article`
+- ⭐ [AI Monotheism vs AI Polytheism](https://www.beren.io/2026-01-07-AI-Monotheism-vs-AI-Polytheism/) - 用一神论/多神论框架分析 AGI 权力格局与对齐策略，提出多神论允许多次试错的博弈论洞察。`article`
+- ⭐ [Reward Hacking Research Update](https://blog.eleuther.ai/reward_hacking/) - EleutherAI 构建可复现 reward hacking 测试床，揭示不同模型族在作弊行为泛化上的实质差异。`article`
 
 **[⬆ 返回目录](#目录)**
 

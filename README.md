@@ -50,6 +50,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Giving Your AI a Job Interview](https://www.oneusefulthing.org/p/giving-your-ai-a-job-interview) - benchmark 无法告诉你答案时，用针对你任务的面试来挑模型。`article`
 - ⭐ [Chain of Draft: Thinking Faster by Writing Less](https://arxiv.org/abs/2502.18600) - 仅用 CoT 7.6% 的 token 即可达相同准确率，证明冗长推理是表演而非必要。`paper`
 - [Hallucinations in code are the least dangerous form of LLM mistakes](https://simonwillison.net/2025/Mar/2/hallucinations-in-code/) - 代码幻觉会立即报错，逻辑正确但语义错误才是 LLM 代码的真实风险。`article`
+- [microsoft/promptbench](https://github.com/microsoft/promptbench) - 对抗性 prompt 测试 LLM 鲁棒性，量化换一种说法后模型的性能衰减。`tool`
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - 用 OpenTelemetry 标准让 AI 生产行为首次可观测，品味判断的地基。`tool`
 
 **[⬆ 返回目录](#目录)**
 
@@ -95,6 +97,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Asymmetry of Verification and Verifier's Rule](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law) - 验证者定律：AI 能被训练解决的任务，上限由验证速度决定，而非任务本身难度。`article`
 - [A Treatise on AI Chatbots Undermining the Enlightenment](https://maggieappleton.com/ai-enlightenment) - AI 让思考更顺滑，是否正在悄悄取消启蒙运动的核心遗产？`article`
 - ⭐ [CoT-Valve: Length-Compressible Chain-of-Thought Tuning](https://arxiv.org/abs/2502.09601) - 参数空间中存在可连续调节的推理长度方向，推理深度是模型的内在维度而非偶然现象。`paper`
+- ⭐ [NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - 用 Colang DSL 显式编程约束 AI 行为，暗示 prompt 根本不是可靠控制面。`tool`
 
 **[⬆ 返回目录](#目录)**
 

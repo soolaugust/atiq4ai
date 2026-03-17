@@ -191,6 +191,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Agents Over Bubbles](https://stratechery.com/2026/agents-over-bubbles/) - Ben Thompson：少数有主动性的人控制多个 Agent 即可驱动巨大经济影响，AI 不在泡沫中。`article`
 - ⭐ [Domain-Critical Dimensions: Massive Activations as Interpretable Functional Units](https://arxiv.org/abs/2603.00029) - 将 LLM 中的 massive activations 视为可解释的领域关键语义维度，并实现精准激活引导。`paper`
 - ⭐ [LLM Internal Representations and Token Matching Failure](https://vgel.me/posts/seahorse/) - 用海马表情案例剖析 LLM 内部表示与词表匹配失败的机制。`article`
+- [Many-Shot In-Context Learning](https://arxiv.org/abs/2404.11018) - 将 in-context learning 扩展至数千示例，模型自生成 rationale 可替代人工标注。`paper`
+- [The Overthinker Problem](https://arxiv.org/abs/2502.08235) - 推理模型在 agent 任务中因过度反思推翻正确结论，更强推理导致更差表现。`paper`
 - ⭐ [You're All Nuts](https://fly.io/blog/youre-all-nuts/) - 反驳 AI 怀疑论，论证 LLM 代理模式带来真实生产力提升。`article`
 - ⭐ [Animal Crossing LLM Villager](https://joshfonseca.com/blogs/animal-crossing-llm) - 用内存注入将 LLM 接入动物森友会，实现实时 AI 村民对话。`article`
 

@@ -338,3 +338,9 @@ https://arxiv.org/abs/2603.14975
 https://arxiv.org/abs/2603.15500
 https://arxiv.org/abs/2603.15527
 https://arxiv.org/abs/2603.15061
+https://arxiv.org/abs/2404.11018
+https://arxiv.org/abs/2502.08235
+https://arxiv.org/abs/2501.12599
+https://arxiv.org/abs/2406.07496
+https://platform.openai.com/docs/guides/reasoning
+https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/extended-thinking-tips

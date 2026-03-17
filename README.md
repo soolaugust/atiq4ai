@@ -357,6 +357,9 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Reward Hacking Research Update](https://blog.eleuther.ai/reward_hacking/) - EleutherAI 构建可复现 reward hacking 测试床，揭示不同模型族在作弊行为泛化上的实质差异。`article`
 - ⭐ [LLM Neuroanatomy: Topping the Leaderboard Without Changing Weights](https://dnhkng.github.io/posts/rys/) - 复制 Qwen2-72B 中间 7 层不改权重即登顶排行榜，提出 LLM 功能解剖学分区概念。`article`
 - ⭐ [GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection](https://github.com/jiaweizzhao/GaLore) - 对梯度空间做低秩投影，全参数训练却比 LoRA 内存更低，挑战效率微调固有假设。`paper`
+- ⭐ [Cognitive Behaviors that Enable Self-Improvement in LLMs](https://arxiv.org/abs/2503.01307) - 认知行为而非答案正确性决定 RL 自我提升能力，重新定义推理数据质量标准。`paper`
+- ⭐ [Are Large Language Models Worth It?](https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html) - Anthropic 研究员自曝利益冲突后追问 LLM 社会成本，示范带偏见时的认识论诚实。`article`
+- ⭐ [Machines of Ruthless Efficiency](https://nicholas.carlini.com/writing/2025/machines-of-ruthless-efficiency.html) - AI 最大风险是规模化"无情效率"而非科幻末日，为技术乐观者提供中间地带风险图景。`article`
 
 **[⬆ 返回目录](#目录)**
 

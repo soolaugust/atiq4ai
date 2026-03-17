@@ -519,3 +519,8 @@ https://github.com/openvla/openvla
 https://github.com/PKU-Alignment/safe-rlhf
 https://github.com/bigcode-project/bigcodebench
 https://github.com/microsoft/rStar
+https://arxiv.org/abs/2503.01307
+https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html
+https://nicholas.carlini.com/writing/2025/machines-of-ruthless-efficiency.html
+https://nicholas.carlini.com/writing/2025/ai-forecasting-overconfident.html
+https://www.anthropic.com/research/evaluating-ai-systems

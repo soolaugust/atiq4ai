@@ -88,3 +88,13 @@ https://github.com/instructor-ai/instructor
 https://minimaxir.com/2025/01/write-better-code/
 https://arxiv.org/abs/2501.04682
 https://github.com/microsoft/TaskWeaver
+https://eugeneyan.com/writing/product-evals/
+https://eugeneyan.com/writing/eval-process/
+https://www.seangoedecke.com/generate-skills-afterwards/
+https://www.seangoedecke.com/how-does-ai-impact-skill-formation/
+https://simonwillison.net/2026/Feb/10/showboat-and-rodney/
+https://simonwillison.net/2026/Feb/15/deep-blue/
+https://simonwillison.net/2026/Mar/9/not-so-boring/
+https://www.oneusefulthing.org/p/on-working-with-wizards
+https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the
+https://simonwillison.net/2026/Mar/5/chardet/

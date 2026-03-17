@@ -55,6 +55,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [The Shape of AI: Jaggedness, Bottlenecks and Salients](https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks) - 分析AI能力的锯齿边界、瓶颈与突破点，帮助判断何时依赖AI。`article`
 - ⭐ [Can We Get an AI to Write Better?](https://www.strangeloopcanon.com/p/can-we-get-an-ai-to-write-better) - 用熵与惊喜度量化优质写作特征，探索AI写作质量的可计算生产函数。`article`
 - ⭐ [Making LLM Code Better Through Iterative Prompting](https://minimaxir.com/2025/01/write-better-code/) - 实验探索对 LLM 代码反复说"make it better"的质量天花板与退化规律。`article`
+- ⭐ [Showboat and Rodney: agent self-verification docs](https://simonwillison.net/2026/Feb/10/showboat-and-rodney/) - 让 coding agent 用 Showboat 构建可验证的演示文档，实现 agent 自证其工。`tool`
+- [An LLM-as-Judge Won't Save The Product—Fixing Your Process Will](https://eugeneyan.com/writing/eval-process/) - 提出 EDD 框架，将科学方法引入 AI 产品开发，LLM-as-judge 不能替代流程纪律。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -80,6 +82,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Agent Symbolic Learning (Agents 2.0)](https://github.com/aiwaves-cn/agents) - 用语言梯度替代数值梯度训练 agent，将反向传播结构迁移到 prompt 优化。`tool`
 - ⭐ [The Tragedy of the Agentic Commons](https://www.strangeloopcanon.com/p/the-tragedy-of-the-agentic-commons) - 人人有 Agent 等于没有 Agent——AI 协调问题的 Hayek 解法。`article`
 - ⭐ [Meta Chain-of-Thought: Modeling the Reasoning Behind Reasoning](https://arxiv.org/abs/2501.04682) - 显式建模 CoT 背后的推理过程，揭示 CoT 只是结果而非思维本身。`paper`
+- ⭐ [LLM-generated skills work, if you generate them afterwards](https://www.seangoedecke.com/generate-skills-afterwards/) - LLM 应在解决问题后再蒸馏 skill，事先生成只会固化错误假设。`article`
+- [Perhaps not Boring Technology after all](https://simonwillison.net/2026/Mar/9/not-so-boring/) - Coding agent 通过读文档和代码示例，可在训练数据未见的库上正常工作。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -106,6 +110,9 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - [Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace) - Dario Amodei 描绘 AI 正向未来，逼问「我们究竟在为什么构建 AI」。`article`
 - ⭐ [Does RLVR Elicit Genuinely New Reasoning in LLMs?](https://arxiv.org/abs/2504.13837) - 系统性证明 RLVR 未激发新推理模式，base model pass@large-k 始终是上界。`paper`
 - ⭐ [AI Safety Is Not a Model Property](https://www.aisnakeoil.com/p/ai-safety-is-not-a-model-property) - 论证 AI 安全是部署上下文属性而非模型属性，击穿红队测试的基本假设。`article`
+- [How does AI impact skill formation?](https://www.seangoedecke.com/how-does-ai-impact-skill-formation/) - 解读 AI 对技能习得影响的论文，指出 AI 加速与学习效率的真实权衡。`article`
+- [On Working with Wizards: from co-intelligence to conjuring](https://www.oneusefulthing.org/p/on-working-with-wizards) - Ethan Mollick 描述从 AI 协作者到旁观者的转变，探讨如何验证不透明 AI 输出。`article`
+- ⭐ [Can coding agents relicense open source through clean room implementation?](https://simonwillison.net/2026/Mar/5/chardet/) - 通过 chardet 重写事件探讨 coding agent 执行 clean room 实现的法律与伦理边界。`article`
 
 **[⬆ 返回目录](#目录)**
 

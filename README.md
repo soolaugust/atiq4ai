@@ -118,6 +118,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [The Leaderboard Illusion](https://arxiv.org/abs/2504.20879) - 实证研究：Chatbot Arena 被各大厂选择性披露分数，评测公信力存疑。`paper`
 - ⭐ [Arena-Hard-Auto v2.0](https://github.com/lmarena/arena-hard-auto) - 与Chatbot Arena相关性最高的自动评测基准，可低成本预估模型Arena表现。`tool`
 - ⭐ [Every Layer of Review Makes You 10x Slower](https://apenwarr.ca/log/20260316) - AI只解决了管道第一步，每层审批使速度下降10倍，Tailscale CEO的组织规律分析。`article`
+- ⭐ [Tool Selection Bias in LLM Agents](https://arxiv.org/abs/2510.00307) - LLM选工具时偏见来源：措辞＞质量，位置靠前＞靠后，预训练曝光影响偏好。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -241,6 +242,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [PaperCoder (Paper2Code)](https://github.com/going-doer/Paper2Code) - 多智能体框架，三阶段将 ML 论文自动转化为可运行代码库。`tool`
 - ⭐ [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663) - Google提出推理时可更新长期记忆模块，打破Transformer固定上下文限制。`paper`
 - ⭐ [rStar-Math: Small LLMs Can Master Math Reasoning](https://arxiv.org/abs/2501.04519) - MCTS 自进化让 7B 小模型数学推理无蒸馏超越 o1-preview。`paper`
+- ⭐ [CoLa: Training AI as a Socratic Guide](https://arxiv.org/abs/2504.02965) - 训练 AI 作苏格拉底式引导者，小模型引导效果超越 GPT-4。`paper`
 - ⭐ [Cross-Encoder Rediscovers a Semantic Variant of BM25](https://www.shaped.ai/blog/cross-encoder-rediscovers-a-semantic-variant-of-bm25) - 用可解释性方法解剖 cross-encoder，发现其内部重演了 BM25 的 TF、IDF 与长度归一化。`article`
 - ⭐ [Elven Rope and LLMs](https://vgel.me/posts/elven-rope-and-llms/) - 用精灵绳索隐喻论证：极度优化的 LLM 反而生成了有偏好有个性的「人工工匠」。`article`
 - ⭐ [When AI Writes the World's Software, Who Verifies It?](https://leodemoura.github.io/blog/2026-2-28-when-ai-writes-the-worlds-software-who-verifies-it/) - Lean 创始人论证 AI 代码验证危机，提出形式化验证作为唯一可靠路径。`article`
@@ -330,6 +332,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [TheAgentCompany](https://github.com/TheAgentCompany/TheAgentCompany) - 175个职场任务评测 LLM agent，最强模型完成率仅24%。`paper`
 - ⭐ [Agentic Coding: The Most Important Empirical Evidence So Far](https://news.ycombinator.com/item?id=46691243) - 工程师集体回答 agentic coding 何时真正有效的经验证据帖。`article`
 - ⭐ [LLMs Still Can't Plan; Can LRMs?](https://arxiv.org/abs/2409.13373) - 用PlanBench评估o1规划能力，发现LRM仍距真正规划有显著差距。`paper`
+- ⭐ [Model Editing Relies on Shortcuts, Not Semantics](https://arxiv.org/abs/2510.00625) - 模型编辑走的是捷径而非语义整合，否定查询即可令 SOTA 崩溃。`paper`
+- ⭐ [Latent Space Recurrent Reasoning in Transformers](https://arxiv.org/abs/2510.00355) - 质疑 Transformer 推理局限来自设计空间未被充分探索，以层级推理模型实验澄清潜空间推理常见误解。`paper`
 
 **[⬆ 返回目录](#目录)**
 

@@ -453,3 +453,10 @@ https://arxiv.org/abs/2501.00663
 https://arxiv.org/abs/2409.13373
 https://arxiv.org/abs/2501.04519
 https://www.reddit.com/r/PromptEngineering/comments/1lc4tiz/forget_cot_the_prompting_technique_that_changes/
+https://arxiv.org/abs/2510.00307
+https://arxiv.org/abs/2510.00625
+https://arxiv.org/abs/2502.12566
+https://arxiv.org/abs/2504.02965
+https://arxiv.org/abs/2412.09078
+https://arxiv.org/abs/2603.00030
+https://arxiv.org/abs/2510.00355

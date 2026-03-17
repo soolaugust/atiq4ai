@@ -305,3 +305,11 @@ https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight
 https://eugeneyan.com/writing/news-agents/
 https://www.seangoedecke.com/gas-and-ralph/
 https://simonwillison.net/2026/Jan/2/ai-predictions/
+https://www.seangoedecke.com/ai-sycophancy/
+https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/
+https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/
+https://openai.com/index/sycophancy-in-gpt-4o/
+https://openai.com/index/expanding-on-sycophancy/
+https://arxiv.org/abs/2512.24601
+https://aifoc.us/the-browser-is-the-sandbox
+https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data

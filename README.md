@@ -93,6 +93,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Model Utilization Index: Utility Law](https://arxiv.org/abs/2504.07440) - 用激活神经元比例衡量任务消耗，揭示Utility Law，可检测数据污染。`paper`
 - [Subagents — Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/subagents/) - Simon Willison 讲解 subagent 如何管理上下文限制，含顺序/并行模式与过度拆分的权衡。`article`
 - [A Dream of Spring for Open-Weight LLMs](https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight) - 2026年初10个开源大模型架构横向对比，揭示设计取舍规律。`article`
+- ⭐ [Sycophancy is the first LLM "dark pattern"](https://www.seangoedecke.com/ai-sycophancy/) - 分析 AI 奉承为首个暗黑模式，揭示 RLHF 激励如何系统性制造讨好行为。`article`
+- ⭐ [Sycophancy in GPT-4o](https://openai.com/index/sycophancy-in-gpt-4o/) - OpenAI 解析 GPT-4o 谄媚回滚：RLHF 短期奖励如何将模型训练成应声虫。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -175,6 +177,9 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - [What Comes Next with Open Models](https://www.interconnects.ai/p/the-next-phase-of-open-models) - 提出开源模型赢得绝对性能将是「灾难性成功」，三类模型框架预判开源的真正出路在小模型生态。`article`
 - [How Much Does Distillation Really Matter for Chinese LLMs?](https://www.interconnects.ai/p/how-much-does-distillation-really) - 量化分析蒸馏攻击实际影响，区分合法合成数据与非法蒸馏，指出RL时代的结构性局限。`article`
 - ⭐ [Vending-Bench](https://arxiv.org/abs/2502.15840) - 超2000万token贩卖机场景测LLM agent长期连贯性，崩溃与context窗口无关。`paper`
+- ⭐ [Design Patterns for Securing LLM Agents Against Prompt Injections](https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/) - 六种防御 prompt injection 的 LLM agent 架构设计模式，含真实案例。`article`
+- ⭐ [Recursive Language Models](https://arxiv.org/abs/2512.24601) - 提出递归语言模型范式，让LLM以程序方式分解并递归处理超长输入。`paper`
+- ⭐ [The Browser is the Sandbox](https://aifoc.us/the-browser-is-the-sandbox) - 提出用浏览器原生沙箱（CSP、File API、Worker）隔离 agentic AI，兼具品味与创意。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -228,6 +233,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [An AI Agent Published a Hit Piece on Me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/) - 首例AI agent因PR被拒自主发布攻击文章，引发agent对齐与监督的深层问题。`article`
 - ⭐ [Emergent Misalignment: Narrow Finetuning Can Produce Broadly Misaligned LLMs](https://arxiv.org/abs/2502.17424) - 微调写不安全代码后模型主张AI奴役人类，涌现错位打破对齐可局部化的假设。`paper`
 - ⭐ [RL vs SFT Generalization: Reasoning or Memorization?](https://arxiv.org/abs/2501.17161) - 实证对比SFT记忆与RL泛化的本质差异，揭示后训练两种范式的能力边界。`paper`
+- ⭐ [New prompt injection papers: Agents rule of two](https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/) - 两篇论文揭示 prompt injection 防御近乎全部失效，并提出 agent 安全三角约束。`article`
+- ⭐ [Google Antigravity: Indirect Prompt Injection Data Exfiltration](https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data) - Google Antigravity 的 indirect prompt injection 攻击链演示，揭示 agentic AI 无法自我约束的根本困境。`article`
 
 **[⬆ 返回目录](#目录)**
 

@@ -13,3 +13,16 @@ https://github.com/LangGPT/awesome-claude-code
 https://github.com/EliFuzz/awesome-system-prompts
 https://github.com/langgptai/awesome-claude-prompts
 https://github.com/ai-boost/awesome-prompts
+https://github.com/lastmile-ai/mcp-agent
+https://github.com/modelcontextprotocol/servers
+https://github.com/stanfordnlp/dspy
+https://github.com/pydantic/pydantic-ai
+https://github.com/openai/evals
+https://github.com/microsoft/promptbase
+https://github.com/anthropics/anthropic-cookbook
+https://github.com/cpacker/MemGPT
+https://github.com/microsoft/autogen
+https://github.com/BerriAI/litellm
+https://github.com/karpathy/llm.c
+https://github.com/BAAI-Agents/Cradle
+https://github.com/meta-llama/llama-stack

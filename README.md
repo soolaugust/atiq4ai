@@ -263,6 +263,9 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Deep Ignorance: Filtering Pretraining Data for Open-Weight Safety](https://blog.eleuther.ai/deep-ignorance/) - 预训练数据过滤比事后对齐更能构建抗篡改安全基线，实验证明可抗微调篡改。`article`
 - ⭐ [STORM](https://github.com/stanford-oval/storm) - 多视角提问+检索自动生成维基百科级长文，验证提问比回答更重要的 AI 使用方式。`tool`
 - ⭐ [PRIME: Process Reinforcement through Implicit Rewards](https://github.com/PRIME-RL/PRIME) - 从 ORM 中隐式推导过程奖励，无需过程标注即可做在线 RL，消解 PRM 数据瓶颈。`paper`
+- ⭐ [axbench](https://github.com/stanfordnlp/axbench) - Stanford 可解释性基准，实证简单 prompt 在 model steering 上碾压 SAE，颠覆复杂可解释性方法的价值假设。`tool`
+- ⭐ [Language-Model-SAEs](https://github.com/OpenMOSS/Language-Model-SAEs) - SAE 全套框架，含 Lorsa/Crosscoder/Transcoder，提出完全稀疏化语言模型以验证特征是否是计算基本单元。`tool`
+- ⭐ [symbolic-circuit-distillation](https://github.com/neelsomani/symbolic-circuit-distillation) - 自动将神经电路蒸馏为可执行算法，用 SMT 做有界等价性验证，打通 mech interp 到人类可读算法的自动化路径。`tool`
 
 **[⬆ 返回目录](#目录)**
 

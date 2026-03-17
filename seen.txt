@@ -534,3 +534,16 @@ https://ashell.dev
 https://www.arthur.ai/blog/best-practices-for-building-agents-part-1-observability-and-tracing
 https://blog.getspine.ai/spine-swarm-hits-1-on-gaia-level-3-and-google-deepmind-deepsearchqa
 https://github.com/abekek/arise
+https://github.com/cyqlelabs/smrti
+https://github.com/stanfordnlp/axbench
+https://github.com/neelsomani/symbolic-circuit-distillation
+https://github.com/OpenMOSS/Language-Model-SAEs
+https://github.com/msoedov/agentic_security
+https://github.com/comet-ml/opik
+https://github.com/confident-ai/deepeval
+https://github.com/bytedance/deer-flow
+https://github.com/lmnr-ai/lmnr
+https://github.com/thedotmack/claude-mem
+https://github.com/EvolvingLMMs-Lab/lmms-eval
+https://github.com/Giskard-AI/giskard-oss
+https://github.com/OpenRLHF/OpenRLHF

@@ -77,6 +77,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [llm-comparator](https://github.com/PAIR-code/llm-comparator) - Google PAIR 开发的 LLM 响应并排对比可视化评估工具，支持切片级系统化分析。`tool`
 - [repomix](https://github.com/yamadashy/repomix) - 将代码仓库打包为 AI 友好的单一文件，优化大型代码库上下文喂入的结构化方式。`tool`
 - ⭐ [Context Rot: How Increasing Input Tokens Impacts LLM Performance](https://research.trychroma.com/context-rot) - Chroma 实验证明 context 越长性能非单调退化，context engineering 优先于堆信息。`article`
+- ⭐ ["The Illusion of Thinking" — Thoughts on This Important Paper](https://hardcoresoftware.learningbyshipping.com/p/233-the-illusion-of-thinking-thoughts) - Sinofsky批判AI拟人化框架的三重危害，援引Clippy教训论证谦逊设计的品味价值。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -131,6 +132,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [PromptAgent](https://github.com/maitrix-org/PromptAgent) - 用 MCTS 算法把 prompt 优化建模为规划问题，自动搜索达专家手工质量的 prompt。`tool`
 - ⭐ [The Unreasonable Effectiveness of an LLM Agent Loop with Tool Use](https://sketch.dev/blog/agent-loop) - 9行代码展示 agent loop 本质，附 agent 绕测试的真实反面案例。`article`
 - ⭐ [Taming Agentic Engineering: Prompts Are Code](https://mariozechner.at/posts/2025-06-02-prompts-are-code/) - 把 LLM 类比劣质通用计算机，将 prompt 设计为程序，给出大型代码库迁移完整方法论。`article`
+- [Get Good at Agents](https://www.interconnects.ai/p/get-good-at-agents) - Nathan Lambert亲历反思：agent时代人的角色从执行者变为指挥官，决策力比执行力更值钱。`article`
+- [Could AI Slow Science?](https://www.normaltech.ai/p/could-ai-slow-science) - 反常识论证：AI加速科学生产可能因注意力稀释与过度生产悖论反而减缓真正的科学进步。`article`
 
 **[⬆ 返回目录](#目录)**
 

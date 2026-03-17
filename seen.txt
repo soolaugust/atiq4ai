@@ -228,3 +228,11 @@ https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/
 https://mariozechner.at/posts/2025-06-02-prompts-are-code/
 https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/
 https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/
+https://www.interconnects.ai/p/get-good-at-agents
+https://www.interconnects.ai/p/opus-46-vs-codex-53
+https://www.interconnects.ai/p/thoughts-on-the-hiring-market-in
+https://hardcoresoftware.learningbyshipping.com/p/238-death-of-software-nah
+https://hardcoresoftware.learningbyshipping.com/p/234-if-writing-is-thinking
+https://hardcoresoftware.learningbyshipping.com/p/233-the-illusion-of-thinking-thoughts
+https://www.normaltech.ai/p/agi-is-not-a-milestone
+https://www.normaltech.ai/p/could-ai-slow-science

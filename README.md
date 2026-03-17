@@ -142,6 +142,11 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - [fenic](https://github.com/typedef-ai/fenic) - 声明式上下文工程框架，用类Spark API在agent外部完成extract/summarize/embed。`tool`
 - ⭐ [Context Engineering for AI Agents: Lessons from Building Manus](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus) - Manus四次重写提炼的agent context工程原则，以KV-cache命中率为核心指标。`article`
 - [Typed Languages Are Better Suited for Vibecoding](https://solmaz.io/typed-languages-are-better-suited-for-vibecoding) - 编译器静态保证让AI生成的大diff更安全，类型语言反而更适合vibe coding。`article`
+- ⭐ [Let's Think Dot by Dot: Hidden Computation in Transformer Reasoning](https://arxiv.org/abs/2404.15758) - Filler token可替代CoT提供隐性计算，LLM推理存在不可审查的隐藏计算空间。`paper`
+- ⭐ [Scaling LLM Test-Time Compute Optimally](https://arxiv.org/abs/2408.03314) - 按prompt难度自适应分配推理时计算，小模型可超越14x参数量大模型。`paper`
+- ⭐ [Teaching LLMs to Reason Like Bayesians](https://research.google/blog/teaching-llms-to-reason-like-bayesians/) - 模仿贝叶斯助手而非oracle可让LLM习得可迁移的概率推理结构。`article`
+- [Test-Time Preference Optimization](https://arxiv.org/abs/2501.12895) - 无需训练，推理时将reward转为critique迭代对齐LLM输出。`paper`
+- [Labor Market Impacts of AI: A New Measure and Early Evidence](https://www.anthropic.com/research/labor-market-impacts) - Anthropic提出observed exposure测量框架，区分自动化与增强式使用，发现高暴露职业年轻工人招聘已放缓。`article`
 
 **[⬆ 返回目录](#目录)**
 

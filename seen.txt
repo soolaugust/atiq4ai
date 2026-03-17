@@ -250,3 +250,9 @@ https://spectrum.ieee.org/ai-coding-degrades
 https://solmaz.io/typed-languages-are-better-suited-for-vibecoding
 https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/
 https://donado.co/en/articles/2025-09-16-vibe-coding-cleanup-as-a-service/
+https://arxiv.org/abs/2404.15758
+https://arxiv.org/abs/2408.03314
+https://arxiv.org/abs/2503.16419
+https://arxiv.org/abs/2501.12895
+https://www.anthropic.com/research/labor-market-impacts
+https://research.google/blog/teaching-llms-to-reason-like-bayesians/

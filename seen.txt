@@ -4,3 +4,12 @@ https://github.com/humanlayer/12-factor-agents
 https://github.com/anthropics/prompt-eng-interactive-tutorial
 https://github.com/asgeirtj/system_prompts_leaks
 https://github.com/anthropics/evals
+https://github.com/hesreallyhim/awesome-claude-code
+https://github.com/dontriskit/awesome-ai-system-prompts
+https://github.com/promptslab/Awesome-Prompt-Engineering
+https://github.com/atfortes/Awesome-LLM-Reasoning
+https://github.com/elder-plinius/CL4R1T4S
+https://github.com/LangGPT/awesome-claude-code
+https://github.com/EliFuzz/awesome-system-prompts
+https://github.com/langgptai/awesome-claude-prompts
+https://github.com/ai-boost/awesome-prompts

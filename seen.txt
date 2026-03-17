@@ -256,3 +256,9 @@ https://arxiv.org/abs/2503.16419
 https://arxiv.org/abs/2501.12895
 https://www.anthropic.com/research/labor-market-impacts
 https://research.google/blog/teaching-llms-to-reason-like-bayesians/
+https://www.nicolasbustamante.com/p/the-rag-obituary-killed-by-agents
+https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html
+https://arstechnica.com/ai/2025/08/researchers-find-llms-are-bad-at-logical-inference-good-at-fluent-nonsense/
+https://hallucinatingsplines.com
+https://dmitriid.com/prompting-llms-is-not-engineering
+https://elijahpotter.dev/articles/prompting_large_language_models_in_bash_scripts

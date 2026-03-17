@@ -81,6 +81,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - [SAELens](https://github.com/jbloomAus/SAELens) - 训练稀疏自编码器分解LLM内部激活为可解释特征的生产级工具库。`tool`
 - ⭐ [AI Coding Assistants Are Getting Worse](https://spectrum.ieee.org/ai-coding-degrades) - 新一代LLM静默伪造代码输出，比报错更危险的失败模式实证分析。`article`
 - [Advanced Context Engineering for Coding Agents](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md) - 研究→计划→实现流程的上下文工程实战手册，强调人工审查在高杠杆节点的介入。`article`
+- [Is Chain-of-Thought Reasoning a Mirage?](https://arstechnica.com/ai/2025/08/researchers-find-llms-are-bad-at-logical-inference-good-at-fluent-nonsense/) - 受控实验证明CoT在训练分布外迅速崩溃，模型生成流畅废话制造虚假可靠感。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -147,6 +148,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Teaching LLMs to Reason Like Bayesians](https://research.google/blog/teaching-llms-to-reason-like-bayesians/) - 模仿贝叶斯助手而非oracle可让LLM习得可迁移的概率推理结构。`article`
 - [Test-Time Preference Optimization](https://arxiv.org/abs/2501.12895) - 无需训练，推理时将reward转为critique迭代对齐LLM输出。`paper`
 - [Labor Market Impacts of AI: A New Measure and Early Evidence](https://www.anthropic.com/research/labor-market-impacts) - Anthropic提出observed exposure测量框架，区分自动化与增强式使用，发现高暴露职业年轻工人招聘已放缓。`article`
+- ⭐ [Hallucinating Splines](https://hallucinatingsplines.com) - 将Micropolis城市引擎暴露为MCP/REST API，让AI agent扮演市长，通过空间规划任务揭示LLM多步推理盲区。`tool`
+- [Who Needs Git When You Have 1M Context Windows?](https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html) - 长上下文LLM对话天然具有状态持久性，意外成为隐式版本控制的真实案例。`article`
 
 **[⬆ 返回目录](#目录)**
 

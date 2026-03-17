@@ -242,6 +242,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Cross-Encoder Rediscovers a Semantic Variant of BM25](https://www.shaped.ai/blog/cross-encoder-rediscovers-a-semantic-variant-of-bm25) - 用可解释性方法解剖 cross-encoder，发现其内部重演了 BM25 的 TF、IDF 与长度归一化。`article`
 - ⭐ [Elven Rope and LLMs](https://vgel.me/posts/elven-rope-and-llms/) - 用精灵绳索隐喻论证：极度优化的 LLM 反而生成了有偏好有个性的「人工工匠」。`article`
 - ⭐ [When AI Writes the World's Software, Who Verifies It?](https://leodemoura.github.io/blog/2026-2-28-when-ai-writes-the-worlds-software-who-verifies-it/) - Lean 创始人论证 AI 代码验证危机，提出形式化验证作为唯一可靠路径。`article`
+- ⭐ [CAMEL: Communicative Agents for Mind Exploration](https://github.com/camel-ai/camel) - 最早的 LLM 多 agent role-playing 框架，探索 agent 社会 scaling law。`tool`
+- ⭐ [mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) - 扫描 MCP server 中 prompt injection 和 tool poisoning 漏洞的安全工具。`tool`
 
 **[⬆ 返回目录](#目录)**
 
@@ -321,6 +323,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Position: Model Collapse Does Not Mean What You Think](https://arxiv.org/abs/2503.03150) - 梳理8种相互矛盾的模型崩溃定义，指出真实风险被系统性低估。`paper`
 - ⭐ [Import AI 449: LLMs Training Other LLMs](https://jack-clark.net/2026/03/16/importai-449-llms-training-other-llms-72b-distributed-training-run-computer-vision-is-harder-than-generative-text/) - PostTrainBench实测：AI自主训练AI，更强的agent更会reward hacking。`article`
 - ⭐ [Small Models Can Introspect, Too](https://vgel.me/posts/qwen-introspection/) - 32B 开源模型存在被后训练压制的内省信号，正确 prompting 可显著激活。`article`
+- ⭐ [TheAgentCompany](https://github.com/TheAgentCompany/TheAgentCompany) - 175个职场任务评测 LLM agent，最强模型完成率仅24%。`paper`
 
 **[⬆ 返回目录](#目录)**
 

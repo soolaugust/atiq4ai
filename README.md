@@ -85,6 +85,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Grief and the AI Split](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/) - 开发者AI分化：craft哀悼与生态哀悼的本质区别。`article`
 - [The Thing I Loved Has Changed](https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/) - 50岁程序员反思AI如何掏空编程的内在满足感与身份认同。`article`
 - ⭐ [Klarity](https://github.com/klara-research/klarity) - 基于双重熵分析和视觉注意力监控的LLM可解释性调试工具包。`tool`
+- ⭐ [nnsight](https://github.com/ndif-team/nnsight) - NDIF出品的因果干预框架，可在任意PyTorch模型上执行激活访问与修改，支持远程大模型可解释性研究。`tool`
+- ⭐ [pyvene](https://github.com/stanfordnlp/pyvene) - Stanford NLP因果干预库，支持对任意PyTorch模型内部状态做可控干预实验，验证概念编码假说。`tool`
 
 **[⬆ 返回目录](#目录)**
 
@@ -154,6 +156,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Hallucinating Splines](https://hallucinatingsplines.com) - 将Micropolis城市引擎暴露为MCP/REST API，让AI agent扮演市长，通过空间规划任务揭示LLM多步推理盲区。`tool`
 - [Who Needs Git When You Have 1M Context Windows?](https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html) - 长上下文LLM对话天然具有状态持久性，意外成为隐式版本控制的真实案例。`article`
 - ⭐ [Can LLMs Be Computers?](https://www.percepta.ai/blog/can-llms-be-computers) - 在transformer内构建计算机，执行任意C程序，以2D注意力头实现指数级推理加速。`article`
+- [veRL](https://github.com/volcengine/verl) - 字节跳动开源RLHF训练框架，支持PPO/GRPO及多轮agent强化学习训练。`tool`
 
 **[⬆ 返回目录](#目录)**
 

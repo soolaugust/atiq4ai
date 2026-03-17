@@ -267,3 +267,10 @@ https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/
 https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/
 https://www.percepta.ai/blog/can-llms-be-computers
 https://github.com/klara-research/klarity
+https://github.com/ndif-team/nnsight
+https://github.com/stanfordnlp/pyvene
+https://github.com/microsoft/PyRIT
+https://github.com/mlc-ai/xgrammar
+https://github.com/volcengine/verl
+https://github.com/Arize-ai/phoenix
+https://github.com/openlit/openlit

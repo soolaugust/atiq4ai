@@ -404,3 +404,11 @@ https://www.latent.space/p/2026
 https://eugeneyan.com/writing/aireadingclub/
 https://eugeneyan.com/writing/recsys-llm/
 https://newsletter.languagemodels.co/p/the-illustrated-neurips-2025-a-visual
+https://github.com/browser-use/browser-use
+https://github.com/agno-agi/agno
+https://github.com/LiveBench/LiveBench
+https://github.com/All-Hands-AI/OpenHands
+https://github.com/ethz-spylab/agentdojo
+https://github.com/Eladlev/AutoPrompt
+https://github.com/METR/task-standard
+https://github.com/openai/swarm

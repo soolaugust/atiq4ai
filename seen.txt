@@ -357,3 +357,7 @@ https://github.com/mlc-ai/mlc-llm
 https://github.com/cyberark/FuzzyAI
 https://github.com/microsoft/muzic
 https://github.com/roboflow/multimodal-maestro
+https://github.com/hijkzzz/Awesome-LLM-Strawberry
+https://github.com/google-deepmind/alphageometry
+https://github.com/EvolutionaryScale/esm
+https://github.com/The-Pocket/PocketFlow

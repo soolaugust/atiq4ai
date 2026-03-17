@@ -199,6 +199,9 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - [mlc-llm](https://github.com/mlc-ai/mlc-llm) - 基于 TVM 的 LLM 编译器，真正原生部署到 iOS/Android/WebGPU。`tool`
 - ⭐ [You're All Nuts](https://fly.io/blog/youre-all-nuts/) - 反驳 AI 怀疑论，论证 LLM 代理模式带来真实生产力提升。`article`
 - ⭐ [Animal Crossing LLM Villager](https://joshfonseca.com/blogs/animal-crossing-llm) - 用内存注入将 LLM 接入动物森友会，实现实时 AI 村民对话。`article`
+- ⭐ [AlphaGeometry](https://github.com/google-deepmind/alphageometry) - 神经符号混合系统，LLM 提出辅助构型、符号引擎完成演绎，IMO 2024 金牌水平。`tool`
+- ⭐ [ESM3](https://github.com/EvolutionaryScale/esm) - 序列-结构-功能三轨统一的提示式蛋白质生成模型。`tool`
+- [PocketFlow](https://github.com/The-Pocket/PocketFlow) - 100 行极简 LLM 框架，为 AI agent 可读性而设计。`tool`
 
 **[⬆ 返回目录](#目录)**
 

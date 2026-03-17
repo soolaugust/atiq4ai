@@ -380,3 +380,10 @@ https://www.wespiser.com/posts/2026-03-15-Attention-Debt-Of-AI-Tooling.html
 https://www.science.org/doi/10.1126/sciadv.adw5578
 https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/
 https://news.ycombinator.com/item?id=47394291
+https://github.com/ACE-Step/ACE-Step
+https://github.com/lean-dojo/LeanDojo
+https://github.com/lean-dojo/LeanCopilot
+https://github.com/topoteretes/cognee
+https://github.com/a16z-infra/ai-town
+https://github.com/THUDM/AgentBench
+https://github.com/ArcInstitute/evo2

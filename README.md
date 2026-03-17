@@ -211,6 +211,9 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Gradient Atoms: Unsupervised Behavioral Decomposition](https://arxiv.org/abs/2603.14665) - 对训练梯度做字典学习，无监督发现拒绝、算术等行为原子，可直接用作 steering vector 控制模型行为。`paper`
 - ⭐ [AI Lazyslop and Personal Responsibility](https://danielsada.tech/blog/ai-lazyslop-and-personal-responsibility/) - 提出AI Lazyslop概念：未经审阅的AI生成物将责任转嫁给读者，附四条反懒惰宣言。`article`
 - [The Attention Debt of AI Tooling](https://www.wespiser.com/posts/2026-03-15-Attention-Debt-Of-AI-Tooling.html) - AI工具真实成本是注意力债务，沉默执行优于对话交互。`article`
+- ⭐ [Evo 2](https://github.com/ArcInstitute/evo2) - Arc Institute的400亿参数DNA基础模型，覆盖全生命域基因组序列，用于基因功能预测与合成生物学。`tool`
+- [ACE-Step](https://github.com/ACE-Step/ACE-Step) - 音乐生成基础模型，A100上20秒生成4分钟歌曲，支持人声克隆与混音工作流。`tool`
+- [AI-Town](https://github.com/a16z-infra/ai-town) - AI Agent 虚拟小镇，可观察多智能体涌现出社会行为的可部署实验平台。`tool`
 
 **[⬆ 返回目录](#目录)**
 

@@ -152,3 +152,14 @@ https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html
 https://situational-awareness.ai/
 https://arxiv.org/abs/2404.02905
 https://arxiv.org/abs/2401.06416
+https://github.com/openai/openai-agents-python
+https://github.com/huggingface/smolagents
+https://github.com/langfuse/langfuse
+https://github.com/wandb/weave
+https://github.com/zou-group/textgrad
+https://github.com/Aider-AI/aider
+https://github.com/continuedev/continue
+https://github.com/sgl-project/sglang
+https://github.com/centerforaisafety/HarmBench
+https://github.com/punkpeye/awesome-mcp-servers
+https://github.com/microsoft/promptflow

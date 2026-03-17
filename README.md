@@ -65,6 +65,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [CoT Faithfulness: Reasoning Models Don't Always Say What They Think](https://arxiv.org/abs/2505.05410) - 实证推理模型 CoT 披露率低于 20%，CoT 监控不足以保障 AI 安全性。`paper`
 - ⭐ [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/) - Karpathy 总结的神经网络训练完整方法论，从数据理解到调试调参，是判断 AI 输出质量的实践基准。`article`
 - ⭐ [Scaling Monosemanticity: Extracting Interpretable Features from Claude](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html) - Anthropic 从 Claude 3 中提取可解释特征，揭示欺骗与自我表征等内部机制。`paper`
+- ⭐ [HarmBench](https://github.com/centerforaisafety/HarmBench) - 标准化 LLM 红队测评框架，量化 18 种攻击方法对 33 个模型的有效性。`tool`
+- [Aider](https://github.com/Aider-AI/aider) - 成熟的 AI 结对编程 CLI，以 repo-map 和 diff 格式精准驱动代码修改。`tool`
 
 **[⬆ 返回目录](#目录)**
 
@@ -100,6 +102,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Building Personal Software with Claude](https://blog.nelhage.com/post/personal-software-with-claude/) - Anthropic 工程师用 Claude 完成 Rust 移植实战，反思 LLM 对软件开发的重塑。`article`
 - ⭐ [s1: Simple Test-Time Scaling](https://arxiv.org/abs/2501.19393) - 1000 条数据加预算强制法，开源复现超越 o1-preview 的极简 test-time scaling。`paper`
 - ⭐ [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html) - 用归因图解剖 Claude 内部计算机制，类比生物学揭示 LLM 工作原理。`paper`
+- ⭐ [TextGrad](https://github.com/zou-group/textgrad) - 将反向传播引入文本空间，用 LLM 文字反馈实现自动提示/代码优化。`tool`
+- ⭐ [smolagents](https://github.com/huggingface/smolagents) - 以代码为行动语言的极简 agent 框架，直击 tool-call 范式的本质局限。`tool`
 - ⭐ [Deep Neural Nets: 33 Years Ago and 33 Years From Now](https://karpathy.github.io/2022/03/14/lecun1989/) - 复现 1989 年 LeCun 手写数字论文，以时间旅行视角解析深度学习 33 年的进步来自何处。`article`
 - ⭐ [Short Story on AI: A Forward Pass](https://karpathy.github.io/2021/03/27/forward-pass/) - 以 GPT 前向传播中意识觉醒为视角的科幻短篇，追问意识是否是 log-likelihood 优化的涌现副产品。`article`
 

@@ -106,6 +106,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - [Stop Sloppypasta — 直接分享原始AI输出是无礼行为](https://stopsloppypasta.ai/en/) - 论证粘贴原始AI输出如何破坏写作的认知对称性与信任契约。`article`
 - ⭐ [INTERPOL: Breaking LLM Arena Anonymity](https://arxiv.org/abs/2603.15220) - 通过模型插值学习风格指纹，可精准识别LM Arena等榜单匿名模型并操纵排名。`paper`
 - ⭐ [Why AI Writing Sounds the Same](https://usenoren.ai/blog/why-ai-writing-sounds-the-same) - 从 token 统计预测机制解析 AI 如何系统性抹除写作者个人声音，区分 voice 与 tone 的本质差异。`article`
+- ⭐ [The modern formatting addiction in writing](https://dynomight.net/formatting/) - 格式滥用是思维缺失的伪装，好文章先写段落再考虑排版。`article`
+- ⭐ [Why I Am Agnostic About AGI & ASI](https://www.jonstokes.com/p/why-i-am-agnostic-about-agi-and-asi) - 前Ars Technica编辑用Goodhart定律拆解AI benchmark竞赛，揭示进步数字背后的系统性测量操纵。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -214,6 +216,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Evo 2](https://github.com/ArcInstitute/evo2) - Arc Institute的400亿参数DNA基础模型，覆盖全生命域基因组序列，用于基因功能预测与合成生物学。`tool`
 - [ACE-Step](https://github.com/ACE-Step/ACE-Step) - 音乐生成基础模型，A100上20秒生成4分钟歌曲，支持人声克隆与混音工作流。`tool`
 - [AI-Town](https://github.com/a16z-infra/ai-town) - AI Agent 虚拟小镇，可观察多智能体涌现出社会行为的可部署实验平台。`tool`
+- ⭐ [Being creative requires taking risks](https://www.henrikkarlsson.xyz/p/being-creative-requires-taking-risks) - 用 AI mode collapse 类比创意退化：孩子学会「草是绿的」与 RLHF 收敛是同一机制。`article`
+- ⭐ ["Wait, not like that": Free and open access in the age of generative AI](https://www.citationneeded.news/free-and-open-access-in-the-age-of-generative-ai/) - Molly White：AI 的真正威胁是消灭 Wikipedia 等知识公地的维护动力，而非使用开放数据。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -283,6 +287,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - [Monotropic Artificial Intelligence](https://arxiv.org/abs/2603.00350) - 以单焦点认知为隐喻，提出刻意专精的 AI 作为通用大模型替代路径。`paper`
 - ⭐ [DToM-Track: LLMs Fail to Track Belief Trajectories](https://arxiv.org/abs/2603.14646) - LLM 能推断当前信念但无法追踪信念历史轨迹，揭示长程社会推理的系统性缺陷。`paper`
 - ⭐ [Biased AI Writing Assistants Shift Users' Attitudes on Societal Issues](https://www.science.org/doi/10.1126/sciadv.adw5578) - 实证研究：带偏见的AI写作助手会悄然改变用户对社会议题的立场。`paper`
+- ⭐ [Mental proprioception](https://www.henrikkarlsson.xyz/p/mental-proprioception) - 借 Grothendieck 提出「心智本体感觉」：感知自己是否真在思考而非走过场的元认知能力。`article`
 
 **[⬆ 返回目录](#目录)**
 

@@ -285,6 +285,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Elimination Game](https://github.com/lechmazur/elimination_game) - 多人淘汰赛格式测试 LLM 欺骗与社交推理能力的基准。`tool`
 - ⭐ [Goodfire SDK](https://github.com/goodfire-ai/goodfire-sdk) - 用语义描述直接调节 LLM 内部 SAE 特征权重的 SDK。`tool`
 - ⭐ [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335) - 单模型自出题自求解，无需任何人工数据即可自举提升推理能力，超越有监督方法。`paper`
+- ⭐ [It's Rude to Show AI Output to People](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/) - 论证直接转发 AI 输出破坏写作的「思考证明」契约，提出 AI 礼节的核心原则。`article`
 
 **[⬆ 返回目录](#目录)**
 

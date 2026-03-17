@@ -112,6 +112,9 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [METR Task Standard](https://github.com/METR/task-standard) - METR 定义的 AI agent 评测任务标准，含多套主流 eval 适配器。`tool`
 - ⭐ [openai/swarm](https://github.com/openai/swarm) - OpenAI 极简多 agent 框架，仅 Agent+Handoff 两原语，是对框架复杂度的有力品味声明。`tool`
 - ⭐ [Can I Run AI Locally?](https://www.canirun.ai/) - 浏览器内检测硬件，告知你能跑哪些本地 AI 模型。`tool`
+- ⭐ [Invisible Failures in AI Systems](https://arxiv.org/abs/2603.15423) - 大规模分析发现78%的AI失败无外显反馈，94%交互型失败在更强模型下仍持续，建立8类隐性失败分类体系。`paper`
+- ⭐ [HorizonSearch: LLM Judges Prefer Ideas That Never Get Published](https://arxiv.org/abs/2603.15164) - 时间分割框架证明LLM评审系统性偏爱无落地的新颖想法，与真实引用影响力负相关。`paper`
+- ⭐ [SDT Decomposition of LLM Calibration](https://arxiv.org/abs/2603.14893) - SDT框架拆解LLM校准，证伪temperature仅改变置信度的类比假设。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -231,6 +234,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - [AutoPrompt](https://github.com/Eladlev/AutoPrompt) - 迭代构建edge case数据集，自动优化prompt鲁棒性的框架。`tool`
 - ⭐ [Agent Browser Protocol](https://github.com/theredsix/agent-browser-protocol) - 将Chromium改造为MCP服务，每次动作后冻结JS并返回稳定页面状态，消除agent与浏览器的异步竞态。`tool`
 - ⭐ [Mog – A Programming Language Designed to Be Written by LLMs](https://moglang.org) - 专为LLM生成代码设计的嵌入式编译语言，规范仅3200 token，无运算符优先级，能力沙盒化。`tool`
+- [OpenSeeker: Frontier Search Agent with 11.7k Samples](https://arxiv.org/abs/2603.15594) - 11.7k样本单次SFT超越工业级搜索agent，证明数据质量比规模更关键。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -305,6 +309,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [GNoME](https://github.com/google-deepmind/materials_discovery) - 用图神经网络发现38万种新晶体，追问AI驱动科学发现的速度极限。`paper`
 - ⭐ [LiveBench](https://github.com/LiveBench/LiveBench) - 按月换题、客观评分的LLM基准，用时效性数据抗训练集污染。`tool`
 - [How We Hacked McKinsey's AI Platform](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform) - AI攻击agent自主选目标，2小时无凭证拿下麦肯锡内部AI平台全库读写权限。`article`
+- ⭐ [CCTU: No LLM Exceeds 20% Success Under Complex Constraints](https://arxiv.org/abs/2603.15309) - 评估9个LLM在12类约束下工具使用能力，全部完成率低于20%，自我修正能力极为有限。`paper`
+- [Silent Empathy: AI Writes Better But Feels Less Human](https://arxiv.org/abs/2603.15245) - LLM共情回复盲评更优，但接受者知晓AI来源后感觉更不被理解，发现人类沉默共情效应。`paper`
 
 **[⬆ 返回目录](#目录)**
 

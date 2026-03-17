@@ -418,3 +418,10 @@ https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform
 https://www.canirun.ai/
 https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job
 https://news.ycombinator.com/newsguidelines.html
+https://arxiv.org/abs/2603.15423
+https://arxiv.org/abs/2603.15164
+https://arxiv.org/abs/2603.15245
+https://arxiv.org/abs/2603.14893
+https://arxiv.org/abs/2603.15611
+https://arxiv.org/abs/2603.15594
+https://arxiv.org/abs/2603.15309

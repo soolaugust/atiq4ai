@@ -243,6 +243,9 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663) - Google提出推理时可更新长期记忆模块，打破Transformer固定上下文限制。`paper`
 - ⭐ [rStar-Math: Small LLMs Can Master Math Reasoning](https://arxiv.org/abs/2501.04519) - MCTS 自进化让 7B 小模型数学推理无蒸馏超越 o1-preview。`paper`
 - ⭐ [CoLa: Training AI as a Socratic Guide](https://arxiv.org/abs/2504.02965) - 训练 AI 作苏格拉底式引导者，小模型引导效果超越 GPT-4。`paper`
+- ⭐ [Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/joonspk-research/generative_agents) - 斯坦福开创性研究：LLM驱动虚拟人物自主生活，奠定生成式智能体架构范式。`paper`
+- ⭐ [repeng — RepE Control Vectors](https://github.com/vgel/repeng) - 通过激活空间注入控制向量改变LLM行为，比prompt更底层精确。`tool`
+- ⭐ [MAGPIE — Alignment Data Synthesis](https://github.com/magpie-align/magpie) - 仅靠空 prompt 即可让对齐模型自动合成高质量指令微调数据，ICLR 2025。`paper`
 - ⭐ [Cross-Encoder Rediscovers a Semantic Variant of BM25](https://www.shaped.ai/blog/cross-encoder-rediscovers-a-semantic-variant-of-bm25) - 用可解释性方法解剖 cross-encoder，发现其内部重演了 BM25 的 TF、IDF 与长度归一化。`article`
 - ⭐ [Elven Rope and LLMs](https://vgel.me/posts/elven-rope-and-llms/) - 用精灵绳索隐喻论证：极度优化的 LLM 反而生成了有偏好有个性的「人工工匠」。`article`
 - ⭐ [When AI Writes the World's Software, Who Verifies It?](https://leodemoura.github.io/blog/2026-2-28-when-ai-writes-the-worlds-software-who-verifies-it/) - Lean 创始人论证 AI 代码验证危机，提出形式化验证作为唯一可靠路径。`article`
@@ -334,6 +337,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [LLMs Still Can't Plan; Can LRMs?](https://arxiv.org/abs/2409.13373) - 用PlanBench评估o1规划能力，发现LRM仍距真正规划有显著差距。`paper`
 - ⭐ [Model Editing Relies on Shortcuts, Not Semantics](https://arxiv.org/abs/2510.00625) - 模型编辑走的是捷径而非语义整合，否定查询即可令 SOTA 崩溃。`paper`
 - ⭐ [Latent Space Recurrent Reasoning in Transformers](https://arxiv.org/abs/2510.00355) - 质疑 Transformer 推理局限来自设计空间未被充分探索，以层级推理模型实验澄清潜空间推理常见误解。`paper`
+- ⭐ [The AI Scientist](https://github.com/SakanaAI/AI-Scientist) - Sakana AI全自动科研系统：AI自主提出假说、写论文并自我审稿。`paper`
 
 **[⬆ 返回目录](#目录)**
 

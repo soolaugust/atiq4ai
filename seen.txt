@@ -460,3 +460,15 @@ https://arxiv.org/abs/2504.02965
 https://arxiv.org/abs/2412.09078
 https://arxiv.org/abs/2603.00030
 https://arxiv.org/abs/2510.00355
+https://github.com/joonspk-research/generative_agents
+https://github.com/SakanaAI/AI-Scientist
+https://github.com/CHATS-lab/verbalized-sampling
+https://github.com/vgel/repeng
+https://github.com/magpie-align/magpie
+https://github.com/Future-House/aviary
+https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data
+https://github.com/IAAR-Shanghai/Awesome-AI-Memory
+https://github.com/hyp1231/awesome-llm-powered-agent
+https://github.com/luo-junyu/Awesome-Agent-Papers
+https://github.com/Meirtz/Awesome-Context-Engineering
+https://github.com/VoltAgent/awesome-ai-agent-papers

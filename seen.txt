@@ -444,3 +444,8 @@ https://github.com/camel-ai/camel
 https://github.com/sierra-research/tau-bench
 https://github.com/web-arena-x/webarena
 https://github.com/dair-ai/Prompt-Engineering-Guide
+https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/
+https://news.ycombinator.com/item?id=46691243
+https://github.com/htdt/godogen
+https://www.ntik.me/posts/voice-agent
+https://agent-safehouse.dev/

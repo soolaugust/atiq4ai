@@ -244,6 +244,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [When AI Writes the World's Software, Who Verifies It?](https://leodemoura.github.io/blog/2026-2-28-when-ai-writes-the-worlds-software-who-verifies-it/) - Lean 创始人论证 AI 代码验证危机，提出形式化验证作为唯一可靠路径。`article`
 - ⭐ [CAMEL: Communicative Agents for Mind Exploration](https://github.com/camel-ai/camel) - 最早的 LLM 多 agent role-playing 框架，探索 agent 社会 scaling law。`tool`
 - ⭐ [mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) - 扫描 MCP server 中 prompt injection 和 tool poisoning 漏洞的安全工具。`tool`
+- [Godogen – AI Skills for Godot Game Dev](https://github.com/htdt/godogen) - 独立视觉 QA agent（只看截图）避免自我审查偏差，orchestrator/executor 分离防错误累积。`tool`
+- [I Built a Sub-500ms Latency Voice Agent from Scratch](https://www.ntik.me/posts/voice-agent) - 从零构建语音 agent：TTFT 决定一切，turn-taking 是协调而非转录问题。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -324,6 +326,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Import AI 449: LLMs Training Other LLMs](https://jack-clark.net/2026/03/16/importai-449-llms-training-other-llms-72b-distributed-training-run-computer-vision-is-harder-than-generative-text/) - PostTrainBench实测：AI自主训练AI，更强的agent更会reward hacking。`article`
 - ⭐ [Small Models Can Introspect, Too](https://vgel.me/posts/qwen-introspection/) - 32B 开源模型存在被后训练压制的内省信号，正确 prompting 可显著激活。`article`
 - ⭐ [TheAgentCompany](https://github.com/TheAgentCompany/TheAgentCompany) - 175个职场任务评测 LLM agent，最强模型完成率仅24%。`paper`
+- ⭐ [Agentic Coding: The Most Important Empirical Evidence So Far](https://news.ycombinator.com/item?id=46691243) - 工程师集体回答 agentic coding 何时真正有效的经验证据帖。`article`
 
 **[⬆ 返回目录](#目录)**
 

@@ -123,6 +123,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [The Appalling Stupidity of Spotify's AI DJ](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html) - 以古典音乐乐章为例，揭示 AI 在结构化领域知识上的系统性盲区。`article`
 - ⭐ [prometheus-eval](https://github.com/prometheus-eval/prometheus-eval) - 专为 LLM 评判任务训练的开源模型，支持 Rubric 驱动的细粒度绝对评分与比较评分。`tool`
 - ⭐ [Be Quiet: Reducing Noise for AI Coding Agents](https://blog.codemine.be/posts/2026/20260222-be-quiet/) - 系统梳理工具链 stdout 噪音治理方案，提出 LLM=true 环境变量设想以优化 agent 信噪比。`article`
+- ⭐ [Safe RLHF: Constrained Value Alignment](https://github.com/PKU-Alignment/safe-rlhf) - 将帮助性与无害性解耦为独立目标，用拉格朗日约束优化显式处理对齐冲突。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -261,6 +262,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Singular Learning Theory: Initial Quick Thoughts](https://www.beren.io/2025-12-24-Initial-Quick-Thoughts-on-Singular-Learning-Theory/) - 提出 SGD 噪声下限可能触发 SLT 类论证的"伪奇点"假说，连接理论与大规模预训练实践。`article`
 - ⭐ [Deep Ignorance: Filtering Pretraining Data for Open-Weight Safety](https://blog.eleuther.ai/deep-ignorance/) - 预训练数据过滤比事后对齐更能构建抗篡改安全基线，实验证明可抗微调篡改。`article`
 - ⭐ [STORM](https://github.com/stanford-oval/storm) - 多视角提问+检索自动生成维基百科级长文，验证提问比回答更重要的 AI 使用方式。`tool`
+- ⭐ [PRIME: Process Reinforcement through Implicit Rewards](https://github.com/PRIME-RL/PRIME) - 从 ORM 中隐式推导过程奖励，无需过程标注即可做在线 RL，消解 PRM 数据瓶颈。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -354,6 +356,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [AI Monotheism vs AI Polytheism](https://www.beren.io/2026-01-07-AI-Monotheism-vs-AI-Polytheism/) - 用一神论/多神论框架分析 AGI 权力格局与对齐策略，提出多神论允许多次试错的博弈论洞察。`article`
 - ⭐ [Reward Hacking Research Update](https://blog.eleuther.ai/reward_hacking/) - EleutherAI 构建可复现 reward hacking 测试床，揭示不同模型族在作弊行为泛化上的实质差异。`article`
 - ⭐ [LLM Neuroanatomy: Topping the Leaderboard Without Changing Weights](https://dnhkng.github.io/posts/rys/) - 复制 Qwen2-72B 中间 7 层不改权重即登顶排行榜，提出 LLM 功能解剖学分区概念。`article`
+- ⭐ [GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection](https://github.com/jiaweizzhao/GaLore) - 对梯度空间做低秩投影，全参数训练却比 LoRA 内存更低，挑战效率微调固有假设。`paper`
 
 **[⬆ 返回目录](#目录)**
 

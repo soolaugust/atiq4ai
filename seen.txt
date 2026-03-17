@@ -44,3 +44,11 @@ https://github.com/openai/openai-cookbook/blob/main/examples/gpt4-1_prompting_gu
 https://www.kaggle.com/whitepaper-prompt-engineering
 https://github.com/NirDiamant/Prompt_Engineering
 https://www.anthropic.com/learn
+https://hamel.dev/blog/posts/llm-judge/
+https://www.anthropic.com/engineering/building-effective-agents
+https://simonwillison.net/guides/agentic-engineering-patterns/
+https://eugeneyan.com/writing/prompting/
+https://eugeneyan.com/writing/evals/
+https://nicholas.carlini.com/writing/2024/how-i-use-ai.html
+https://www.oneusefulthing.org/p/getting-started-with-ai-good-enough
+https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/

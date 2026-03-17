@@ -393,3 +393,10 @@ https://www.personalcanon.com/p/weve-created-a-society-where-artists
 https://dynomight.net/formatting/
 https://www.citationneeded.news/free-and-open-access-in-the-age-of-generative-ai/
 https://www.jonstokes.com/p/why-i-am-agnostic-about-agi-and-asi
+https://github.com/andyzoujm/representation-engineering
+https://github.com/EleutherAI/concept-erasure
+https://github.com/microsoft/aurora
+https://github.com/google-deepmind/materials_discovery
+https://github.com/openreasoner/openr
+https://github.com/hpcaitech/Open-Sora
+https://github.com/microsoft/mattersim

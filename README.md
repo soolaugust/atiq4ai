@@ -218,6 +218,9 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - [AI-Town](https://github.com/a16z-infra/ai-town) - AI Agent 虚拟小镇，可观察多智能体涌现出社会行为的可部署实验平台。`tool`
 - ⭐ [Being creative requires taking risks](https://www.henrikkarlsson.xyz/p/being-creative-requires-taking-risks) - 用 AI mode collapse 类比创意退化：孩子学会「草是绿的」与 RLHF 收敛是同一机制。`article`
 - ⭐ ["Wait, not like that": Free and open access in the age of generative AI](https://www.citationneeded.news/free-and-open-access-in-the-age-of-generative-ai/) - Molly White：AI 的真正威胁是消灭 Wikipedia 等知识公地的维护动力，而非使用开放数据。`article`
+- ⭐ [Representation Engineering](https://github.com/andyzoujm/representation-engineering) - 读写LLM内部表示以检测和调控诚实度、情绪、偏见等行为的透明化框架。`paper`
+- [Aurora](https://github.com/microsoft/aurora) - 微软地球系统基础模型，跨大气海洋多变量预测，发表于Nature。`paper`
+- [OpenR](https://github.com/openreasoner/openr) - 集成MCTS、PRM和多种搜索策略的开源o1式LLM推理增强框架。`tool`
 
 **[⬆ 返回目录](#目录)**
 
@@ -288,6 +291,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [DToM-Track: LLMs Fail to Track Belief Trajectories](https://arxiv.org/abs/2603.14646) - LLM 能推断当前信念但无法追踪信念历史轨迹，揭示长程社会推理的系统性缺陷。`paper`
 - ⭐ [Biased AI Writing Assistants Shift Users' Attitudes on Societal Issues](https://www.science.org/doi/10.1126/sciadv.adw5578) - 实证研究：带偏见的AI写作助手会悄然改变用户对社会议题的立场。`paper`
 - ⭐ [Mental proprioception](https://www.henrikkarlsson.xyz/p/mental-proprioception) - 借 Grothendieck 提出「心智本体感觉」：感知自己是否真在思考而非走过场的元认知能力。`article`
+- ⭐ [Concept Erasure (LEACE)](https://github.com/EleutherAI/concept-erasure) - 用LEACE方法从神经网络激活中线性擦除指定概念，具可证明保证。`tool`
+- ⭐ [GNoME](https://github.com/google-deepmind/materials_discovery) - 用图神经网络发现38万种新晶体，追问AI驱动科学发现的速度极限。`paper`
 
 **[⬆ 返回目录](#目录)**
 

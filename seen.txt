@@ -400,3 +400,7 @@ https://github.com/google-deepmind/materials_discovery
 https://github.com/openreasoner/openr
 https://github.com/hpcaitech/Open-Sora
 https://github.com/microsoft/mattersim
+https://www.latent.space/p/2026
+https://eugeneyan.com/writing/aireadingclub/
+https://eugeneyan.com/writing/recsys-llm/
+https://newsletter.languagemodels.co/p/the-illustrated-neurips-2025-a-visual

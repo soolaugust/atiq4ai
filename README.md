@@ -108,6 +108,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Why AI Writing Sounds the Same](https://usenoren.ai/blog/why-ai-writing-sounds-the-same) - 从 token 统计预测机制解析 AI 如何系统性抹除写作者个人声音，区分 voice 与 tone 的本质差异。`article`
 - ⭐ [The modern formatting addiction in writing](https://dynomight.net/formatting/) - 格式滥用是思维缺失的伪装，好文章先写段落再考虑排版。`article`
 - ⭐ [Why I Am Agnostic About AGI & ASI](https://www.jonstokes.com/p/why-i-am-agnostic-about-agi-and-asi) - 前Ars Technica编辑用Goodhart定律拆解AI benchmark竞赛，揭示进步数字背后的系统性测量操纵。`article`
+- ⭐ [The 2026 of AI Engineering — War on Slop](https://www.latent.space/p/2026) - swyx提出scaling without slop框架：AI时代核心是改变低质输出的斜率而非二元对立。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -221,6 +222,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Representation Engineering](https://github.com/andyzoujm/representation-engineering) - 读写LLM内部表示以检测和调控诚实度、情绪、偏见等行为的透明化框架。`paper`
 - [Aurora](https://github.com/microsoft/aurora) - 微软地球系统基础模型，跨大气海洋多变量预测，发表于Nature。`paper`
 - [OpenR](https://github.com/openreasoner/openr) - 集成MCTS、PRM和多种搜索策略的开源o1式LLM推理增强框架。`tool`
+- [Building AI Reading Club](https://eugeneyan.com/writing/aireadingclub/) - 用选中文本+全书语境构建阅读伴侣Dewey，AI辅助深度阅读的可复现原型。`article`
 
 **[⬆ 返回目录](#目录)**
 

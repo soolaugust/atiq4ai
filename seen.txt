@@ -313,3 +313,10 @@ https://openai.com/index/expanding-on-sycophancy/
 https://arxiv.org/abs/2512.24601
 https://aifoc.us/the-browser-is-the-sandbox
 https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data
+https://arxiv.org/abs/2603.00350
+https://arxiv.org/abs/2603.00829
+https://arxiv.org/abs/2603.00801
+https://arxiv.org/abs/2603.00917
+https://arxiv.org/abs/2603.00808
+https://arxiv.org/abs/2603.01209
+https://arxiv.org/abs/2603.00029

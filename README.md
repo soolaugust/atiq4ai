@@ -122,6 +122,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [LLM Writing Tropes.md](https://tropes.fyi/tropes-md) - 系统归类 AI 写作套话，可直接加入 system prompt 规避，辨别 AI 输出质量的实用参照表。`article`
 - ⭐ [The Appalling Stupidity of Spotify's AI DJ](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html) - 以古典音乐乐章为例，揭示 AI 在结构化领域知识上的系统性盲区。`article`
 - ⭐ [prometheus-eval](https://github.com/prometheus-eval/prometheus-eval) - 专为 LLM 评判任务训练的开源模型，支持 Rubric 驱动的细粒度绝对评分与比较评分。`tool`
+- ⭐ [Be Quiet: Reducing Noise for AI Coding Agents](https://blog.codemine.be/posts/2026/20260222-be-quiet/) - 系统梳理工具链 stdout 噪音治理方案，提出 LLM=true 环境变量设想以优化 agent 信噪比。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -352,6 +353,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [MIT Withdraws AI Scientific Discovery Paper](https://economics.mit.edu/news/assuring-accurate-research-record) - MIT撤回AI加速科学发现高影响力论文，数据来源与可靠性存疑。`article`
 - ⭐ [AI Monotheism vs AI Polytheism](https://www.beren.io/2026-01-07-AI-Monotheism-vs-AI-Polytheism/) - 用一神论/多神论框架分析 AGI 权力格局与对齐策略，提出多神论允许多次试错的博弈论洞察。`article`
 - ⭐ [Reward Hacking Research Update](https://blog.eleuther.ai/reward_hacking/) - EleutherAI 构建可复现 reward hacking 测试床，揭示不同模型族在作弊行为泛化上的实质差异。`article`
+- ⭐ [LLM Neuroanatomy: Topping the Leaderboard Without Changing Weights](https://dnhkng.github.io/posts/rys/) - 复制 Qwen2-72B 中间 7 层不改权重即登顶排行榜，提出 LLM 功能解剖学分区概念。`article`
 
 **[⬆ 返回目录](#目录)**
 

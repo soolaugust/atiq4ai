@@ -507,3 +507,8 @@ https://github.com/argilla-io/distilabel
 https://github.com/bytedance/UI-TARS
 https://github.com/mastra-ai/mastra
 https://github.com/mem0ai/mem0
+https://tomjohnell.com/llms-can-be-absolutely-exhausting/
+https://dnhkng.github.io/posts/rys/
+https://blog.codemine.be/posts/2026/20260222-be-quiet/
+https://news.ycombinator.com/newsguidelines.html#generated
+https://www.mendral.com/blog/llms-are-good-at-sql

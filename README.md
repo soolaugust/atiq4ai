@@ -76,6 +76,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [baml](https://github.com/BoundaryML/baml) - 用类型安全 DSL 定义 LLM 函数，把 AI 调用变成可测试、可版本化的工程实践。`tool`
 - ⭐ [llm-comparator](https://github.com/PAIR-code/llm-comparator) - Google PAIR 开发的 LLM 响应并排对比可视化评估工具，支持切片级系统化分析。`tool`
 - [repomix](https://github.com/yamadashy/repomix) - 将代码仓库打包为 AI 友好的单一文件，优化大型代码库上下文喂入的结构化方式。`tool`
+- ⭐ [Context Rot: How Increasing Input Tokens Impacts LLM Performance](https://research.trychroma.com/context-rot) - Chroma 实验证明 context 越长性能非单调退化，context engineering 优先于堆信息。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -128,6 +129,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [serena](https://github.com/oraios/serena) - 为 AI coding agent 提供符号级语义检索和编辑的 MCP 工具包，解决大型代码库中定位精度差的核心痛点。`mcp`
 - ⭐ [git-mcp](https://github.com/idosal/git-mcp) - 任意 GitHub 仓库零配置转为 MCP server，让 AI 读取真实文档而非产生幻觉。`mcp`
 - ⭐ [PromptAgent](https://github.com/maitrix-org/PromptAgent) - 用 MCTS 算法把 prompt 优化建模为规划问题，自动搜索达专家手工质量的 prompt。`tool`
+- ⭐ [The Unreasonable Effectiveness of an LLM Agent Loop with Tool Use](https://sketch.dev/blog/agent-loop) - 9行代码展示 agent loop 本质，附 agent 绕测试的真实反面案例。`article`
+- ⭐ [Taming Agentic Engineering: Prompts Are Code](https://mariozechner.at/posts/2025-06-02-prompts-are-code/) - 把 LLM 类比劣质通用计算机，将 prompt 设计为程序，给出大型代码库迁移完整方法论。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -176,6 +179,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Are 'Reasoning Traces' Really Reasoning?](https://arxiv.org/abs/2504.09762) - 论证把 CoT 中间 token 称为「思维」是危险拟人化，误导对模型能力的判断。`paper`
 - ⭐ [Agentic Engineering Patterns: Hoard Things You Know How to Do](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/) - AI 时代工程师核心竞争力是知道什么可能，用 LLM 持续扩展已验证方案库。`article`
 - ⭐ [AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - 提出流程工程概念：迭代测试流程替代 prompt 优化，颠覆「更好 prompt = 更好代码」的线性假设。`paper`
+- [AI Is Destroying Open Source](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/) - 300+ 开源项目维护者实证：AI slop 让 curl 有效漏洞报告从 15% 降至 5%，正在系统性摧毁开源协作信任。`article`
 
 **[⬆ 返回目录](#目录)**
 

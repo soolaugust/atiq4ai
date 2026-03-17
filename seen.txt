@@ -221,3 +221,10 @@ https://github.com/tadata-org/fastapi_mcp
 https://github.com/executeautomation/mcp-playwright
 https://github.com/yamadashy/repomix
 https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs
+https://sketch.dev/blog/agent-loop
+https://crawshaw.io/blog/eight-more-months-of-agents
+https://research.trychroma.com/context-rot
+https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/
+https://mariozechner.at/posts/2025-06-02-prompts-are-code/
+https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/
+https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/

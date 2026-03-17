@@ -80,3 +80,11 @@ https://www.strangeloopcanon.com/p/can-we-get-an-ai-to-write-better
 https://www.strangeloopcanon.com/p/the-tragedy-of-the-agentic-commons
 https://darioamodei.com/machines-of-loving-grace
 https://karpathy.github.io/2026/02/12/microgpt/
+https://arxiv.org/abs/2412.14161
+https://arxiv.org/abs/2504.13837
+https://www.aisnakeoil.com/p/ai-safety-is-not-a-model-property
+https://www.anthropic.com/research/building-effective-agents
+https://github.com/instructor-ai/instructor
+https://minimaxir.com/2025/01/write-better-code/
+https://arxiv.org/abs/2501.04682
+https://github.com/microsoft/TaskWeaver

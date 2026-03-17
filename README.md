@@ -61,6 +61,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [METR Time Horizons: Measuring AI Ability to Complete Long Tasks](https://arxiv.org/abs/2503.14499) - 用任务完成时间视界衡量 AI agent 能力，前沿模型时间视界每7个月翻倍。`paper`
 - [Understanding the 4 Main Approaches to LLM Evaluation](https://magazine.sebastianraschka.com/p/llm-evaluation-4-approaches) - 系统拆解LLM四类评估方法，带代码，帮助识别评测结果背后的方法论偏差。`article`
 - [Tools for Thought as Cultural Practices](https://maggieappleton.com/tools-for-thought) - 用人类学视角理解思维工具历史，为评判AI工具是否真正增强认知提供参照系。`article`
+- ⭐ [Common Pitfalls When Building Generative AI Applications](https://huyenchip.com/2025/01/16/ai-engineering-pitfalls.html) - Chip Huyen 总结构建 GenAI 应用的常见陷阱，案例真实、判断力强。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -92,6 +93,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - [Claude Code and What Comes Next](https://www.oneusefulthing.org/p/claude-code-and-what-comes-next) - Mollick 实测 Claude Code 独立工作74分钟，从零构建并部署完整销售网站。`article`
 - [Categories of Inference-Time Scaling for Improved LLM Reasoning](https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling) - 推理时scaling技术分类综述，覆盖CoT到搜索路径，理解多算力换更好输出的方法边界。`article`
 - ⭐ [The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer) - swyx 首次定义 AI Engineer：不训练模型，深度使用 API 和 evals 构建产品。`article`
+- ⭐ [Agents（AI Engineering 节选）](https://huyenchip.com/2025/01/07/agents.html) - Chip Huyen 对 AI Agent 架构、工具选择与失败模式的系统性分析。`article`
+- ⭐ [Building Personal Software with Claude](https://blog.nelhage.com/post/personal-software-with-claude/) - Anthropic 工程师用 Claude 完成 Rust 移植实战，反思 LLM 对软件开发的重塑。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -127,6 +130,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - [The Dark Forest and Generative AI](https://maggieappleton.com/ai-dark-forest) - 用暗森林理论解析AI内容泛滥：人类真实声音被迫转入封闭空间的生态演化。`article`
 - ⭐ [Virtue Ethics and AI Alignment](https://thegradient.pub/virtue-ethics-ai-alignment/) - 以亚里士多德式实践理性质疑目标导向对齐，提出 AI 对齐的哲学根本问题。`article`
 - [AGI is Not Multimodal](https://thegradient.pub/agi-is-not-multimodal/) - 论证多模态拼接无法通向 AGI，真正通用智能需具身的物理世界模型。`article`
+- ⭐ [The Scaling Hypothesis](https://gwern.net/scaling-hypothesis) - 论证神经网络规模化会产生质变涌现能力，预言大模型时代的奠基性长文。`article`
+- ⭐ [Why So Few Matt Levines?](https://gwern.net/matt-levine) - 追问顶尖领域写作者为何稀缺，折射出 AI 知识生产能力边界的深层思考。`article`
 
 **[⬆ 返回目录](#目录)**
 

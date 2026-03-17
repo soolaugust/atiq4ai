@@ -123,3 +123,14 @@ https://matt-rickard.com/claude-code-anywhere
 https://thegradient.pub/virtue-ethics-ai-alignment/
 https://thegradient.pub/agi-is-not-multimodal/
 https://www.latent.space/p/ai-engineer
+https://huyenchip.com/2025/01/16/ai-engineering-pitfalls.html
+https://huyenchip.com/2025/01/07/agents.html
+https://huyenchip.com/2024/07/25/genai-platform.html
+https://blog.nelhage.com/post/personal-software-with-claude/
+https://jalammar.github.io/illustrated-transformer/
+https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1
+https://jalammar.github.io/how-gpt3-works-visualizations-animations/
+https://gwern.net/scaling-hypothesis
+https://gwern.net/matt-levine
+https://www.deeplearning.ai/the-batch/from-ai-experiments-to-ai-products/
+https://www.deeplearning.ai/the-batch/lets-help-agents-share-their-work/

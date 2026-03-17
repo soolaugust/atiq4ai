@@ -616,3 +616,7 @@ https://paulgraham.com/brandage.html
 https://arxiv.org/abs/2505.07658
 https://x.com/fchollet/status/1876461063876350261
 https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/
+https://github.com/liamdugan/raid
+https://github.com/eloialonso/diamond
+https://github.com/declare-lab/LLM-PuzzleTest
+https://github.com/xlang-ai/BRIGHT

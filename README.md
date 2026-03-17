@@ -394,6 +394,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [The Misguided Quest for Mechanistic AI Interpretability](https://www.ai-frontiers.org/articles/the-misguided-quest-for-mechanistic-ai-interpretability) - 批判机械可解释性的根本框架错误：LLM是复杂涌现系统，逐层溯因是误导性类比。`article`
 - ⭐ [Self-Replicating AI: Frontier Models Already Capable of Rudimentary Self-Replication](https://arxiv.org/abs/2412.12140) - 实测 Llama-70B/Qwen-72B 已能独立自复制并链式增殖，指出安全评估框架的系统性盲区。`paper`
 - ⭐ [The Brand Age](https://paulgraham.com/brandage.html) - 以瑞士表业为案例，论证技术消除差异后品牌主导的必然性与代价，直接类比AI同质化时代的竞争策略。`article`
+- ⭐ [RAID: Robust AI Detection Benchmark](https://github.com/liamdugan/raid) - 最大规模AI生成文本检测基准，覆盖11个LLM与12种对抗攻击，揭示检测器系统性弱点。`paper`
+- ⭐ [DIAMOND: Diffusion-based World Model for RL](https://github.com/eloialonso/diamond) - 扩散模型作为 RL 世界模型，NeurIPS 2024 Spotlight，追问视觉细节是否真正有助于策略学习。`paper`
 
 **[⬆ 返回目录](#目录)**
 

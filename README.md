@@ -167,6 +167,9 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [The L in "LLM" Stands for Lying](https://acko.net/blog/the-l-in-llm-stands-for-lying/) - 以「伪造」框架重新定义LLM输出本质，从认识论角度质疑AI生成内容的真实性。`article`
 - ⭐ [Experts Have World Models. LLMs Have Word Models](https://www.latent.space/p/adversarial-reasoning) - 对抗性推理视角揭示LLM词语模型与专家世界模型的本质差距。`article`
 - ⭐ [The Harness Problem: Improving 15 LLMs at Coding in One Afternoon](http://blog.can.ac/2026/02/12/the-harness-problem/) - 改进edit tool设计，一个下午同时提升15个模型编码表现，harness比模型更重要。`article`
+- ⭐ [Detecting and Preventing Distillation Attacks](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks) - Anthropic披露DeepSeek等对Claude发起蒸馏攻击的技术细节，揭示AI能力扩散新机制。`article`
+- [What Comes Next with Open Models](https://www.interconnects.ai/p/the-next-phase-of-open-models) - 提出开源模型赢得绝对性能将是「灾难性成功」，三类模型框架预判开源的真正出路在小模型生态。`article`
+- [How Much Does Distillation Really Matter for Chinese LLMs?](https://www.interconnects.ai/p/how-much-does-distillation-really) - 量化分析蒸馏攻击实际影响，区分合法合成数据与非法蒸馏，指出RL时代的结构性局限。`article`
 
 **[⬆ 返回目录](#目录)**
 

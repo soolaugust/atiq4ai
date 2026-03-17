@@ -290,3 +290,7 @@ https://www.latent.space/p/adversarial-reasoning
 http://blog.can.ac/2026/02/12/the-harness-problem/
 https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/
 https://www.stavros.io/posts/how-i-write-software-with-llms/
+https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks
+https://www.interconnects.ai/p/open-models-in-perpetual-catch-up
+https://www.interconnects.ai/p/the-next-phase-of-open-models
+https://www.interconnects.ai/p/how-much-does-distillation-really

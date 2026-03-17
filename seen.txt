@@ -1,0 +1,10 @@
+https://awesome.re/badge.svg
+https://awesome.re
+https://img.shields.io/badge/PRs-welcome-brightgreen.svg
+https://img.shields.io/badge/License-CC0-lightgrey.svg
+https://github.com/blader/humanizer
+https://github.com/promptfoo/promptfoo
+https://github.com/humanlayer/12-factor-agents
+https://github.com/anthropics/prompt-eng-interactive-tutorial
+https://github.com/asgeirtj/system_prompts_leaks
+https://github.com/anthropics/evals

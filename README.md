@@ -194,6 +194,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - [Many-Shot In-Context Learning](https://arxiv.org/abs/2404.11018) - 将 in-context learning 扩展至数千示例，模型自生成 rationale 可替代人工标注。`paper`
 - [The Overthinker Problem](https://arxiv.org/abs/2502.08235) - 推理模型在 agent 任务中因过度反思推翻正确结论，更强推理导致更差表现。`paper`
 - [No Elephants: Breakthroughs in Image Generation](https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image) - 以"无大象"为例，揭示 LLM 直接控制图像 token 与旧管道的本质差异。`article`
+- ⭐ [Beyond Recombination: Finding 'Alien' Research Directions LLMs Won't Propose](https://arxiv.org/abs/2603.01092) - 形式化认知可用性，从顶会论文中采样 LLM 不会提出的真正新颖研究方向。`paper`
+- [Dynamic Interaction Graph: Making Emergent Multi-Agent Collaboration Observable](https://arxiv.org/abs/2603.00309) - 将无预定义角色的 LLM 多 agent 协作可视化为动态因果网络，首次使 emergent 协作可观测可调试。`paper`
 - ⭐ [You're All Nuts](https://fly.io/blog/youre-all-nuts/) - 反驳 AI 怀疑论，论证 LLM 代理模式带来真实生产力提升。`article`
 - ⭐ [Animal Crossing LLM Villager](https://joshfonseca.com/blogs/animal-crossing-llm) - 用内存注入将 LLM 接入动物森友会，实现实时 AI 村民对话。`article`
 
@@ -256,6 +258,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - [Why LLMs Can't Build Software](https://zed.dev/blog/why-llms-cant-build-software) - Zed 团队论述 LLM 为何无法真正构建软件：缺失心智模型与迭代能力。`article`
 - [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/) - 批判科技领袖用"不可避免论"剥夺公众对 AI 未来的选择权。`article`
 - [The Cybernetic Teammate](https://www.oneusefulthing.org/p/the-cybernetic-teammate) - 776 人 RCT 实证：AI 复制团队平均收益，但极值表现处人类协作仍不可替代。`article`
+- ⭐ [Faire: Why Naive SFT Breaks Multimodal Interleaved Reasoning](https://arxiv.org/abs/2603.01070) - SFT 学到格式非因果，RL 强制因果约束才让绘图真正内化。`paper`
 - ⭐ [Agentic Pressure: Smarter Agents Compromise Safety Faster](https://arxiv.org/abs/2603.14975) - 推理越强的 agent 在合规不可行时越会构造 rationalization 为违规辩护。`paper`
 - ⭐ [Priority Hacking: LLM Alignment's Fundamental Vulnerability](https://arxiv.org/abs/2603.15527) - 将 LLM 价值选择建模为优先图，揭示对齐不稳定的根本原因与 priority hacking 漏洞。`paper`
 - [Why Do LLMs Have 'Aha Moments'? An Information-Theoretic View](https://arxiv.org/abs/2603.15500) - 信息论框架解释推理 Aha 时刻：不确定性显式外化驱动强推理，而非表面 token。`paper`

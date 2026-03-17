@@ -587,3 +587,7 @@ https://transluce.org/pathological-behaviors
 https://bounded-regret.ghost.io/building-technology-to-drive-ai-governance/
 https://gwern.net/hutter-prize
 https://www.jasonwei.net/blog/ai-research-is-a-max-performance-domain
+https://arxiv.org/abs/2603.00523
+https://arxiv.org/abs/2603.00425
+https://arxiv.org/abs/2603.01203
+https://arxiv.org/abs/2603.00631

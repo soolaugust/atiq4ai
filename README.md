@@ -129,6 +129,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [ProcessBench](https://github.com/QwenLM/ProcessBench) - 评估推理过程监督质量，定位数学推理链首个错误步骤。`paper`
 - ⭐ [Predictive Concept Decoders](https://arxiv.org/abs/2512.15712) - 把激活解码为概念列表并预测行为，可解释性首次成为可训练能力。`paper`
 - ⭐ [Towards a Better Hutter Prize](https://gwern.net/hutter-prize) - 解剖Hutter Prize的理论美与实践失效，重新定义AI基准的核心度量。`article`
+- ⭐ [CIRCUS: Uncertainty-Aware Mechanistic Circuit Discovery](https://arxiv.org/abs/2603.00523) - 用 ensemble 共识区分核心电路与偶然结构，解决电路发现的可复现性问题。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -278,6 +279,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [CAA: Contrastive Activation Addition](https://github.com/nrimsky/CAA) - 提取正负样本激活差向量，精准操控 Llama 2 顺从性等七种对齐行为。`paper`
 - ⭐ [Block Diffusion: Interpolating AR and Diffusion Language Models](https://m-arriola.com/bd3lms/) - 块级扩散架构在 AR 与扩散模型之间插值，突破可变长度生成限制。`paper`
 - ⭐ [Building Technology to Drive AI Governance](https://bounded-regret.ghost.io/building-technology-to-drive-ai-governance/) - 类比历史监管经验，论证测量技术才是撬动AI治理的真正杠杆。`article`
+- ⭐ [Activation Steering Is Fine-Tuning](https://arxiv.org/abs/2603.00425) - 证明 activation steering 与 fine-tuning 一阶等价，0.04% 参数逼近全参数微调效果。`paper`
+- ⭐ [LiTS: Policy Diversity Is the Tree Search Bottleneck](https://arxiv.org/abs/2603.00631) - 发现LLM树搜索瓶颈是策略多样性而非奖励质量，颠覆常规假设。`paper`
 
 **[⬆ 返回目录](#目录)**
 

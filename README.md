@@ -196,6 +196,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - [No Elephants: Breakthroughs in Image Generation](https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image) - 以"无大象"为例，揭示 LLM 直接控制图像 token 与旧管道的本质差异。`article`
 - ⭐ [Beyond Recombination: Finding 'Alien' Research Directions LLMs Won't Propose](https://arxiv.org/abs/2603.01092) - 形式化认知可用性，从顶会论文中采样 LLM 不会提出的真正新颖研究方向。`paper`
 - [Dynamic Interaction Graph: Making Emergent Multi-Agent Collaboration Observable](https://arxiv.org/abs/2603.00309) - 将无预定义角色的 LLM 多 agent 协作可视化为动态因果网络，首次使 emergent 协作可观测可调试。`paper`
+- [mlc-llm](https://github.com/mlc-ai/mlc-llm) - 基于 TVM 的 LLM 编译器，真正原生部署到 iOS/Android/WebGPU。`tool`
 - ⭐ [You're All Nuts](https://fly.io/blog/youre-all-nuts/) - 反驳 AI 怀疑论，论证 LLM 代理模式带来真实生产力提升。`article`
 - ⭐ [Animal Crossing LLM Villager](https://joshfonseca.com/blogs/animal-crossing-llm) - 用内存注入将 LLM 接入动物森友会，实现实时 AI 村民对话。`article`
 

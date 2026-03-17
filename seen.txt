@@ -352,3 +352,8 @@ https://arxiv.org/abs/2603.01092
 https://arxiv.org/abs/2603.00309
 https://arxiv.org/abs/2603.01070
 https://arxiv.org/abs/2603.00312
+https://github.com/mem0ai/mem0
+https://github.com/mlc-ai/mlc-llm
+https://github.com/cyberark/FuzzyAI
+https://github.com/microsoft/muzic
+https://github.com/roboflow/multimodal-maestro

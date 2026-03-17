@@ -52,3 +52,11 @@ https://eugeneyan.com/writing/evals/
 https://nicholas.carlini.com/writing/2024/how-i-use-ai.html
 https://www.oneusefulthing.org/p/getting-started-with-ai-good-enough
 https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
+https://www.seangoedecke.com/ai-agents-and-code-review/
+https://maggieappleton.com/ai-enlightenment
+https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law
+https://www.paulgraham.com/writes.html
+https://hamel.dev/blog/posts/field-guide/index.html
+https://www.seangoedecke.com/giving-llms-a-personality/
+https://www.oneusefulthing.org/p/giving-your-ai-a-job-interview
+https://gwern.net/tool-ai

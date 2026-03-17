@@ -46,6 +46,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - [Google Prompt Engineering Whitepaper](https://www.kaggle.com/whitepaper-prompt-engineering) - Google 出品 68 页 prompt 工程完整白皮书，系统覆盖主流提示技术全谱。`prompt`
 - ⭐ [Your AI Product Needs Evals: LLM-as-a-Judge Guide](https://hamel.dev/blog/posts/llm-judge/) - 用领域专家 pass/fail 判断迭代校准 LLM judge，拒绝多维度评分陷阱。`article`
 - [Lilian Weng: Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) - OpenAI 研究员亲写的 prompt 技术图谱，附作者对学术水分的直接批评，是校准技术品味的锚点。`article`
+- [If you are good at code review, you will be good at using AI agents](https://www.seangoedecke.com/ai-agents-and-code-review/) - 结构性 code review 是驾驭 AI agent 的核心能力，问「应不应该写」比挑剔细节更关键。`article`
+- ⭐ [Giving Your AI a Job Interview](https://www.oneusefulthing.org/p/giving-your-ai-a-job-interview) - benchmark 无法告诉你答案时，用针对你任务的面试来挑模型。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -66,6 +68,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - [agent-clip](https://github.com/epiral/agent-clip) - 用单一 run(command) 工具替代传统 function calling，以 Unix CLI 作为 LLM 的统一工具接口。`tool`
 - [claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - 通过 hooks 实现 skill 自动激活，包含 agents/skills/docs 的完整 Claude Code 工程架构参考库。`skill`
 - [Building Effective Agents — Anthropic Engineering](https://www.anthropic.com/engineering/building-effective-agents) - Anthropic 工程团队亲历总结：workflow 五种模式及何时拒绝 agent 复杂性。`article`
+- ⭐ [Why Tool AIs Want to Be Agent AIs](https://gwern.net/tool-ai) - 2016 年已证明：纯工具 AI 在经济和智能上都必然输给 Agent AI。`article`
+- [Giving LLMs a Personality is Just Good Engineering](https://www.seangoedecke.com/giving-llms-a-personality/) - 人格化是工程必然：base model 无界，人格是在混沌中划定「有用区域」的唯一手段。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -84,6 +88,9 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Natural Language Tools: Plain English Beats JSON for Tool Calling](https://arxiv.org/abs/2510.14453) - 自然语言工具描述比 JSON schema 提升 18% 准确率、减少 70% 方差，质疑 function calling 默认范式。`paper`
 - ⭐ [How I Use AI — Nicholas Carlini](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html) - ML 安全研究员用 50 个真实案例替代论证，逼出"AI 价值如何被衡量"的根本问题。`article`
 - [Getting Started with AI: Good Enough — Ethan Mollick](https://www.oneusefulthing.org/p/getting-started-with-ai-good-enough) - 医生用 ChatGPT 诊断却不如 AI 独跑——AI 受益的真正门槛不是能力而是认知模型。`article`
+- ⭐ [Writes and Write-Nots](https://www.paulgraham.com/writes.html) - AI 将世界分裂为会思考与不会思考的两类人，写作是最后防线。`article`
+- ⭐ [Asymmetry of Verification and Verifier's Rule](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law) - 验证者定律：AI 能被训练解决的任务，上限由验证速度决定，而非任务本身难度。`article`
+- [A Treatise on AI Chatbots Undermining the Enlightenment](https://maggieappleton.com/ai-enlightenment) - AI 让思考更顺滑，是否正在悄悄取消启蒙运动的核心遗产？`article`
 
 **[⬆ 返回目录](#目录)**
 

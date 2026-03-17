@@ -75,6 +75,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Context-Engineering](https://github.com/davidkimai/Context-Engineering) - 从第一性原理重构 LLM context 设计认知，是辨别 AI 能力边界的核心方法论框架。`article`
 - ⭐ [baml](https://github.com/BoundaryML/baml) - 用类型安全 DSL 定义 LLM 函数，把 AI 调用变成可测试、可版本化的工程实践。`tool`
 - ⭐ [llm-comparator](https://github.com/PAIR-code/llm-comparator) - Google PAIR 开发的 LLM 响应并排对比可视化评估工具，支持切片级系统化分析。`tool`
+- [repomix](https://github.com/yamadashy/repomix) - 将代码仓库打包为 AI 友好的单一文件，优化大型代码库上下文喂入的结构化方式。`tool`
 
 **[⬆ 返回目录](#目录)**
 
@@ -126,6 +127,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - [My AI Stack](https://hamel.dev/blog/posts/ai-stack/index.html) - Hamel Husain 提出「顺 AI 之流」作为工具选择新维度：主流工作流让 AI 发挥最大效力。`article`
 - ⭐ [serena](https://github.com/oraios/serena) - 为 AI coding agent 提供符号级语义检索和编辑的 MCP 工具包，解决大型代码库中定位精度差的核心痛点。`mcp`
 - ⭐ [git-mcp](https://github.com/idosal/git-mcp) - 任意 GitHub 仓库零配置转为 MCP server，让 AI 读取真实文档而非产生幻觉。`mcp`
+- ⭐ [PromptAgent](https://github.com/maitrix-org/PromptAgent) - 用 MCTS 算法把 prompt 优化建模为规划问题，自动搜索达专家手工质量的 prompt。`tool`
 
 **[⬆ 返回目录](#目录)**
 

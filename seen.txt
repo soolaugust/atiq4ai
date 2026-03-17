@@ -209,3 +209,15 @@ https://github.com/Codium-ai/AlphaCodium
 https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
 https://github.com/PAIR-code/llm-comparator
 https://github.com/ShishirPatil/gorilla
+https://github.com/TransformerLensOrg/TransformerLens
+https://github.com/TransformerLensOrg/CircuitsVis
+https://github.com/ai-safety-foundation/sparse_autoencoder
+https://github.com/callummcdougall/ARENA_3.0
+https://github.com/maitrix-org/PromptAgent
+https://github.com/SalesforceAIResearch/promptomatix
+https://github.com/mastra-ai/mastra
+https://github.com/TauricResearch/TradingAgents
+https://github.com/tadata-org/fastapi_mcp
+https://github.com/executeautomation/mcp-playwright
+https://github.com/yamadashy/repomix
+https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs

@@ -130,6 +130,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Predictive Concept Decoders](https://arxiv.org/abs/2512.15712) - 把激活解码为概念列表并预测行为，可解释性首次成为可训练能力。`paper`
 - ⭐ [Towards a Better Hutter Prize](https://gwern.net/hutter-prize) - 解剖Hutter Prize的理论美与实践失效，重新定义AI基准的核心度量。`article`
 - ⭐ [CIRCUS: Uncertainty-Aware Mechanistic Circuit Discovery](https://arxiv.org/abs/2603.00523) - 用 ensemble 共识区分核心电路与偶然结构，解决电路发现的可复现性问题。`paper`
+- ⭐ [ViT-Prisma](https://github.com/Prisma-Multimodal/ViT-Prisma) - 把机械可解释性工具移植到视觉 Transformer 的开源研究库。`tool`
 
 **[⬆ 返回目录](#目录)**
 
@@ -281,6 +282,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Building Technology to Drive AI Governance](https://bounded-regret.ghost.io/building-technology-to-drive-ai-governance/) - 类比历史监管经验，论证测量技术才是撬动AI治理的真正杠杆。`article`
 - ⭐ [Activation Steering Is Fine-Tuning](https://arxiv.org/abs/2603.00425) - 证明 activation steering 与 fine-tuning 一阶等价，0.04% 参数逼近全参数微调效果。`paper`
 - ⭐ [LiTS: Policy Diversity Is the Tree Search Bottleneck](https://arxiv.org/abs/2603.00631) - 发现LLM树搜索瓶颈是策略多样性而非奖励质量，颠覆常规假设。`paper`
+- ⭐ [Elimination Game](https://github.com/lechmazur/elimination_game) - 多人淘汰赛格式测试 LLM 欺骗与社交推理能力的基准。`tool`
 
 **[⬆ 返回目录](#目录)**
 
@@ -384,6 +386,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [ARC-AGI-2](https://github.com/arcprize/ARC-AGI-2) - 人类完成率 66% 而顶级 AI 接近 0%，最直接区分少样本泛化与训练集记忆的 AGI 基准。`tool`
 - ⭐ [Mini Amusement Parks: Building the Foundations of an AI CEO](https://skyfall.ai/blog/building-the-foundations-of-an-ai-ceo) - 实测 GPT-5 在商业模拟中仅达人类 10%，揭示 AI 长期规划的真实边界。`article`
 - ⭐ [Surfacing Pathological Behaviors in Language Models](https://transluce.org/pathological-behaviors) - 用 RL 训练 agent 自动发现触发有害行为的 prompt，引入 PRBO 量化模型极端行为倾向下界。`article`
+- ⭐ [HallusionBench](https://github.com/tianyi-lab/HallusionBench) - 测试视觉模型是否真正理解图像，还是靠语言偏见作答。`tool`
 
 **[⬆ 返回目录](#目录)**
 

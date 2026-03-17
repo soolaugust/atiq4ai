@@ -26,3 +26,14 @@ https://github.com/BerriAI/litellm
 https://github.com/karpathy/llm.c
 https://github.com/BAAI-Agents/Cradle
 https://github.com/meta-llama/llama-stack
+https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting
+https://addyo.substack.com/p/the-prompt-engineering-playbook-for
+https://www.fast.ai/posts/2026-01-28-dark-flow/
+https://lucumr.pocoo.org/2026/1/18/agent-psychosis/
+https://read.technically.dev/p/vibe-coding-and-the-maker-movement
+https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf
+https://blog.kagi.com/slopstop
+https://simonwillison.net/2025/May/25/claude-4-system-prompt/
+https://github.com/JackHopkins/factorio-learning-environment
+https://atmoio.substack.com/p/after-two-years-of-vibecoding-im
+https://github.com/brexhq/prompt-engineering

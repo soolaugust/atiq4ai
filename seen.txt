@@ -425,3 +425,9 @@ https://arxiv.org/abs/2603.14893
 https://arxiv.org/abs/2603.15611
 https://arxiv.org/abs/2603.15594
 https://arxiv.org/abs/2603.15309
+https://arxiv.org/abs/2504.20879
+https://github.com/going-doer/Paper2Code
+https://www.shaped.ai/blog/cross-encoder-rediscovers-a-semantic-variant-of-bm25
+https://arxiv.org/abs/2503.03150
+https://github.com/lmarena/arena-hard-auto
+https://www.reddit.com/r/LocalLLaMA/comments/1jug3ku/discussion_on_lm_arenas_credibility_evaluation/

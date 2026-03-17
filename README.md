@@ -115,6 +115,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Invisible Failures in AI Systems](https://arxiv.org/abs/2603.15423) - 大规模分析发现78%的AI失败无外显反馈，94%交互型失败在更强模型下仍持续，建立8类隐性失败分类体系。`paper`
 - ⭐ [HorizonSearch: LLM Judges Prefer Ideas That Never Get Published](https://arxiv.org/abs/2603.15164) - 时间分割框架证明LLM评审系统性偏爱无落地的新颖想法，与真实引用影响力负相关。`paper`
 - ⭐ [SDT Decomposition of LLM Calibration](https://arxiv.org/abs/2603.14893) - SDT框架拆解LLM校准，证伪temperature仅改变置信度的类比假设。`paper`
+- ⭐ [The Leaderboard Illusion](https://arxiv.org/abs/2504.20879) - 实证研究：Chatbot Arena 被各大厂选择性披露分数，评测公信力存疑。`paper`
+- ⭐ [Arena-Hard-Auto v2.0](https://github.com/lmarena/arena-hard-auto) - 与Chatbot Arena相关性最高的自动评测基准，可低成本预估模型Arena表现。`tool`
 
 **[⬆ 返回目录](#目录)**
 
@@ -235,6 +237,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Agent Browser Protocol](https://github.com/theredsix/agent-browser-protocol) - 将Chromium改造为MCP服务，每次动作后冻结JS并返回稳定页面状态，消除agent与浏览器的异步竞态。`tool`
 - ⭐ [Mog – A Programming Language Designed to Be Written by LLMs](https://moglang.org) - 专为LLM生成代码设计的嵌入式编译语言，规范仅3200 token，无运算符优先级，能力沙盒化。`tool`
 - [OpenSeeker: Frontier Search Agent with 11.7k Samples](https://arxiv.org/abs/2603.15594) - 11.7k样本单次SFT超越工业级搜索agent，证明数据质量比规模更关键。`paper`
+- ⭐ [PaperCoder (Paper2Code)](https://github.com/going-doer/Paper2Code) - 多智能体框架，三阶段将 ML 论文自动转化为可运行代码库。`tool`
+- ⭐ [Cross-Encoder Rediscovers a Semantic Variant of BM25](https://www.shaped.ai/blog/cross-encoder-rediscovers-a-semantic-variant-of-bm25) - 用可解释性方法解剖 cross-encoder，发现其内部重演了 BM25 的 TF、IDF 与长度归一化。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -311,6 +315,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - [How We Hacked McKinsey's AI Platform](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform) - AI攻击agent自主选目标，2小时无凭证拿下麦肯锡内部AI平台全库读写权限。`article`
 - ⭐ [CCTU: No LLM Exceeds 20% Success Under Complex Constraints](https://arxiv.org/abs/2603.15309) - 评估9个LLM在12类约束下工具使用能力，全部完成率低于20%，自我修正能力极为有限。`paper`
 - [Silent Empathy: AI Writes Better But Feels Less Human](https://arxiv.org/abs/2603.15245) - LLM共情回复盲评更优，但接受者知晓AI来源后感觉更不被理解，发现人类沉默共情效应。`paper`
+- ⭐ [Position: Model Collapse Does Not Mean What You Think](https://arxiv.org/abs/2503.03150) - 梳理8种相互矛盾的模型崩溃定义，指出真实风险被系统性低估。`paper`
 
 **[⬆ 返回目录](#目录)**
 

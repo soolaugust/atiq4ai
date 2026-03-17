@@ -170,3 +170,15 @@ https://news.ycombinator.com/item?id=47388646
 https://www.seangoedecke.com/model-on-a-mbp/
 https://github.com/manaflow-ai/cmux
 https://github.com/jrswab/axe
+https://lilianweng.github.io/posts/2023-06-23-agent/
+https://lilianweng.github.io/posts/2025-05-01-thinking/
+https://lilianweng.github.io/posts/2024-11-28-reward-hacking/
+https://www.fast.ai/posts/2026-01-21-reading-LLMs/index.html
+https://www.fast.ai/posts/2025-10-30-build-to-last.html
+https://aiweirdness.com/when-a-chatbot-runs-your-store/
+https://www.anthropic.com/research/measuring-agent-autonomy
+https://www.anthropic.com/research/AI-assistance-coding-skills
+https://www.anthropic.com/research/disempowerment-patterns
+https://www.anthropic.com/research/persona-selection-model
+https://www.cursor.com/blog/third-era
+https://www.cursor.com/blog/cursorbench

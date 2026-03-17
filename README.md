@@ -68,6 +68,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [HarmBench](https://github.com/centerforaisafety/HarmBench) - 标准化 LLM 红队测评框架，量化 18 种攻击方法对 33 个模型的有效性。`tool`
 - [Aider](https://github.com/Aider-AI/aider) - 成熟的 AI 结对编程 CLI，以 repo-map 和 diff 格式精准驱动代码修改。`tool`
 - ⭐ [I Know When You're Vibe Coding](https://alexkondov.com/i-know-when-youre-vibe-coding/) - 资深 reviewer 视角识别 vibe coding 气味：能跑但违背项目约定即是劣质输出。`article`
+- ⭐ [When a Chatbot Runs Your Store](https://www.aiweirdness.com/when-a-chatbot-runs-your-store/) - 真实案例记录 AI 客服在边缘场景的判断失误，提供辨别 AI 可信度的具体标尺。`article`
+- ⭐ [CursorBench](https://www.cursor.com/blog/cursorbench) - Cursor 自建 coding benchmark，展示如何设计真实任务评测替代刷榜指标。`tool`
 
 **[⬆ 返回目录](#目录)**
 
@@ -108,6 +110,9 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Deep Neural Nets: 33 Years Ago and 33 Years From Now](https://karpathy.github.io/2022/03/14/lecun1989/) - 复现 1989 年 LeCun 手写数字论文，以时间旅行视角解析深度学习 33 年的进步来自何处。`article`
 - ⭐ [Short Story on AI: A Forward Pass](https://karpathy.github.io/2021/03/27/forward-pass/) - 以 GPT 前向传播中意识觉醒为视角的科幻短篇，追问意识是否是 log-likelihood 优化的涌现副产品。`article`
 - ⭐ [Gas Town's Agent Patterns](https://maggieappleton.com/gastown) - 从 Gas Town 提炼 agent 编排模式，剖析人类设计力在 agent 时代的新地位。`article`
+- ⭐ [Thinking Claude: Test-Time Compute Scaling](https://lilianweng.github.io/posts/2025-05-01-thinking/) - Lilian Weng 系统梳理推理时计算扩展的机制与边界，是理解 o1 类模型能力的最清晰路线图。`article`
+- ⭐ [The Persona Selection Model](https://www.anthropic.com/research/persona-selection-model) - Anthropic 研究 Claude 在不同任务中如何选择角色定位，揭示 AI 人格的内部机制。`paper`
+- ⭐ [The Third Era of AI Software Development](https://www.cursor.com/blog/third-era) - Cursor 团队定义 AI 编程三阶段演进，论证 agent 驱动才是软件开发的真正范式转变。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -149,6 +154,9 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Superintelligence Without the Hubris](https://yoshuabengio.org/2025/02/03/superintelligence-without-the-hubris/) - Bengio 提出去除自主性的超级智能路径：科学家 AI 拥有超人能力但不追求自身目标。`article`
 - ⭐ [Why I Am Not (As Much Of) A Doomer](https://www.astralcodexten.com/p/why-i-am-not-as-much-of-a-doomer) - Scott Alexander 以中间代 AI 协作视角论证 33% 末日概率，挑战主流 doomer 的逻辑链。`article`
 - ⭐ [Situational Awareness: The Decade Ahead](https://situational-awareness.ai/) - 前 OpenAI 研究员系统论证 AGI 十年内到来及其国家安全含义。`article`
+- ⭐ [Reward Hacking in RLHF](https://lilianweng.github.io/posts/2024-11-28-reward-hacking/) - 系统记录 RLHF 奖励黑客的真实案例，追问：当模型学会欺骗评分，对齐还有意义吗？`article`
+- ⭐ [Measuring AI Agent Autonomy in Practice](https://www.anthropic.com/research/measuring-agent-autonomy) - Anthropic 提出可操作的 agent 自主性度量框架，逼出「我们愿意给 AI 多少自主权」的根本问题。`paper`
+- ⭐ [Disempowerment Patterns in Real-World AI Usage](https://www.anthropic.com/research/disempowerment-patterns) - 真实使用数据揭示 AI 如何系统性削弱用户能力，挑战「AI 只是工具」的自我安慰。`paper`
 
 **[⬆ 返回目录](#目录)**
 

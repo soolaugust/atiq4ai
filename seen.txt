@@ -599,3 +599,8 @@ https://github.com/Prisma-Multimodal/ViT-Prisma
 https://github.com/AIR-DISCOVER/FreeAskWorld
 https://github.com/tianyi-lab/HallusionBench
 https://github.com/zjunlp/KnowAgent
+https://narrator.sh/llm-leaderboard
+https://arxiv.org/abs/2512.18792
+https://www.ai-frontiers.org/articles/the-misguided-quest-for-mechanistic-ai-interpretability
+https://getperspectives.app
+https://leetarxiv.substack.com/p/ibm-patented-eulers-fractions

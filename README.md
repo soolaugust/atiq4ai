@@ -387,6 +387,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Mini Amusement Parks: Building the Foundations of an AI CEO](https://skyfall.ai/blog/building-the-foundations-of-an-ai-ceo) - 实测 GPT-5 在商业模拟中仅达人类 10%，揭示 AI 长期规划的真实边界。`article`
 - ⭐ [Surfacing Pathological Behaviors in Language Models](https://transluce.org/pathological-behaviors) - 用 RL 训练 agent 自动发现触发有害行为的 prompt，引入 PRBO 量化模型极端行为倾向下界。`article`
 - ⭐ [HallusionBench](https://github.com/tianyi-lab/HallusionBench) - 测试视觉模型是否真正理解图像，还是靠语言偏见作答。`tool`
+- ⭐ [Dead Salmons of AI Interpretability](https://arxiv.org/abs/2512.18792) - 批判机械可解释性的方法论陷阱：解释可能只是统计噪声，非真实计算结构。`paper`
+- ⭐ [The Misguided Quest for Mechanistic AI Interpretability](https://www.ai-frontiers.org/articles/the-misguided-quest-for-mechanistic-ai-interpretability) - 批判机械可解释性的根本框架错误：LLM是复杂涌现系统，逐层溯因是误导性类比。`article`
 
 **[⬆ 返回目录](#目录)**
 

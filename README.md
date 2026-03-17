@@ -102,6 +102,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [My Year With LLMs](https://antirez.com/news/154) - antirez 总结 2025 年与 LLM 协作编程的实战方法论，强调人类监督与上下文控制。`article`
 - ⭐ [Do Counterfactual Evaluation Metrics Reflect Human Judgments?](https://arxiv.org/abs/2603.15607) - 实证表明反事实解释指标与人类感知相关性普遍很弱，指向以人为中心的评估需求。`paper`
 - ⭐ [Automatic Creative Writing Evaluation via Grounded Theory-Derived Criteria](https://arxiv.org/abs/2603.15061) - 扎根理论驱动的 AI 创意写作自动评估框架，效果媲美人工标注。`paper`
+- ⭐ [Car Wash Test: 53 AI Models + 10,000 Human Baseline](https://opper.ai/blog/car-wash-test) - 用洗车场景测试53个模型，揭示多数AI被距离启发式劫持而非真正推理失败。`article`
+- [Stop Sloppypasta — 直接分享原始AI输出是无礼行为](https://stopsloppypasta.ai/en/) - 论证粘贴原始AI输出如何破坏写作的认知对称性与信任契约。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -202,6 +204,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [AlphaGeometry](https://github.com/google-deepmind/alphageometry) - 神经符号混合系统，LLM 提出辅助构型、符号引擎完成演绎，IMO 2024 金牌水平。`tool`
 - ⭐ [ESM3](https://github.com/EvolutionaryScale/esm) - 序列-结构-功能三轨统一的提示式蛋白质生成模型。`tool`
 - [PocketFlow](https://github.com/The-Pocket/PocketFlow) - 100 行极简 LLM 框架，为 AI agent 可读性而设计。`tool`
+- ⭐ [Leanstral](https://mistral.ai/news/leanstral) - Mistral开源AI Agent，将LLM与Lean 4结合实现数学可验证的形式化证明。`tool`
 
 **[⬆ 返回目录](#目录)**
 

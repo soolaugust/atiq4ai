@@ -431,3 +431,8 @@ https://www.shaped.ai/blog/cross-encoder-rediscovers-a-semantic-variant-of-bm25
 https://arxiv.org/abs/2503.03150
 https://github.com/lmarena/arena-hard-auto
 https://www.reddit.com/r/LocalLLaMA/comments/1jug3ku/discussion_on_lm_arenas_credibility_evaluation/
+https://jack-clark.net/2026/03/16/importai-449-llms-training-other-llms-72b-distributed-training-run-computer-vision-is-harder-than-generative-text/
+https://vgel.me/posts/elven-rope-and-llms/
+https://vgel.me/posts/qwen-introspection/
+https://apenwarr.ca/log/20260316
+https://leodemoura.github.io/blog/2026-2-28-when-ai-writes-the-worlds-software-who-verifies-it/

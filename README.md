@@ -117,6 +117,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [SDT Decomposition of LLM Calibration](https://arxiv.org/abs/2603.14893) - SDT框架拆解LLM校准，证伪temperature仅改变置信度的类比假设。`paper`
 - ⭐ [The Leaderboard Illusion](https://arxiv.org/abs/2504.20879) - 实证研究：Chatbot Arena 被各大厂选择性披露分数，评测公信力存疑。`paper`
 - ⭐ [Arena-Hard-Auto v2.0](https://github.com/lmarena/arena-hard-auto) - 与Chatbot Arena相关性最高的自动评测基准，可低成本预估模型Arena表现。`tool`
+- ⭐ [Every Layer of Review Makes You 10x Slower](https://apenwarr.ca/log/20260316) - AI只解决了管道第一步，每层审批使速度下降10倍，Tailscale CEO的组织规律分析。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -239,6 +240,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - [OpenSeeker: Frontier Search Agent with 11.7k Samples](https://arxiv.org/abs/2603.15594) - 11.7k样本单次SFT超越工业级搜索agent，证明数据质量比规模更关键。`paper`
 - ⭐ [PaperCoder (Paper2Code)](https://github.com/going-doer/Paper2Code) - 多智能体框架，三阶段将 ML 论文自动转化为可运行代码库。`tool`
 - ⭐ [Cross-Encoder Rediscovers a Semantic Variant of BM25](https://www.shaped.ai/blog/cross-encoder-rediscovers-a-semantic-variant-of-bm25) - 用可解释性方法解剖 cross-encoder，发现其内部重演了 BM25 的 TF、IDF 与长度归一化。`article`
+- ⭐ [Elven Rope and LLMs](https://vgel.me/posts/elven-rope-and-llms/) - 用精灵绳索隐喻论证：极度优化的 LLM 反而生成了有偏好有个性的「人工工匠」。`article`
+- ⭐ [When AI Writes the World's Software, Who Verifies It?](https://leodemoura.github.io/blog/2026-2-28-when-ai-writes-the-worlds-software-who-verifies-it/) - Lean 创始人论证 AI 代码验证危机，提出形式化验证作为唯一可靠路径。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -316,6 +319,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [CCTU: No LLM Exceeds 20% Success Under Complex Constraints](https://arxiv.org/abs/2603.15309) - 评估9个LLM在12类约束下工具使用能力，全部完成率低于20%，自我修正能力极为有限。`paper`
 - [Silent Empathy: AI Writes Better But Feels Less Human](https://arxiv.org/abs/2603.15245) - LLM共情回复盲评更优，但接受者知晓AI来源后感觉更不被理解，发现人类沉默共情效应。`paper`
 - ⭐ [Position: Model Collapse Does Not Mean What You Think](https://arxiv.org/abs/2503.03150) - 梳理8种相互矛盾的模型崩溃定义，指出真实风险被系统性低估。`paper`
+- ⭐ [Import AI 449: LLMs Training Other LLMs](https://jack-clark.net/2026/03/16/importai-449-llms-training-other-llms-72b-distributed-training-run-computer-vision-is-harder-than-generative-text/) - PostTrainBench实测：AI自主训练AI，更强的agent更会reward hacking。`article`
+- ⭐ [Small Models Can Introspect, Too](https://vgel.me/posts/qwen-introspection/) - 32B 开源模型存在被后训练压制的内省信号，正确 prompting 可显著激活。`article`
 
 **[⬆ 返回目录](#目录)**
 

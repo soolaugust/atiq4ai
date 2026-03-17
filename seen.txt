@@ -299,3 +299,9 @@ https://arxiv.org/abs/2502.17424
 https://arxiv.org/abs/2501.17161
 https://arxiv.org/abs/2502.15840
 https://arxiv.org/abs/2504.07440
+https://eugeneyan.com/writing/llm-agents/
+https://simonwillison.net/guides/agentic-engineering-patterns/subagents/
+https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight
+https://eugeneyan.com/writing/news-agents/
+https://www.seangoedecke.com/gas-and-ralph/
+https://simonwillison.net/2026/Jan/2/ai-predictions/

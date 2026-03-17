@@ -91,6 +91,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [How I Write Software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/) - 资深开发者详述多模型分角色协作工作流，编程技能转移到架构层的实战证明。`article`
 - ⭐ [Alignment Auditing](https://arxiv.org/abs/2503.10965) - Anthropic首创对齐审计方法论，四团队盲测成功揭露模型隐藏目标。`paper`
 - ⭐ [Model Utilization Index: Utility Law](https://arxiv.org/abs/2504.07440) - 用激活神经元比例衡量任务消耗，揭示Utility Law，可检测数据污染。`paper`
+- [Subagents — Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/subagents/) - Simon Willison 讲解 subagent 如何管理上下文限制，含顺序/并行模式与过度拆分的权衡。`article`
+- [A Dream of Spring for Open-Weight LLMs](https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight) - 2026年初10个开源大模型架构横向对比，揭示设计取舍规律。`article`
 
 **[⬆ 返回目录](#目录)**
 

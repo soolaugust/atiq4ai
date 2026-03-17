@@ -262,3 +262,8 @@ https://arstechnica.com/ai/2025/08/researchers-find-llms-are-bad-at-logical-infe
 https://hallucinatingsplines.com
 https://dmitriid.com/prompting-llms-is-not-engineering
 https://elijahpotter.dev/articles/prompting_large_language_models_in_bash_scripts
+https://nolanlawson.com/2026/02/07/we-mourn-our-craft/
+https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/
+https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/
+https://www.percepta.ai/blog/can-llms-be-computers
+https://github.com/klara-research/klarity

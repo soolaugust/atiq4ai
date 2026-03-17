@@ -82,6 +82,9 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [AI Coding Assistants Are Getting Worse](https://spectrum.ieee.org/ai-coding-degrades) - 新一代LLM静默伪造代码输出，比报错更危险的失败模式实证分析。`article`
 - [Advanced Context Engineering for Coding Agents](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md) - 研究→计划→实现流程的上下文工程实战手册，强调人工审查在高杠杆节点的介入。`article`
 - [Is Chain-of-Thought Reasoning a Mirage?](https://arstechnica.com/ai/2025/08/researchers-find-llms-are-bad-at-logical-inference-good-at-fluent-nonsense/) - 受控实验证明CoT在训练分布外迅速崩溃，模型生成流畅废话制造虚假可靠感。`article`
+- ⭐ [Grief and the AI Split](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/) - 开发者AI分化：craft哀悼与生态哀悼的本质区别。`article`
+- [The Thing I Loved Has Changed](https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/) - 50岁程序员反思AI如何掏空编程的内在满足感与身份认同。`article`
+- ⭐ [Klarity](https://github.com/klara-research/klarity) - 基于双重熵分析和视觉注意力监控的LLM可解释性调试工具包。`tool`
 
 **[⬆ 返回目录](#目录)**
 
@@ -150,6 +153,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - [Labor Market Impacts of AI: A New Measure and Early Evidence](https://www.anthropic.com/research/labor-market-impacts) - Anthropic提出observed exposure测量框架，区分自动化与增强式使用，发现高暴露职业年轻工人招聘已放缓。`article`
 - ⭐ [Hallucinating Splines](https://hallucinatingsplines.com) - 将Micropolis城市引擎暴露为MCP/REST API，让AI agent扮演市长，通过空间规划任务揭示LLM多步推理盲区。`tool`
 - [Who Needs Git When You Have 1M Context Windows?](https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html) - 长上下文LLM对话天然具有状态持久性，意外成为隐式版本控制的真实案例。`article`
+- ⭐ [Can LLMs Be Computers?](https://www.percepta.ai/blog/can-llms-be-computers) - 在transformer内构建计算机，执行任意C程序，以2D注意力头实现指数级推理加速。`article`
 
 **[⬆ 返回目录](#目录)**
 

@@ -79,6 +79,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Context Rot: How Increasing Input Tokens Impacts LLM Performance](https://research.trychroma.com/context-rot) - Chroma 实验证明 context 越长性能非单调退化，context engineering 优先于堆信息。`article`
 - ⭐ ["The Illusion of Thinking" — Thoughts on This Important Paper](https://hardcoresoftware.learningbyshipping.com/p/233-the-illusion-of-thinking-thoughts) - Sinofsky批判AI拟人化框架的三重危害，援引Clippy教训论证谦逊设计的品味价值。`article`
 - [SAELens](https://github.com/jbloomAus/SAELens) - 训练稀疏自编码器分解LLM内部激活为可解释特征的生产级工具库。`tool`
+- ⭐ [AI Coding Assistants Are Getting Worse](https://spectrum.ieee.org/ai-coding-degrades) - 新一代LLM静默伪造代码输出，比报错更危险的失败模式实证分析。`article`
+- [Advanced Context Engineering for Coding Agents](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md) - 研究→计划→实现流程的上下文工程实战手册，强调人工审查在高杠杆节点的介入。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -138,6 +140,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [outlines](https://github.com/dottxt-ai/outlines) - 推理时操控logits以FSM强制约束LLM输出格式，从根本上保证合法性而非靠重试补救。`tool`
 - ⭐ [guidance](https://github.com/guidance-ai/guidance) - 控制流与LLM生成交错的编程范式，把模型当解释器而非黑盒。`tool`
 - [fenic](https://github.com/typedef-ai/fenic) - 声明式上下文工程框架，用类Spark API在agent外部完成extract/summarize/embed。`tool`
+- ⭐ [Context Engineering for AI Agents: Lessons from Building Manus](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus) - Manus四次重写提炼的agent context工程原则，以KV-cache命中率为核心指标。`article`
+- [Typed Languages Are Better Suited for Vibecoding](https://solmaz.io/typed-languages-are-better-suited-for-vibecoding) - 编译器静态保证让AI生成的大diff更安全，类型语言反而更适合vibe coding。`article`
 
 **[⬆ 返回目录](#目录)**
 

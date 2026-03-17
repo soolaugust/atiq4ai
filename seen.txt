@@ -243,3 +243,10 @@ https://github.com/jbloomAus/SAELens
 https://github.com/typedef-ai/fenic
 https://github.com/Pipelex/pipelex
 https://github.com/hijohnnylin/neuronpedia
+https://www.philschmid.de/context-engineering
+https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus
+https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md
+https://spectrum.ieee.org/ai-coding-degrades
+https://solmaz.io/typed-languages-are-better-suited-for-vibecoding
+https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/
+https://donado.co/en/articles/2025-09-16-vibe-coding-cleanup-as-a-service/

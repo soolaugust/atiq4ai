@@ -62,6 +62,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - [Understanding the 4 Main Approaches to LLM Evaluation](https://magazine.sebastianraschka.com/p/llm-evaluation-4-approaches) - 系统拆解LLM四类评估方法，带代码，帮助识别评测结果背后的方法论偏差。`article`
 - [Tools for Thought as Cultural Practices](https://maggieappleton.com/tools-for-thought) - 用人类学视角理解思维工具历史，为评判AI工具是否真正增强认知提供参照系。`article`
 - ⭐ [Common Pitfalls When Building Generative AI Applications](https://huyenchip.com/2025/01/16/ai-engineering-pitfalls.html) - Chip Huyen 总结构建 GenAI 应用的常见陷阱，案例真实、判断力强。`article`
+- ⭐ [CoT Faithfulness: Reasoning Models Don't Always Say What They Think](https://arxiv.org/abs/2505.05410) - 实证推理模型 CoT 披露率低于 20%，CoT 监控不足以保障 AI 安全性。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -95,6 +96,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer) - swyx 首次定义 AI Engineer：不训练模型，深度使用 API 和 evals 构建产品。`article`
 - ⭐ [Agents（AI Engineering 节选）](https://huyenchip.com/2025/01/07/agents.html) - Chip Huyen 对 AI Agent 架构、工具选择与失败模式的系统性分析。`article`
 - ⭐ [Building Personal Software with Claude](https://blog.nelhage.com/post/personal-software-with-claude/) - Anthropic 工程师用 Claude 完成 Rust 移植实战，反思 LLM 对软件开发的重塑。`article`
+- ⭐ [s1: Simple Test-Time Scaling](https://arxiv.org/abs/2501.19393) - 1000 条数据加预算强制法，开源复现超越 o1-preview 的极简 test-time scaling。`paper`
+- ⭐ [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html) - 用归因图解剖 Claude 内部计算机制，类比生物学揭示 LLM 工作原理。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -132,6 +135,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - [AGI is Not Multimodal](https://thegradient.pub/agi-is-not-multimodal/) - 论证多模态拼接无法通向 AGI，真正通用智能需具身的物理世界模型。`article`
 - ⭐ [The Scaling Hypothesis](https://gwern.net/scaling-hypothesis) - 论证神经网络规模化会产生质变涌现能力，预言大模型时代的奠基性长文。`article`
 - ⭐ [Why So Few Matt Levines?](https://gwern.net/matt-levine) - 追问顶尖领域写作者为何稀缺，折射出 AI 知识生产能力边界的深层思考。`article`
+- ⭐ [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) - DeepSeek-R1 用强化学习激励推理涌现，无需监督蒸馏即可匹敌 OpenAI o1。`paper`
+- ⭐ [Superintelligence Without the Hubris](https://yoshuabengio.org/2025/02/03/superintelligence-without-the-hubris/) - Bengio 提出去除自主性的超级智能路径：科学家 AI 拥有超人能力但不追求自身目标。`article`
 
 **[⬆ 返回目录](#目录)**
 

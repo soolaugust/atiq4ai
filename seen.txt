@@ -134,3 +134,11 @@ https://gwern.net/scaling-hypothesis
 https://gwern.net/matt-levine
 https://www.deeplearning.ai/the-batch/from-ai-experiments-to-ai-products/
 https://www.deeplearning.ai/the-batch/lets-help-agents-share-their-work/
+https://transformer-circuits.pub/2025/attribution-graphs/biology.html
+https://arxiv.org/abs/2501.12948
+https://arxiv.org/abs/2501.19393
+https://arxiv.org/abs/2505.05410
+https://arxiv.org/abs/2406.06608
+https://www.seangoedecke.com/knowing-how-to-drive-the-car/
+https://yoshuabengio.org/2025/02/03/superintelligence-without-the-hubris/
+https://yoshuabengio.org/2024/07/09/law-zero-of-ai-safety/

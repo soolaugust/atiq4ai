@@ -98,3 +98,17 @@ https://simonwillison.net/2026/Mar/9/not-so-boring/
 https://www.oneusefulthing.org/p/on-working-with-wizards
 https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the
 https://simonwillison.net/2026/Mar/5/chardet/
+https://arxiv.org/abs/2503.14499
+https://github.com/NVIDIA/garak
+https://hamel.dev/blog/posts/evals-faq/index.html
+https://www.strangeloopcanon.com/p/seeing-like-an-agent
+https://eugeneyan.com/writing/qa-evals/
+https://www.seangoedecke.com/continuous-learning/
+https://www.seangoedecke.com/will-my-job-still-exist/
+https://www.seangoedecke.com/fast-llm-inference/
+https://www.oneusefulthing.org/p/the-shape-of-the-thing
+https://www.oneusefulthing.org/p/claude-code-and-what-comes-next
+https://www.promptingguide.ai/
+https://github.com/microsoft/ai-agents-for-beginners
+https://hamel.dev/blog/posts/evals-skills/index.html
+https://github.com/hamelsmu/evals-skills

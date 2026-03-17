@@ -57,6 +57,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Making LLM Code Better Through Iterative Prompting](https://minimaxir.com/2025/01/write-better-code/) - 实验探索对 LLM 代码反复说"make it better"的质量天花板与退化规律。`article`
 - ⭐ [Showboat and Rodney: agent self-verification docs](https://simonwillison.net/2026/Feb/10/showboat-and-rodney/) - 让 coding agent 用 Showboat 构建可验证的演示文档，实现 agent 自证其工。`tool`
 - [An LLM-as-Judge Won't Save The Product—Fixing Your Process Will](https://eugeneyan.com/writing/eval-process/) - 提出 EDD 框架，将科学方法引入 AI 产品开发，LLM-as-judge 不能替代流程纪律。`article`
+- ⭐ [hamelsmu/evals-skills](https://github.com/hamelsmu/evals-skills) - 可直接安装的 Claude Code eval 技能插件，含 error-analysis 等实战技能，将50+公司 eval 经验变成工具。`tool`
+- ⭐ [METR Time Horizons: Measuring AI Ability to Complete Long Tasks](https://arxiv.org/abs/2503.14499) - 用任务完成时间视界衡量 AI agent 能力，前沿模型时间视界每7个月翻倍。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -84,6 +86,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Meta Chain-of-Thought: Modeling the Reasoning Behind Reasoning](https://arxiv.org/abs/2501.04682) - 显式建模 CoT 背后的推理过程，揭示 CoT 只是结果而非思维本身。`paper`
 - ⭐ [LLM-generated skills work, if you generate them afterwards](https://www.seangoedecke.com/generate-skills-afterwards/) - LLM 应在解决问题后再蒸馏 skill，事先生成只会固化错误假设。`article`
 - [Perhaps not Boring Technology after all](https://simonwillison.net/2026/Mar/9/not-so-boring/) - Coding agent 通过读文档和代码示例，可在训练数据未见的库上正常工作。`article`
+- ⭐ [Evals Skills for AI Coding Agents](https://hamel.dev/blog/posts/evals-skills/index.html) - 论述改进 agent 周围基础设施比改进模型更重要，结合案例介绍 evals-skills 工具集。`article`
+- [Claude Code and What Comes Next](https://www.oneusefulthing.org/p/claude-code-and-what-comes-next) - Mollick 实测 Claude Code 独立工作74分钟，从零构建并部署完整销售网站。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -113,6 +117,9 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - [How does AI impact skill formation?](https://www.seangoedecke.com/how-does-ai-impact-skill-formation/) - 解读 AI 对技能习得影响的论文，指出 AI 加速与学习效率的真实权衡。`article`
 - [On Working with Wizards: from co-intelligence to conjuring](https://www.oneusefulthing.org/p/on-working-with-wizards) - Ethan Mollick 描述从 AI 协作者到旁观者的转变，探讨如何验证不透明 AI 输出。`article`
 - ⭐ [Can coding agents relicense open source through clean room implementation?](https://simonwillison.net/2026/Mar/5/chardet/) - 通过 chardet 重写事件探讨 coding agent 执行 clean room 实现的法律与伦理边界。`article`
+- [Seeing Like an Agent](https://www.strangeloopcanon.com/p/seeing-like-an-agent) - 实验验证 AI agent 能否产生 Coasean 市场，发现 agent 复现了人类的官僚政治和风险厌恶。`article`
+- ⭐ [What's So Hard About Continuous Learning?](https://www.seangoedecke.com/continuous-learning/) - 深析 LLM 为何无法持续学习，连续训练反而导致模型退化的根本原因。`article`
+- ⭐ [The Shape of the Thing](https://www.oneusefulthing.org/p/the-shape-of-the-thing) - Mollick 梳理 AI 从 co-intelligence 到管理 agent 的范式转变，论证指数增长趋势。`article`
 
 **[⬆ 返回目录](#目录)**
 

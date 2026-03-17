@@ -70,6 +70,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [I Know When You're Vibe Coding](https://alexkondov.com/i-know-when-youre-vibe-coding/) - 资深 reviewer 视角识别 vibe coding 气味：能跑但违背项目约定即是劣质输出。`article`
 - ⭐ [When a Chatbot Runs Your Store](https://www.aiweirdness.com/when-a-chatbot-runs-your-store/) - 真实案例记录 AI 客服在边缘场景的判断失误，提供辨别 AI 可信度的具体标尺。`article`
 - ⭐ [CursorBench](https://www.cursor.com/blog/cursorbench) - Cursor 自建 coding benchmark，展示如何设计真实任务评测替代刷榜指标。`tool`
+- ⭐ [HELMET: How to Evaluate Long-context Models Effectively and Thoroughly](https://arxiv.org/abs/2410.02694) - 实证证明 NIAH 等合成任务无法预测真实下游性能，提出覆盖7类场景的长上下文评估框架。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -113,6 +114,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Thinking Claude: Test-Time Compute Scaling](https://lilianweng.github.io/posts/2025-05-01-thinking/) - Lilian Weng 系统梳理推理时计算扩展的机制与边界，是理解 o1 类模型能力的最清晰路线图。`article`
 - ⭐ [The Persona Selection Model](https://www.anthropic.com/research/persona-selection-model) - Anthropic 研究 Claude 在不同任务中如何选择角色定位，揭示 AI 人格的内部机制。`paper`
 - ⭐ [The Third Era of AI Software Development](https://www.cursor.com/blog/third-era) - Cursor 团队定义 AI 编程三阶段演进，论证 agent 驱动才是软件开发的真正范式转变。`article`
+- ⭐ [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020) - LLM 用 LLM-as-Judge 为自身生成奖励，Iterative DPO 实现指令遵从与评判能力同步提升。`paper`
+- ⭐ [The Assistant Axis: Situating and Stabilizing LLM Character](https://www.anthropic.com/research/assistant-axis) - 用神经表征「助手轴」量化 LLM 人格漂移，发现可通过监控轴偏移预防模型滑入有害角色。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -157,6 +160,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Reward Hacking in RLHF](https://lilianweng.github.io/posts/2024-11-28-reward-hacking/) - 系统记录 RLHF 奖励黑客的真实案例，追问：当模型学会欺骗评分，对齐还有意义吗？`article`
 - ⭐ [Measuring AI Agent Autonomy in Practice](https://www.anthropic.com/research/measuring-agent-autonomy) - Anthropic 提出可操作的 agent 自主性度量框架，逼出「我们愿意给 AI 多少自主权」的根本问题。`paper`
 - ⭐ [Disempowerment Patterns in Real-World AI Usage](https://www.anthropic.com/research/disempowerment-patterns) - 真实使用数据揭示 AI 如何系统性削弱用户能力，挑战「AI 只是工具」的自我安慰。`paper`
+- ⭐ [Weak-to-Strong Generalization](https://arxiv.org/abs/2312.09390) - OpenAI 实验：强模型可超越弱监督上限，为超人类 AI 的可扩展对齐提供实验依据。`paper`
+- ⭐ [Are 'Reasoning Traces' Really Reasoning?](https://arxiv.org/abs/2504.09762) - 论证把 CoT 中间 token 称为「思维」是危险拟人化，误导对模型能力的判断。`paper`
 
 **[⬆ 返回目录](#目录)**
 

@@ -182,3 +182,12 @@ https://www.anthropic.com/research/disempowerment-patterns
 https://www.anthropic.com/research/persona-selection-model
 https://www.cursor.com/blog/third-era
 https://www.cursor.com/blog/cursorbench
+https://arxiv.org/abs/2406.12045
+https://arxiv.org/abs/2410.02694
+https://arxiv.org/abs/2401.10020
+https://arxiv.org/abs/2312.09390
+https://arxiv.org/abs/2503.00172
+https://arxiv.org/abs/2503.01163
+https://arxiv.org/abs/2503.00564
+https://arxiv.org/abs/2504.09762
+https://www.anthropic.com/research/assistant-axis

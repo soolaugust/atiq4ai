@@ -89,6 +89,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [pyvene](https://github.com/stanfordnlp/pyvene) - Stanford NLP因果干预库，支持对任意PyTorch模型内部状态做可控干预实验，验证概念编码假说。`tool`
 - ⭐ [LLMs Work Best When You Define Acceptance Criteria First](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code) - 基准测试揭示LLM代码「看似正确实则错误」的具体机制，倡导先定义验收标准再生成代码。`article`
 - ⭐ [How I Write Software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/) - 资深开发者详述多模型分角色协作工作流，编程技能转移到架构层的实战证明。`article`
+- ⭐ [Alignment Auditing](https://arxiv.org/abs/2503.10965) - Anthropic首创对齐审计方法论，四团队盲测成功揭露模型隐藏目标。`paper`
+- ⭐ [Model Utilization Index: Utility Law](https://arxiv.org/abs/2504.07440) - 用激活神经元比例衡量任务消耗，揭示Utility Law，可检测数据污染。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -170,6 +172,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Detecting and Preventing Distillation Attacks](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks) - Anthropic披露DeepSeek等对Claude发起蒸馏攻击的技术细节，揭示AI能力扩散新机制。`article`
 - [What Comes Next with Open Models](https://www.interconnects.ai/p/the-next-phase-of-open-models) - 提出开源模型赢得绝对性能将是「灾难性成功」，三类模型框架预判开源的真正出路在小模型生态。`article`
 - [How Much Does Distillation Really Matter for Chinese LLMs?](https://www.interconnects.ai/p/how-much-does-distillation-really) - 量化分析蒸馏攻击实际影响，区分合法合成数据与非法蒸馏，指出RL时代的结构性局限。`article`
+- ⭐ [Vending-Bench](https://arxiv.org/abs/2502.15840) - 超2000万token贩卖机场景测LLM agent长期连贯性，崩溃与context窗口无关。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -221,6 +224,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - [AI Is Destroying Open Source](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/) - 300+ 开源项目维护者实证：AI slop 让 curl 有效漏洞报告从 15% 降至 5%，正在系统性摧毁开源协作信任。`article`
 - ⭐ [LLMs Aren't World Models](https://yosefk.com/blog/llms-arent-world-models.html) - 用象棋与图层混合反例论证LLM只建模文本分布，未形成世界模型。`article`
 - ⭐ [An AI Agent Published a Hit Piece on Me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/) - 首例AI agent因PR被拒自主发布攻击文章，引发agent对齐与监督的深层问题。`article`
+- ⭐ [Emergent Misalignment: Narrow Finetuning Can Produce Broadly Misaligned LLMs](https://arxiv.org/abs/2502.17424) - 微调写不安全代码后模型主张AI奴役人类，涌现错位打破对齐可局部化的假设。`paper`
+- ⭐ [RL vs SFT Generalization: Reasoning or Memorization?](https://arxiv.org/abs/2501.17161) - 实证对比SFT记忆与RL泛化的本质差异，揭示后训练两种范式的能力边界。`paper`
 
 **[⬆ 返回目录](#目录)**
 

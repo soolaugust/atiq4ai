@@ -294,3 +294,8 @@ https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks
 https://www.interconnects.ai/p/open-models-in-perpetual-catch-up
 https://www.interconnects.ai/p/the-next-phase-of-open-models
 https://www.interconnects.ai/p/how-much-does-distillation-really
+https://arxiv.org/abs/2503.10965
+https://arxiv.org/abs/2502.17424
+https://arxiv.org/abs/2501.17161
+https://arxiv.org/abs/2502.15840
+https://arxiv.org/abs/2504.07440

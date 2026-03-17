@@ -449,3 +449,7 @@ https://news.ycombinator.com/item?id=46691243
 https://github.com/htdt/godogen
 https://www.ntik.me/posts/voice-agent
 https://agent-safehouse.dev/
+https://arxiv.org/abs/2501.00663
+https://arxiv.org/abs/2409.13373
+https://arxiv.org/abs/2501.04519
+https://www.reddit.com/r/PromptEngineering/comments/1lc4tiz/forget_cot_the_prompting_technique_that_changes/

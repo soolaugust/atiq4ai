@@ -239,6 +239,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Mog – A Programming Language Designed to Be Written by LLMs](https://moglang.org) - 专为LLM生成代码设计的嵌入式编译语言，规范仅3200 token，无运算符优先级，能力沙盒化。`tool`
 - [OpenSeeker: Frontier Search Agent with 11.7k Samples](https://arxiv.org/abs/2603.15594) - 11.7k样本单次SFT超越工业级搜索agent，证明数据质量比规模更关键。`paper`
 - ⭐ [PaperCoder (Paper2Code)](https://github.com/going-doer/Paper2Code) - 多智能体框架，三阶段将 ML 论文自动转化为可运行代码库。`tool`
+- ⭐ [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663) - Google提出推理时可更新长期记忆模块，打破Transformer固定上下文限制。`paper`
+- ⭐ [rStar-Math: Small LLMs Can Master Math Reasoning](https://arxiv.org/abs/2501.04519) - MCTS 自进化让 7B 小模型数学推理无蒸馏超越 o1-preview。`paper`
 - ⭐ [Cross-Encoder Rediscovers a Semantic Variant of BM25](https://www.shaped.ai/blog/cross-encoder-rediscovers-a-semantic-variant-of-bm25) - 用可解释性方法解剖 cross-encoder，发现其内部重演了 BM25 的 TF、IDF 与长度归一化。`article`
 - ⭐ [Elven Rope and LLMs](https://vgel.me/posts/elven-rope-and-llms/) - 用精灵绳索隐喻论证：极度优化的 LLM 反而生成了有偏好有个性的「人工工匠」。`article`
 - ⭐ [When AI Writes the World's Software, Who Verifies It?](https://leodemoura.github.io/blog/2026-2-28-when-ai-writes-the-worlds-software-who-verifies-it/) - Lean 创始人论证 AI 代码验证危机，提出形式化验证作为唯一可靠路径。`article`
@@ -327,6 +329,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Small Models Can Introspect, Too](https://vgel.me/posts/qwen-introspection/) - 32B 开源模型存在被后训练压制的内省信号，正确 prompting 可显著激活。`article`
 - ⭐ [TheAgentCompany](https://github.com/TheAgentCompany/TheAgentCompany) - 175个职场任务评测 LLM agent，最强模型完成率仅24%。`paper`
 - ⭐ [Agentic Coding: The Most Important Empirical Evidence So Far](https://news.ycombinator.com/item?id=46691243) - 工程师集体回答 agentic coding 何时真正有效的经验证据帖。`article`
+- ⭐ [LLMs Still Can't Plan; Can LRMs?](https://arxiv.org/abs/2409.13373) - 用PlanBench评估o1规划能力，发现LRM仍距真正规划有显著差距。`paper`
 
 **[⬆ 返回目录](#目录)**
 

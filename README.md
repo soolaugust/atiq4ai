@@ -104,6 +104,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Automatic Creative Writing Evaluation via Grounded Theory-Derived Criteria](https://arxiv.org/abs/2603.15061) - 扎根理论驱动的 AI 创意写作自动评估框架，效果媲美人工标注。`paper`
 - ⭐ [Car Wash Test: 53 AI Models + 10,000 Human Baseline](https://opper.ai/blog/car-wash-test) - 用洗车场景测试53个模型，揭示多数AI被距离启发式劫持而非真正推理失败。`article`
 - [Stop Sloppypasta — 直接分享原始AI输出是无礼行为](https://stopsloppypasta.ai/en/) - 论证粘贴原始AI输出如何破坏写作的认知对称性与信任契约。`article`
+- ⭐ [INTERPOL: Breaking LLM Arena Anonymity](https://arxiv.org/abs/2603.15220) - 通过模型插值学习风格指纹，可精准识别LM Arena等榜单匿名模型并操纵排名。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -205,6 +206,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [ESM3](https://github.com/EvolutionaryScale/esm) - 序列-结构-功能三轨统一的提示式蛋白质生成模型。`tool`
 - [PocketFlow](https://github.com/The-Pocket/PocketFlow) - 100 行极简 LLM 框架，为 AI agent 可读性而设计。`tool`
 - ⭐ [Leanstral](https://mistral.ai/news/leanstral) - Mistral开源AI Agent，将LLM与Lean 4结合实现数学可验证的形式化证明。`tool`
+- ⭐ [Reasoning Content Is Causally Potent for Alignment](https://arxiv.org/abs/2603.12397) - 控制实验证明CoT推理内容对模型行为有独立因果效应，挑战仅监督输出的alignment策略。`paper`
+- ⭐ [Gradient Atoms: Unsupervised Behavioral Decomposition](https://arxiv.org/abs/2603.14665) - 对训练梯度做字典学习，无监督发现拒绝、算术等行为原子，可直接用作 steering vector 控制模型行为。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -272,6 +275,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Constitutional Black-Box Monitors for LLM Agent Scheming Detection](https://arxiv.org/abs/2603.00829) - 用宪法式黑盒监控检测 LLM Agent 隐蔽性失对齐行为的实证研究。`paper`
 - [Adversarial Ranking Causes Catastrophic Failure in LLM Web Agents](https://arxiv.org/abs/2603.00801) - 对抗排名如何让拥有正确信息的 LLM agent 仍然失败的认识论缺陷研究。`paper`
 - [Monotropic Artificial Intelligence](https://arxiv.org/abs/2603.00350) - 以单焦点认知为隐喻，提出刻意专精的 AI 作为通用大模型替代路径。`paper`
+- ⭐ [DToM-Track: LLMs Fail to Track Belief Trajectories](https://arxiv.org/abs/2603.14646) - LLM 能推断当前信念但无法追踪信念历史轨迹，揭示长程社会推理的系统性缺陷。`paper`
 
 **[⬆ 返回目录](#目录)**
 

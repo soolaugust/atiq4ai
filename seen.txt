@@ -478,3 +478,10 @@ https://tomjohnell.com/llms-can-be-absolutely-exhausting/
 https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/
 https://nanoclaw.dev/blog/nanoclaw-security-model
 https://codespeak.dev/
+https://aaai.org/about-aaai/presidential-panel-on-the-future-of-ai-research/
+https://arxiv.org/abs/2502.05167
+https://www.shaped.ai/blog/beyond-dot-products-retrieval-with-learned-similarities
+https://www.reddit.com/r/MachineLearning/comments/1jdiafd/p_i_finetuned_qwen_25_coder_on_a_single_repo_and/
+https://github.com/oumi-ai/oumi
+https://www.reddit.com/r/PromptEngineering/comments/1ieb65h/ai_prompting_110_essential_foundation_techniques/
+https://www.youtube.com/watch?v=aAfanTeRn84

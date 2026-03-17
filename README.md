@@ -341,6 +341,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Latent Space Recurrent Reasoning in Transformers](https://arxiv.org/abs/2510.00355) - 质疑 Transformer 推理局限来自设计空间未被充分探索，以层级推理模型实验澄清潜空间推理常见误解。`paper`
 - ⭐ [The AI Scientist](https://github.com/SakanaAI/AI-Scientist) - Sakana AI全自动科研系统：AI自主提出假说、写论文并自我审稿。`paper`
 - ⭐ [Are LLM Merge Rates Not Getting Better?](https://entropicthoughts.com/no-swe-bench-improvement) - 用统计方法重新分析 METR 数据，得出 LLM 合入率自 2025 年初停滞的反直觉结论。`article`
+- ⭐ [AAAI 2025: Future of AI Research Report](https://aaai.org/about-aaai/presidential-panel-on-the-future-of-ai-research/) - 475名研究者调查：76%认为纯scaling难以达到AGI，需要根本性新方向。`article`
+- ⭐ [NoLiMa: Long-Context Benchmark Without Lexical Overlap](https://arxiv.org/abs/2502.05167) - 无字面匹配时LLM长上下文性能大幅下降，32K时多数模型跌破基线50%。`paper`
 
 **[⬆ 返回目录](#目录)**
 

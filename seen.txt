@@ -344,3 +344,7 @@ https://arxiv.org/abs/2501.12599
 https://arxiv.org/abs/2406.07496
 https://platform.openai.com/docs/guides/reasoning
 https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/extended-thinking-tips
+https://www.oneusefulthing.org/p/the-cybernetic-teammate
+https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image
+https://www.oneusefulthing.org/p/against-brain-damage
+https://www.oneusefulthing.org/p/personality-and-persuasion

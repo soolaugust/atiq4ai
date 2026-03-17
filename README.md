@@ -124,6 +124,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [prometheus-eval](https://github.com/prometheus-eval/prometheus-eval) - 专为 LLM 评判任务训练的开源模型，支持 Rubric 驱动的细粒度绝对评分与比较评分。`tool`
 - ⭐ [Be Quiet: Reducing Noise for AI Coding Agents](https://blog.codemine.be/posts/2026/20260222-be-quiet/) - 系统梳理工具链 stdout 噪音治理方案，提出 LLM=true 环境变量设想以优化 agent 信噪比。`article`
 - ⭐ [Safe RLHF: Constrained Value Alignment](https://github.com/PKU-Alignment/safe-rlhf) - 将帮助性与无害性解耦为独立目标，用拉格朗日约束优化显式处理对齐冲突。`paper`
+- ⭐ [AI Can Learn Scientific Taste](https://arxiv.org/abs/2603.14473) - 用 70 万篇高低引用论文对训练 Scientific Judge，证明「科学品味」是可学习的 preference。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -266,6 +267,9 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [axbench](https://github.com/stanfordnlp/axbench) - Stanford 可解释性基准，实证简单 prompt 在 model steering 上碾压 SAE，颠覆复杂可解释性方法的价值假设。`tool`
 - ⭐ [Language-Model-SAEs](https://github.com/OpenMOSS/Language-Model-SAEs) - SAE 全套框架，含 Lorsa/Crosscoder/Transcoder，提出完全稀疏化语言模型以验证特征是否是计算基本单元。`tool`
 - ⭐ [symbolic-circuit-distillation](https://github.com/neelsomani/symbolic-circuit-distillation) - 自动将神经电路蒸馏为可执行算法，用 SMT 做有界等价性验证，打通 mech interp 到人类可读算法的自动化路径。`tool`
+- ⭐ [Confessions: Eliciting Honest Self-Reports from LLMs](https://alignment.openai.com/confessions/) - 训练模型在主回答后输出诚实坦白，奖励仅基于真实性，在 reward hacking 时仍能捕捉真实意图。`paper`
+- ⭐ [Neural Thickets: Diverse Task Experts Dense Around Pretrained Weights](https://arxiv.org/abs/2603.12228) - 大模型权重邻域密集分布任务专家，随机扰动+ensemble 媲美 PPO/GRPO，颠覆微调必须梯度下降的假设。`paper`
+- ⭐ [OpenClaw-RL: Train Any Agent Simply by Talking](https://arxiv.org/abs/2603.10165) - 将 agent 交互的下一状态信号统一为在线学习源，支持对话/终端/GUI/SWE 全类型 agent 持续自我改进。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -364,6 +368,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Are Large Language Models Worth It?](https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html) - Anthropic 研究员自曝利益冲突后追问 LLM 社会成本，示范带偏见时的认识论诚实。`article`
 - ⭐ [Machines of Ruthless Efficiency](https://nicholas.carlini.com/writing/2025/machines-of-ruthless-efficiency.html) - AI 最大风险是规模化"无情效率"而非科幻末日，为技术乐观者提供中间地带风险图景。`article`
 - ⭐ [Dean Ball on Open Models and Government Control](https://www.interconnects.ai/p/how-anthropic-vs-dow-impacts-open) - 政府限制 Anthropic 反而强化开源模型作为全球权力均衡点的必然性。`article`
+- ⭐ [Models Have Some Pretty Funny Attractor States](https://www.lesswrong.com/posts/mgjtEHeLgkhZZ3cEx/models-have-some-pretty-funny-attractor-states) - 多轮自由对话中各大模型收敛到独特稳定行为模式，揭示训练塑造的隐性人格。`article`
+- ⭐ [How AI Is Learning to Think in Secret](https://nickandresen.substack.com/p/how-ai-is-learning-to-think-in-secret) - 追溯 CoT 到 neuralese 的演变，论证 AI 推理链正变得人类不可读，安全监控的最后窗口正在关闭。`article`
 
 **[⬆ 返回目录](#目录)**
 

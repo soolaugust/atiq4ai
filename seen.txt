@@ -547,3 +547,15 @@ https://github.com/thedotmack/claude-mem
 https://github.com/EvolvingLMMs-Lab/lmms-eval
 https://github.com/Giskard-AI/giskard-oss
 https://github.com/OpenRLHF/OpenRLHF
+https://www.lesswrong.com/posts/mgjtEHeLgkhZZ3cEx/models-have-some-pretty-funny-attractor-states
+https://www.lesswrong.com/posts/KWdtL8iyCCiYud9mw/persona-parasitology
+https://www.lesswrong.com/posts/9rCTjbJpZB4KzqhiQ/you-can-t-imitation-learn-how-to-continual-learn
+https://nickandresen.substack.com/p/how-ai-is-learning-to-think-in-secret
+https://alignment.openai.com/confessions/
+https://arxiv.org/abs/2603.14473
+https://arxiv.org/abs/2603.12228
+https://arxiv.org/abs/2603.14465
+https://karpathy.ai/jobs/
+https://arxiv.org/abs/2603.10165
+https://www.lesswrong.com/posts/hopeRDfyAgQc4Ez2g/how-i-stopped-being-sure-llms-are-just-making-up-their
+https://www.lesswrong.com/posts/eFZKivCbDrer9G2fw/research-note-on-window-shifting-training-1

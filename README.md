@@ -283,6 +283,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Activation Steering Is Fine-Tuning](https://arxiv.org/abs/2603.00425) - 证明 activation steering 与 fine-tuning 一阶等价，0.04% 参数逼近全参数微调效果。`paper`
 - ⭐ [LiTS: Policy Diversity Is the Tree Search Bottleneck](https://arxiv.org/abs/2603.00631) - 发现LLM树搜索瓶颈是策略多样性而非奖励质量，颠覆常规假设。`paper`
 - ⭐ [Elimination Game](https://github.com/lechmazur/elimination_game) - 多人淘汰赛格式测试 LLM 欺骗与社交推理能力的基准。`tool`
+- ⭐ [Goodfire SDK](https://github.com/goodfire-ai/goodfire-sdk) - 用语义描述直接调节 LLM 内部 SAE 特征权重的 SDK。`tool`
 
 **[⬆ 返回目录](#目录)**
 

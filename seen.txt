@@ -604,3 +604,7 @@ https://arxiv.org/abs/2512.18792
 https://www.ai-frontiers.org/articles/the-misguided-quest-for-mechanistic-ai-interpretability
 https://getperspectives.app
 https://leetarxiv.substack.com/p/ibm-patented-eulers-fractions
+https://github.com/sotopia-lab/sotopia
+https://github.com/jonathanmli/Avalon-LLM
+https://github.com/goodfire-ai/goodfire-sdk
+https://github.com/allenai/wildteaming

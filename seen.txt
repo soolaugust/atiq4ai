@@ -524,3 +524,8 @@ https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html
 https://nicholas.carlini.com/writing/2025/machines-of-ruthless-efficiency.html
 https://nicholas.carlini.com/writing/2025/ai-forecasting-overconfident.html
 https://www.anthropic.com/research/evaluating-ai-systems
+https://www.interconnects.ai/p/how-anthropic-vs-dow-impacts-open
+https://www.interconnects.ai/p/olmo-hybrid-and-future-llm-architectures
+https://www.interconnects.ai/p/2026-ai-predictions
+https://www.deeplearning.ai/the-batch/crowdsourced-context-for-coding-agents/
+https://www.scattered-thoughts.net/writing/trying-to-reason-about-ai-timelines-in-2025/

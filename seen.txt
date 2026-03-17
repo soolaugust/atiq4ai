@@ -529,3 +529,8 @@ https://www.interconnects.ai/p/olmo-hybrid-and-future-llm-architectures
 https://www.interconnects.ai/p/2026-ai-predictions
 https://www.deeplearning.ai/the-batch/crowdsourced-context-for-coding-agents/
 https://www.scattered-thoughts.net/writing/trying-to-reason-about-ai-timelines-in-2025/
+https://github.com/Compresr-ai/Context-Gateway
+https://ashell.dev
+https://www.arthur.ai/blog/best-practices-for-building-agents-part-1-observability-and-tracing
+https://blog.getspine.ai/spine-swarm-hits-1-on-gaia-level-3-and-google-deepmind-deepsearchqa
+https://github.com/abekek/arise

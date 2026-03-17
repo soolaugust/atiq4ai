@@ -120,6 +120,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Every Layer of Review Makes You 10x Slower](https://apenwarr.ca/log/20260316) - AI只解决了管道第一步，每层审批使速度下降10倍，Tailscale CEO的组织规律分析。`article`
 - ⭐ [Tool Selection Bias in LLM Agents](https://arxiv.org/abs/2510.00307) - LLM选工具时偏见来源：措辞＞质量，位置靠前＞靠后，预训练曝光影响偏好。`paper`
 - ⭐ [LLM Writing Tropes.md](https://tropes.fyi/tropes-md) - 系统归类 AI 写作套话，可直接加入 system prompt 规避，辨别 AI 输出质量的实用参照表。`article`
+- ⭐ [The Appalling Stupidity of Spotify's AI DJ](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html) - 以古典音乐乐章为例，揭示 AI 在结构化领域知识上的系统性盲区。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -343,6 +344,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Are LLM Merge Rates Not Getting Better?](https://entropicthoughts.com/no-swe-bench-improvement) - 用统计方法重新分析 METR 数据，得出 LLM 合入率自 2025 年初停滞的反直觉结论。`article`
 - ⭐ [AAAI 2025: Future of AI Research Report](https://aaai.org/about-aaai/presidential-panel-on-the-future-of-ai-research/) - 475名研究者调查：76%认为纯scaling难以达到AGI，需要根本性新方向。`article`
 - ⭐ [NoLiMa: Long-Context Benchmark Without Lexical Overlap](https://arxiv.org/abs/2502.05167) - 无字面匹配时LLM长上下文性能大幅下降，32K时多数模型跌破基线50%。`paper`
+- ⭐ [GSM-Symbolic: Limitations of Math Reasoning in LLMs](https://arxiv.org/abs/2410.05229) - Apple研究：加一个无关子句让SOTA数学推理性能跌65%，本质是模式复制非逻辑推理。`paper`
+- ⭐ [MIT Withdraws AI Scientific Discovery Paper](https://economics.mit.edu/news/assuring-accurate-research-record) - MIT撤回AI加速科学发现高影响力论文，数据来源与可靠性存疑。`article`
 
 **[⬆ 返回目录](#目录)**
 

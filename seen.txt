@@ -485,3 +485,7 @@ https://www.reddit.com/r/MachineLearning/comments/1jdiafd/p_i_finetuned_qwen_25_
 https://github.com/oumi-ai/oumi
 https://www.reddit.com/r/PromptEngineering/comments/1ieb65h/ai_prompting_110_essential_foundation_techniques/
 https://www.youtube.com/watch?v=aAfanTeRn84
+https://arxiv.org/abs/2410.05229
+https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html
+https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content
+https://economics.mit.edu/news/assuring-accurate-research-record

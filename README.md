@@ -111,6 +111,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [The 2026 of AI Engineering — War on Slop](https://www.latent.space/p/2026) - swyx提出scaling without slop框架：AI时代核心是改变低质输出的斜率而非二元对立。`article`
 - ⭐ [METR Task Standard](https://github.com/METR/task-standard) - METR 定义的 AI agent 评测任务标准，含多套主流 eval 适配器。`tool`
 - ⭐ [openai/swarm](https://github.com/openai/swarm) - OpenAI 极简多 agent 框架，仅 Agent+Handoff 两原语，是对框架复杂度的有力品味声明。`tool`
+- ⭐ [Can I Run AI Locally?](https://www.canirun.ai/) - 浏览器内检测硬件，告知你能跑哪些本地 AI 模型。`tool`
 
 **[⬆ 返回目录](#目录)**
 
@@ -228,6 +229,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [OpenHands](https://github.com/All-Hands-AI/OpenHands) - 自主软件开发agent平台，支持写代码、跑终端、浏览网页，SWE-Bench持续领先。`tool`
 - [browser-use](https://github.com/browser-use/browser-use) - Python库，融合视觉与HTML让AI agent操控真实浏览器。`tool`
 - [AutoPrompt](https://github.com/Eladlev/AutoPrompt) - 迭代构建edge case数据集，自动优化prompt鲁棒性的框架。`tool`
+- ⭐ [Agent Browser Protocol](https://github.com/theredsix/agent-browser-protocol) - 将Chromium改造为MCP服务，每次动作后冻结JS并返回稳定页面状态，消除agent与浏览器的异步竞态。`tool`
+- ⭐ [Mog – A Programming Language Designed to Be Written by LLMs](https://moglang.org) - 专为LLM生成代码设计的嵌入式编译语言，规范仅3200 token，无运算符优先级，能力沙盒化。`tool`
 
 **[⬆ 返回目录](#目录)**
 
@@ -301,6 +304,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Concept Erasure (LEACE)](https://github.com/EleutherAI/concept-erasure) - 用LEACE方法从神经网络激活中线性擦除指定概念，具可证明保证。`tool`
 - ⭐ [GNoME](https://github.com/google-deepmind/materials_discovery) - 用图神经网络发现38万种新晶体，追问AI驱动科学发现的速度极限。`paper`
 - ⭐ [LiveBench](https://github.com/LiveBench/LiveBench) - 按月换题、客观评分的LLM基准，用时效性数据抗训练集污染。`tool`
+- [How We Hacked McKinsey's AI Platform](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform) - AI攻击agent自主选目标，2小时无凭证拿下麦肯锡内部AI平台全库读写权限。`article`
 
 **[⬆ 返回目录](#目录)**
 

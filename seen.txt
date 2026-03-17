@@ -412,3 +412,9 @@ https://github.com/ethz-spylab/agentdojo
 https://github.com/Eladlev/AutoPrompt
 https://github.com/METR/task-standard
 https://github.com/openai/swarm
+https://github.com/theredsix/agent-browser-protocol
+https://moglang.org
+https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform
+https://www.canirun.ai/
+https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job
+https://news.ycombinator.com/newsguidelines.html

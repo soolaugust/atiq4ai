@@ -236,3 +236,10 @@ https://hardcoresoftware.learningbyshipping.com/p/234-if-writing-is-thinking
 https://hardcoresoftware.learningbyshipping.com/p/233-the-illusion-of-thinking-thoughts
 https://www.normaltech.ai/p/agi-is-not-a-milestone
 https://www.normaltech.ai/p/could-ai-slow-science
+https://github.com/dottxt-ai/outlines
+https://github.com/guidance-ai/guidance
+https://github.com/microsoft/LLMLingua
+https://github.com/jbloomAus/SAELens
+https://github.com/typedef-ai/fenic
+https://github.com/Pipelex/pipelex
+https://github.com/hijohnnylin/neuronpedia

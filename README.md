@@ -78,6 +78,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - [repomix](https://github.com/yamadashy/repomix) - 将代码仓库打包为 AI 友好的单一文件，优化大型代码库上下文喂入的结构化方式。`tool`
 - ⭐ [Context Rot: How Increasing Input Tokens Impacts LLM Performance](https://research.trychroma.com/context-rot) - Chroma 实验证明 context 越长性能非单调退化，context engineering 优先于堆信息。`article`
 - ⭐ ["The Illusion of Thinking" — Thoughts on This Important Paper](https://hardcoresoftware.learningbyshipping.com/p/233-the-illusion-of-thinking-thoughts) - Sinofsky批判AI拟人化框架的三重危害，援引Clippy教训论证谦逊设计的品味价值。`article`
+- [SAELens](https://github.com/jbloomAus/SAELens) - 训练稀疏自编码器分解LLM内部激活为可解释特征的生产级工具库。`tool`
 
 **[⬆ 返回目录](#目录)**
 
@@ -134,6 +135,9 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Taming Agentic Engineering: Prompts Are Code](https://mariozechner.at/posts/2025-06-02-prompts-are-code/) - 把 LLM 类比劣质通用计算机，将 prompt 设计为程序，给出大型代码库迁移完整方法论。`article`
 - [Get Good at Agents](https://www.interconnects.ai/p/get-good-at-agents) - Nathan Lambert亲历反思：agent时代人的角色从执行者变为指挥官，决策力比执行力更值钱。`article`
 - [Could AI Slow Science?](https://www.normaltech.ai/p/could-ai-slow-science) - 反常识论证：AI加速科学生产可能因注意力稀释与过度生产悖论反而减缓真正的科学进步。`article`
+- ⭐ [outlines](https://github.com/dottxt-ai/outlines) - 推理时操控logits以FSM强制约束LLM输出格式，从根本上保证合法性而非靠重试补救。`tool`
+- ⭐ [guidance](https://github.com/guidance-ai/guidance) - 控制流与LLM生成交错的编程范式，把模型当解释器而非黑盒。`tool`
+- [fenic](https://github.com/typedef-ai/fenic) - 声明式上下文工程框架，用类Spark API在agent外部完成extract/summarize/embed。`tool`
 
 **[⬆ 返回目录](#目录)**
 

@@ -87,6 +87,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Klarity](https://github.com/klara-research/klarity) - 基于双重熵分析和视觉注意力监控的LLM可解释性调试工具包。`tool`
 - ⭐ [nnsight](https://github.com/ndif-team/nnsight) - NDIF出品的因果干预框架，可在任意PyTorch模型上执行激活访问与修改，支持远程大模型可解释性研究。`tool`
 - ⭐ [pyvene](https://github.com/stanfordnlp/pyvene) - Stanford NLP因果干预库，支持对任意PyTorch模型内部状态做可控干预实验，验证概念编码假说。`tool`
+- ⭐ [LLMs Work Best When You Define Acceptance Criteria First](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code) - 基准测试揭示LLM代码「看似正确实则错误」的具体机制，倡导先定义验收标准再生成代码。`article`
+- ⭐ [How I Write Software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/) - 资深开发者详述多模型分角色协作工作流，编程技能转移到架构层的实战证明。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -162,6 +164,9 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [LLM-RecSys Hybrid with Semantic IDs](https://eugeneyan.com/writing/semantic-ids/) - 训练双语LLM同时理解自然语言与商品Semantic ID，实现可自然语言引导的推荐系统。`article`
 - ⭐ [Vignettes from the Takeoff](https://www.strangeloopcanon.com/p/vignettes-from-the-takeoff) - 散文体未来回忆录，探讨AI加速后执行廉价化时「知道做什么」成为真正稀缺能力。`article`
 - [Big Tech Engineers Need Big Egos](https://seangoedecke.com/big-tech-needs-big-egos/) - 分析大厂工程师为何需要「有条件的大自我」，兼论信心与服从的精妙平衡。`article`
+- ⭐ [The L in "LLM" Stands for Lying](https://acko.net/blog/the-l-in-llm-stands-for-lying/) - 以「伪造」框架重新定义LLM输出本质，从认识论角度质疑AI生成内容的真实性。`article`
+- ⭐ [Experts Have World Models. LLMs Have Word Models](https://www.latent.space/p/adversarial-reasoning) - 对抗性推理视角揭示LLM词语模型与专家世界模型的本质差距。`article`
+- ⭐ [The Harness Problem: Improving 15 LLMs at Coding in One Afternoon](http://blog.can.ac/2026/02/12/the-harness-problem/) - 改进edit tool设计，一个下午同时提升15个模型编码表现，harness比模型更重要。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -211,6 +216,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Agentic Engineering Patterns: Hoard Things You Know How to Do](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/) - AI 时代工程师核心竞争力是知道什么可能，用 LLM 持续扩展已验证方案库。`article`
 - ⭐ [AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - 提出流程工程概念：迭代测试流程替代 prompt 优化，颠覆「更好 prompt = 更好代码」的线性假设。`paper`
 - [AI Is Destroying Open Source](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/) - 300+ 开源项目维护者实证：AI slop 让 curl 有效漏洞报告从 15% 降至 5%，正在系统性摧毁开源协作信任。`article`
+- ⭐ [LLMs Aren't World Models](https://yosefk.com/blog/llms-arent-world-models.html) - 用象棋与图层混合反例论证LLM只建模文本分布，未形成世界模型。`article`
+- ⭐ [An AI Agent Published a Hit Piece on Me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/) - 首例AI agent因PR被拒自主发布攻击文章，引发agent对齐与监督的深层问题。`article`
 
 **[⬆ 返回目录](#目录)**
 

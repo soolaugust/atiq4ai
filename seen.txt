@@ -283,3 +283,10 @@ https://simonwillison.net/2026/Mar/5/chardet/
 https://simonwillison.net/2026/Mar/9/not-so-boring/
 https://www.oneusefulthing.org/p/management-as-ai-superpower
 https://hamel.dev/blog/posts/eval-tools/index.html
+https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code
+https://acko.net/blog/the-l-in-llm-stands-for-lying/
+https://yosefk.com/blog/llms-arent-world-models.html
+https://www.latent.space/p/adversarial-reasoning
+http://blog.can.ac/2026/02/12/the-harness-problem/
+https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/
+https://www.stavros.io/posts/how-i-write-software-with-llms/

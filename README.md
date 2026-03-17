@@ -121,6 +121,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Tool Selection Bias in LLM Agents](https://arxiv.org/abs/2510.00307) - LLM选工具时偏见来源：措辞＞质量，位置靠前＞靠后，预训练曝光影响偏好。`paper`
 - ⭐ [LLM Writing Tropes.md](https://tropes.fyi/tropes-md) - 系统归类 AI 写作套话，可直接加入 system prompt 规避，辨别 AI 输出质量的实用参照表。`article`
 - ⭐ [The Appalling Stupidity of Spotify's AI DJ](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html) - 以古典音乐乐章为例，揭示 AI 在结构化领域知识上的系统性盲区。`article`
+- ⭐ [prometheus-eval](https://github.com/prometheus-eval/prometheus-eval) - 专为 LLM 评判任务训练的开源模型，支持 Rubric 驱动的细粒度绝对评分与比较评分。`tool`
 
 **[⬆ 返回目录](#目录)**
 
@@ -258,6 +259,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - [I Built a Sub-500ms Latency Voice Agent from Scratch](https://www.ntik.me/posts/voice-agent) - 从零构建语音 agent：TTFT 决定一切，turn-taking 是协调而非转录问题。`article`
 - ⭐ [Singular Learning Theory: Initial Quick Thoughts](https://www.beren.io/2025-12-24-Initial-Quick-Thoughts-on-Singular-Learning-Theory/) - 提出 SGD 噪声下限可能触发 SLT 类论证的"伪奇点"假说，连接理论与大规模预训练实践。`article`
 - ⭐ [Deep Ignorance: Filtering Pretraining Data for Open-Weight Safety](https://blog.eleuther.ai/deep-ignorance/) - 预训练数据过滤比事后对齐更能构建抗篡改安全基线，实验证明可抗微调篡改。`article`
+- ⭐ [STORM](https://github.com/stanford-oval/storm) - 多视角提问+检索自动生成维基百科级长文，验证提问比回答更重要的 AI 使用方式。`tool`
 
 **[⬆ 返回目录](#目录)**
 

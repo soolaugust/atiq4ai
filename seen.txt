@@ -497,3 +497,13 @@ https://research.google/blog/testing-llms-on-superconductivity-research-question
 https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/
 https://www.jasonwei.net/blog/life-lessons-from-reinforcement-learning
 https://www.beren.io/2026-01-01-Intellectual-Progress-in-2025/
+https://github.com/NVIDIA/garak
+https://github.com/prometheus-eval/prometheus-eval
+https://github.com/simplescaling/s1
+https://github.com/getzep/graphiti
+https://github.com/instructor-ai/instructor
+https://github.com/stanford-oval/storm
+https://github.com/argilla-io/distilabel
+https://github.com/bytedance/UI-TARS
+https://github.com/mastra-ai/mastra
+https://github.com/mem0ai/mem0

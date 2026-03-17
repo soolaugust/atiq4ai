@@ -52,6 +52,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - [Hallucinations in code are the least dangerous form of LLM mistakes](https://simonwillison.net/2025/Mar/2/hallucinations-in-code/) - 代码幻觉会立即报错，逻辑正确但语义错误才是 LLM 代码的真实风险。`article`
 - [microsoft/promptbench](https://github.com/microsoft/promptbench) - 对抗性 prompt 测试 LLM 鲁棒性，量化换一种说法后模型的性能衰减。`tool`
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - 用 OpenTelemetry 标准让 AI 生产行为首次可观测，品味判断的地基。`tool`
+- ⭐ [The Shape of AI: Jaggedness, Bottlenecks and Salients](https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks) - 分析AI能力的锯齿边界、瓶颈与突破点，帮助判断何时依赖AI。`article`
+- ⭐ [Can We Get an AI to Write Better?](https://www.strangeloopcanon.com/p/can-we-get-an-ai-to-write-better) - 用熵与惊喜度量化优质写作特征，探索AI写作质量的可计算生产函数。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -75,6 +77,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Why Tool AIs Want to Be Agent AIs](https://gwern.net/tool-ai) - 2016 年已证明：纯工具 AI 在经济和智能上都必然输给 Agent AI。`article`
 - [Giving LLMs a Personality is Just Good Engineering](https://www.seangoedecke.com/giving-llms-a-personality/) - 人格化是工程必然：base model 无界，人格是在混沌中划定「有用区域」的唯一手段。`article`
 - ⭐ [Agent Symbolic Learning (Agents 2.0)](https://github.com/aiwaves-cn/agents) - 用语言梯度替代数值梯度训练 agent，将反向传播结构迁移到 prompt 优化。`tool`
+- ⭐ [The Tragedy of the Agentic Commons](https://www.strangeloopcanon.com/p/the-tragedy-of-the-agentic-commons) - 人人有 Agent 等于没有 Agent——AI 协调问题的 Hayek 解法。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -98,6 +101,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - [A Treatise on AI Chatbots Undermining the Enlightenment](https://maggieappleton.com/ai-enlightenment) - AI 让思考更顺滑，是否正在悄悄取消启蒙运动的核心遗产？`article`
 - ⭐ [CoT-Valve: Length-Compressible Chain-of-Thought Tuning](https://arxiv.org/abs/2502.09601) - 参数空间中存在可连续调节的推理长度方向，推理深度是模型的内在维度而非偶然现象。`paper`
 - ⭐ [NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - 用 Colang DSL 显式编程约束 AI 行为，暗示 prompt 根本不是可靠控制面。`tool`
+- [Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace) - Dario Amodei 描绘 AI 正向未来，逼问「我们究竟在为什么构建 AI」。`article`
 
 **[⬆ 返回目录](#目录)**
 

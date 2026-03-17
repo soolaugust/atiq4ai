@@ -37,3 +37,10 @@ https://simonwillison.net/2025/May/25/claude-4-system-prompt/
 https://github.com/JackHopkins/factorio-learning-environment
 https://atmoio.substack.com/p/after-two-years-of-vibecoding-im
 https://github.com/brexhq/prompt-engineering
+https://github.com/epiral/agent-clip
+https://github.com/diet103/claude-code-infrastructure-showcase
+https://arxiv.org/abs/2510.14453
+https://github.com/openai/openai-cookbook/blob/main/examples/gpt4-1_prompting_guide.ipynb
+https://www.kaggle.com/whitepaper-prompt-engineering
+https://github.com/NirDiamant/Prompt_Engineering
+https://www.anthropic.com/learn

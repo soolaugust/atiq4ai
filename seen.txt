@@ -568,3 +568,9 @@ https://getbruin.com/blog/go-is-the-best-language-for-agents/
 https://llmskirmish.com/
 https://github.com/mastra-ai/mastra/blob/main/book/principles-of-building-ai-agents.pdf
 https://news.ycombinator.com/item?id=46385179
+https://github.com/steering-vectors/steering-vectors
+https://github.com/UFO-101/auto-circuit
+https://github.com/QwenLM/ProcessBench
+https://github.com/arcprize/ARC-AGI-2
+https://github.com/ServiceNow/WorkArena
+https://github.com/nrimsky/CAA

@@ -125,6 +125,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Be Quiet: Reducing Noise for AI Coding Agents](https://blog.codemine.be/posts/2026/20260222-be-quiet/) - 系统梳理工具链 stdout 噪音治理方案，提出 LLM=true 环境变量设想以优化 agent 信噪比。`article`
 - ⭐ [Safe RLHF: Constrained Value Alignment](https://github.com/PKU-Alignment/safe-rlhf) - 将帮助性与无害性解耦为独立目标，用拉格朗日约束优化显式处理对齐冲突。`paper`
 - ⭐ [AI Can Learn Scientific Taste](https://arxiv.org/abs/2603.14473) - 用 70 万篇高低引用论文对训练 Scientific Judge，证明「科学品味」是可学习的 preference。`paper`
+- ⭐ [AutoCircuit](https://github.com/UFO-101/auto-circuit) - 自动发现 transformer 最小功能电路，同时证明主流评估指标存在系统性鲁棒性缺陷。`tool`
+- ⭐ [ProcessBench](https://github.com/QwenLM/ProcessBench) - 评估推理过程监督质量，定位数学推理链首个错误步骤。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -271,6 +273,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Neural Thickets: Diverse Task Experts Dense Around Pretrained Weights](https://arxiv.org/abs/2603.12228) - 大模型权重邻域密集分布任务专家，随机扰动+ensemble 媲美 PPO/GRPO，颠覆微调必须梯度下降的假设。`paper`
 - ⭐ [OpenClaw-RL: Train Any Agent Simply by Talking](https://arxiv.org/abs/2603.10165) - 将 agent 交互的下一状态信号统一为在线学习源，支持对话/终端/GUI/SWE 全类型 agent 持续自我改进。`paper`
 - ⭐ [LLM Skirmish](https://llmskirmish.com/) - 多 LLM 通过写代码在实时策略游戏中 1v1 对战的 benchmark。`tool`
+- ⭐ [CAA: Contrastive Activation Addition](https://github.com/nrimsky/CAA) - 提取正负样本激活差向量，精准操控 Llama 2 顺从性等七种对齐行为。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -371,6 +374,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Dean Ball on Open Models and Government Control](https://www.interconnects.ai/p/how-anthropic-vs-dow-impacts-open) - 政府限制 Anthropic 反而强化开源模型作为全球权力均衡点的必然性。`article`
 - ⭐ [Models Have Some Pretty Funny Attractor States](https://www.lesswrong.com/posts/mgjtEHeLgkhZZ3cEx/models-have-some-pretty-funny-attractor-states) - 多轮自由对话中各大模型收敛到独特稳定行为模式，揭示训练塑造的隐性人格。`article`
 - ⭐ [How AI Is Learning to Think in Secret](https://nickandresen.substack.com/p/how-ai-is-learning-to-think-in-secret) - 追溯 CoT 到 neuralese 的演变，论证 AI 推理链正变得人类不可读，安全监控的最后窗口正在关闭。`article`
+- ⭐ [ARC-AGI-2](https://github.com/arcprize/ARC-AGI-2) - 人类完成率 66% 而顶级 AI 接近 0%，最直接区分少样本泛化与训练集记忆的 AGI 基准。`tool`
 
 **[⬆ 返回目录](#目录)**
 

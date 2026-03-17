@@ -157,6 +157,11 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - [Who Needs Git When You Have 1M Context Windows?](https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html) - 长上下文LLM对话天然具有状态持久性，意外成为隐式版本控制的真实案例。`article`
 - ⭐ [Can LLMs Be Computers?](https://www.percepta.ai/blog/can-llms-be-computers) - 在transformer内构建计算机，执行任意C程序，以2D注意力头实现指数级推理加速。`article`
 - [veRL](https://github.com/volcengine/verl) - 字节跳动开源RLHF训练框架，支持PPO/GRPO及多轮agent强化学习训练。`tool`
+- ⭐ [Poisoned Prose: Semantic Trojan Horses in LLMs](https://www.strangeloopcanon.com/p/poisoned-prose) - 通过激活工程将语义特征注入训练数据，证明人格偏置可悄无声息地传递给下游模型。`article`
+- ⭐ [Will Money Still Exist in the Agentic Economy?](https://www.strangeloopcanon.com/p/will-money-still-exist-in-the-agentic) - 实验证明AI agent无法自发涌现货币，agentic经济仍需顶层制度设计。`article`
+- ⭐ [LLM-RecSys Hybrid with Semantic IDs](https://eugeneyan.com/writing/semantic-ids/) - 训练双语LLM同时理解自然语言与商品Semantic ID，实现可自然语言引导的推荐系统。`article`
+- ⭐ [Vignettes from the Takeoff](https://www.strangeloopcanon.com/p/vignettes-from-the-takeoff) - 散文体未来回忆录，探讨AI加速后执行廉价化时「知道做什么」成为真正稀缺能力。`article`
+- [Big Tech Engineers Need Big Egos](https://seangoedecke.com/big-tech-needs-big-egos/) - 分析大厂工程师为何需要「有条件的大自我」，兼论信心与服从的精妙平衡。`article`
 
 **[⬆ 返回目录](#目录)**
 

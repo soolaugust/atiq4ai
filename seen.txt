@@ -274,3 +274,12 @@ https://github.com/mlc-ai/xgrammar
 https://github.com/volcengine/verl
 https://github.com/Arize-ai/phoenix
 https://github.com/openlit/openlit
+https://www.strangeloopcanon.com/p/poisoned-prose
+https://www.strangeloopcanon.com/p/will-money-still-exist-in-the-agentic
+https://eugeneyan.com/writing/semantic-ids/
+https://www.strangeloopcanon.com/p/vignettes-from-the-takeoff
+https://seangoedecke.com/big-tech-needs-big-egos/
+https://simonwillison.net/2026/Mar/5/chardet/
+https://simonwillison.net/2026/Mar/9/not-so-boring/
+https://www.oneusefulthing.org/p/management-as-ai-superpower
+https://hamel.dev/blog/posts/eval-tools/index.html

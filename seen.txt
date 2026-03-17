@@ -333,3 +333,8 @@ https://fly.io/blog/youre-all-nuts/
 https://joshfonseca.com/blogs/animal-crossing-llm
 https://zed.dev/blog/why-llms-cant-build-software
 https://tomrenner.com/posts/llm-inevitabilism/
+https://arxiv.org/abs/2603.15607
+https://arxiv.org/abs/2603.14975
+https://arxiv.org/abs/2603.15500
+https://arxiv.org/abs/2603.15527
+https://arxiv.org/abs/2603.15061

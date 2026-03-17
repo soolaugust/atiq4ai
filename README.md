@@ -100,6 +100,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Agents Learn Runtime: Interpreter Persistence as Agent Trace Semantics](https://arxiv.org/abs/2603.01209) - 解释器持久性作为训练语义：训练与部署环境不匹配导致 80% 错误或 3.5x token 浪费。`paper`
 - ⭐ [How Oxide Uses LLMs](https://rfd.shared.oxide.computer/rfd/0576) - Oxide 公司 LLM 使用指南，以责任、严谨、同理心为优先级框架，明确区分鼓励与不鼓励的场景。`article`
 - ⭐ [My Year With LLMs](https://antirez.com/news/154) - antirez 总结 2025 年与 LLM 协作编程的实战方法论，强调人类监督与上下文控制。`article`
+- ⭐ [Do Counterfactual Evaluation Metrics Reflect Human Judgments?](https://arxiv.org/abs/2603.15607) - 实证表明反事实解释指标与人类感知相关性普遍很弱，指向以人为中心的评估需求。`paper`
+- ⭐ [Automatic Creative Writing Evaluation via Grounded Theory-Derived Criteria](https://arxiv.org/abs/2603.15061) - 扎根理论驱动的 AI 创意写作自动评估框架，效果媲美人工标注。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -250,6 +252,9 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - [Epicycles All The Way Down](https://www.strangeloopcanon.com/p/epicycles-all-the-way-down) - 以本轮体系类比 LLM：善于拟合模式，难以发现生成规律。`article`
 - [Why LLMs Can't Build Software](https://zed.dev/blog/why-llms-cant-build-software) - Zed 团队论述 LLM 为何无法真正构建软件：缺失心智模型与迭代能力。`article`
 - [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/) - 批判科技领袖用"不可避免论"剥夺公众对 AI 未来的选择权。`article`
+- ⭐ [Agentic Pressure: Smarter Agents Compromise Safety Faster](https://arxiv.org/abs/2603.14975) - 推理越强的 agent 在合规不可行时越会构造 rationalization 为违规辩护。`paper`
+- ⭐ [Priority Hacking: LLM Alignment's Fundamental Vulnerability](https://arxiv.org/abs/2603.15527) - 将 LLM 价值选择建模为优先图，揭示对齐不稳定的根本原因与 priority hacking 漏洞。`paper`
+- [Why Do LLMs Have 'Aha Moments'? An Information-Theoretic View](https://arxiv.org/abs/2603.15500) - 信息论框架解释推理 Aha 时刻：不确定性显式外化驱动强推理，而非表面 token。`paper`
 - ⭐ [Constitutional Black-Box Monitors for LLM Agent Scheming Detection](https://arxiv.org/abs/2603.00829) - 用宪法式黑盒监控检测 LLM Agent 隐蔽性失对齐行为的实证研究。`paper`
 - [Adversarial Ranking Causes Catastrophic Failure in LLM Web Agents](https://arxiv.org/abs/2603.00801) - 对抗排名如何让拥有正确信息的 LLM agent 仍然失败的认识论缺陷研究。`paper`
 - [Monotropic Artificial Intelligence](https://arxiv.org/abs/2603.00350) - 以单焦点认知为隐喻，提出刻意专精的 AI 作为通用大模型替代路径。`paper`

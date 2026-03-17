@@ -574,3 +574,8 @@ https://github.com/QwenLM/ProcessBench
 https://github.com/arcprize/ARC-AGI-2
 https://github.com/ServiceNow/WorkArena
 https://github.com/nrimsky/CAA
+https://news.ycombinator.com/item?id=47336498
+https://skyfall.ai/blog/building-the-foundations-of-an-ai-ceo
+https://ctgt.ai
+https://m-arriola.com/bd3lms/
+https://github.com/ZHZisZZ/dllm

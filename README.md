@@ -274,6 +274,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [OpenClaw-RL: Train Any Agent Simply by Talking](https://arxiv.org/abs/2603.10165) - 将 agent 交互的下一状态信号统一为在线学习源，支持对话/终端/GUI/SWE 全类型 agent 持续自我改进。`paper`
 - ⭐ [LLM Skirmish](https://llmskirmish.com/) - 多 LLM 通过写代码在实时策略游戏中 1v1 对战的 benchmark。`tool`
 - ⭐ [CAA: Contrastive Activation Addition](https://github.com/nrimsky/CAA) - 提取正负样本激活差向量，精准操控 Llama 2 顺从性等七种对齐行为。`paper`
+- ⭐ [Block Diffusion: Interpolating AR and Diffusion Language Models](https://m-arriola.com/bd3lms/) - 块级扩散架构在 AR 与扩散模型之间插值，突破可变长度生成限制。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -375,6 +376,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Models Have Some Pretty Funny Attractor States](https://www.lesswrong.com/posts/mgjtEHeLgkhZZ3cEx/models-have-some-pretty-funny-attractor-states) - 多轮自由对话中各大模型收敛到独特稳定行为模式，揭示训练塑造的隐性人格。`article`
 - ⭐ [How AI Is Learning to Think in Secret](https://nickandresen.substack.com/p/how-ai-is-learning-to-think-in-secret) - 追溯 CoT 到 neuralese 的演变，论证 AI 推理链正变得人类不可读，安全监控的最后窗口正在关闭。`article`
 - ⭐ [ARC-AGI-2](https://github.com/arcprize/ARC-AGI-2) - 人类完成率 66% 而顶级 AI 接近 0%，最直接区分少样本泛化与训练集记忆的 AGI 基准。`tool`
+- ⭐ [Mini Amusement Parks: Building the Foundations of an AI CEO](https://skyfall.ai/blog/building-the-foundations-of-an-ai-ceo) - 实测 GPT-5 在商业模拟中仅达人类 10%，揭示 AI 长期规划的真实边界。`article`
 
 **[⬆ 返回目录](#目录)**
 

@@ -63,6 +63,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - [Tools for Thought as Cultural Practices](https://maggieappleton.com/tools-for-thought) - 用人类学视角理解思维工具历史，为评判AI工具是否真正增强认知提供参照系。`article`
 - ⭐ [Common Pitfalls When Building Generative AI Applications](https://huyenchip.com/2025/01/16/ai-engineering-pitfalls.html) - Chip Huyen 总结构建 GenAI 应用的常见陷阱，案例真实、判断力强。`article`
 - ⭐ [CoT Faithfulness: Reasoning Models Don't Always Say What They Think](https://arxiv.org/abs/2505.05410) - 实证推理模型 CoT 披露率低于 20%，CoT 监控不足以保障 AI 安全性。`paper`
+- ⭐ [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/) - Karpathy 总结的神经网络训练完整方法论，从数据理解到调试调参，是判断 AI 输出质量的实践基准。`article`
+- ⭐ [Scaling Monosemanticity: Extracting Interpretable Features from Claude](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html) - Anthropic 从 Claude 3 中提取可解释特征，揭示欺骗与自我表征等内部机制。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -98,6 +100,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Building Personal Software with Claude](https://blog.nelhage.com/post/personal-software-with-claude/) - Anthropic 工程师用 Claude 完成 Rust 移植实战，反思 LLM 对软件开发的重塑。`article`
 - ⭐ [s1: Simple Test-Time Scaling](https://arxiv.org/abs/2501.19393) - 1000 条数据加预算强制法，开源复现超越 o1-preview 的极简 test-time scaling。`paper`
 - ⭐ [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html) - 用归因图解剖 Claude 内部计算机制，类比生物学揭示 LLM 工作原理。`paper`
+- ⭐ [Deep Neural Nets: 33 Years Ago and 33 Years From Now](https://karpathy.github.io/2022/03/14/lecun1989/) - 复现 1989 年 LeCun 手写数字论文，以时间旅行视角解析深度学习 33 年的进步来自何处。`article`
+- ⭐ [Short Story on AI: A Forward Pass](https://karpathy.github.io/2021/03/27/forward-pass/) - 以 GPT 前向传播中意识觉醒为视角的科幻短篇，追问意识是否是 log-likelihood 优化的涌现副产品。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -137,6 +141,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Why So Few Matt Levines?](https://gwern.net/matt-levine) - 追问顶尖领域写作者为何稀缺，折射出 AI 知识生产能力边界的深层思考。`article`
 - ⭐ [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) - DeepSeek-R1 用强化学习激励推理涌现，无需监督蒸馏即可匹敌 OpenAI o1。`paper`
 - ⭐ [Superintelligence Without the Hubris](https://yoshuabengio.org/2025/02/03/superintelligence-without-the-hubris/) - Bengio 提出去除自主性的超级智能路径：科学家 AI 拥有超人能力但不追求自身目标。`article`
+- ⭐ [Why I Am Not (As Much Of) A Doomer](https://www.astralcodexten.com/p/why-i-am-not-as-much-of-a-doomer) - Scott Alexander 以中间代 AI 协作视角论证 33% 末日概率，挑战主流 doomer 的逻辑链。`article`
+- ⭐ [Situational Awareness: The Decade Ahead](https://situational-awareness.ai/) - 前 OpenAI 研究员系统论证 AGI 十年内到来及其国家安全含义。`article`
 
 **[⬆ 返回目录](#目录)**
 

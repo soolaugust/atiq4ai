@@ -142,3 +142,13 @@ https://arxiv.org/abs/2406.06608
 https://www.seangoedecke.com/knowing-how-to-drive-the-car/
 https://yoshuabengio.org/2025/02/03/superintelligence-without-the-hubris/
 https://yoshuabengio.org/2024/07/09/law-zero-of-ai-safety/
+https://karpathy.github.io/2019/04/25/recipe/
+https://karpathy.github.io/2022/03/14/lecun1989/
+https://karpathy.github.io/2021/03/27/forward-pass/
+https://www.astralcodexten.com/p/why-i-am-not-as-much-of-a-doomer
+https://www.astralcodexten.com/p/ai-sleeper-agents
+https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities
+https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html
+https://situational-awareness.ai/
+https://arxiv.org/abs/2404.02905
+https://arxiv.org/abs/2401.06416

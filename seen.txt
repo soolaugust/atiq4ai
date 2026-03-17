@@ -60,3 +60,10 @@ https://hamel.dev/blog/posts/field-guide/index.html
 https://www.seangoedecke.com/giving-llms-a-personality/
 https://www.oneusefulthing.org/p/giving-your-ai-a-job-interview
 https://gwern.net/tool-ai
+https://arxiv.org/abs/2502.18600
+https://arxiv.org/abs/2502.09601
+https://github.com/princeton-nlp/SWE-bench
+https://simonwillison.net/2025/Mar/2/hallucinations-in-code/
+https://arxiv.org/abs/2502.13138
+https://github.com/aiwaves-cn/agents
+https://www.anthropic.com/research/building-effective-agents

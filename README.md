@@ -71,6 +71,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [When a Chatbot Runs Your Store](https://www.aiweirdness.com/when-a-chatbot-runs-your-store/) - 真实案例记录 AI 客服在边缘场景的判断失误，提供辨别 AI 可信度的具体标尺。`article`
 - ⭐ [CursorBench](https://www.cursor.com/blog/cursorbench) - Cursor 自建 coding benchmark，展示如何设计真实任务评测替代刷榜指标。`tool`
 - ⭐ [HELMET: How to Evaluate Long-context Models Effectively and Thoroughly](https://arxiv.org/abs/2410.02694) - 实证证明 NIAH 等合成任务无法预测真实下游性能，提出覆盖7类场景的长上下文评估框架。`paper`
+- ⭐ [Agentic Engineering Patterns: Anti-patterns](https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/) - 系统整理 agent 辅助编程的反模式，明确好工程实践的负向边界。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -116,6 +117,10 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [The Third Era of AI Software Development](https://www.cursor.com/blog/third-era) - Cursor 团队定义 AI 编程三阶段演进，论证 agent 驱动才是软件开发的真正范式转变。`article`
 - ⭐ [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020) - LLM 用 LLM-as-Judge 为自身生成奖励，Iterative DPO 实现指令遵从与评判能力同步提升。`paper`
 - ⭐ [The Assistant Axis: Situating and Stabilizing LLM Character](https://www.anthropic.com/research/assistant-axis) - 用神经表征「助手轴」量化 LLM 人格漂移，发现可通过监控轴偏移预防模型滑入有害角色。`article`
+- ⭐ [Agentic Engineering Patterns: AI Should Help Us Produce Better Code](https://simonwillison.net/guides/agentic-engineering-patterns/better-code/) - 论证 AI 最大价值是消除技术债，用 agent 写烂代码是主动选择而非必然。`article`
+- ⭐ [Three Years from GPT-3 to Gemini 3](https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini) - 用同一提示词三年历史输出对比，直观校准 AI 能力的指数级跃升速度。`article`
+- [Mass Intelligence](https://www.oneusefulthing.org/p/mass-intelligence) - AI 从精英付费工具转向大众基础设施的社会拐点，超十亿用户规模的影响分析。`article`
+- [My AI Stack](https://hamel.dev/blog/posts/ai-stack/index.html) - Hamel Husain 提出「顺 AI 之流」作为工具选择新维度：主流工作流让 AI 发挥最大效力。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -162,6 +167,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Disempowerment Patterns in Real-World AI Usage](https://www.anthropic.com/research/disempowerment-patterns) - 真实使用数据揭示 AI 如何系统性削弱用户能力，挑战「AI 只是工具」的自我安慰。`paper`
 - ⭐ [Weak-to-Strong Generalization](https://arxiv.org/abs/2312.09390) - OpenAI 实验：强模型可超越弱监督上限，为超人类 AI 的可扩展对齐提供实验依据。`paper`
 - ⭐ [Are 'Reasoning Traces' Really Reasoning?](https://arxiv.org/abs/2504.09762) - 论证把 CoT 中间 token 称为「思维」是危险拟人化，误导对模型能力的判断。`paper`
+- ⭐ [Agentic Engineering Patterns: Hoard Things You Know How to Do](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/) - AI 时代工程师核心竞争力是知道什么可能，用 LLM 持续扩展已验证方案库。`article`
 
 **[⬆ 返回目录](#目录)**
 

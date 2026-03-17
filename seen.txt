@@ -191,3 +191,11 @@ https://arxiv.org/abs/2503.01163
 https://arxiv.org/abs/2503.00564
 https://arxiv.org/abs/2504.09762
 https://www.anthropic.com/research/assistant-axis
+https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/
+https://simonwillison.net/guides/agentic-engineering-patterns/better-code/
+https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/
+https://www.oneusefulthing.org/p/real-ai-agents-and-real-work
+https://www.oneusefulthing.org/p/an-opinionated-guide-to-using-ai
+https://www.oneusefulthing.org/p/mass-intelligence
+https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini
+https://hamel.dev/blog/posts/ai-stack/index.html

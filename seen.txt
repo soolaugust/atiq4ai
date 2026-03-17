@@ -579,3 +579,8 @@ https://skyfall.ai/blog/building-the-foundations-of-an-ai-ceo
 https://ctgt.ai
 https://m-arriola.com/bd3lms/
 https://github.com/ZHZisZZ/dllm
+https://alignment.anthropic.com/2026/psm
+https://arxiv.org/abs/2601.19062
+https://arxiv.org/abs/2512.15712
+https://www.anthropic.com/research/AI-fluency-index
+https://transluce.org/pathological-behaviors

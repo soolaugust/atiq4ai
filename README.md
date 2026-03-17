@@ -127,6 +127,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [AI Can Learn Scientific Taste](https://arxiv.org/abs/2603.14473) - 用 70 万篇高低引用论文对训练 Scientific Judge，证明「科学品味」是可学习的 preference。`paper`
 - ⭐ [AutoCircuit](https://github.com/UFO-101/auto-circuit) - 自动发现 transformer 最小功能电路，同时证明主流评估指标存在系统性鲁棒性缺陷。`tool`
 - ⭐ [ProcessBench](https://github.com/QwenLM/ProcessBench) - 评估推理过程监督质量，定位数学推理链首个错误步骤。`paper`
+- ⭐ [Predictive Concept Decoders](https://arxiv.org/abs/2512.15712) - 把激活解码为概念列表并预测行为，可解释性首次成为可训练能力。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -377,6 +378,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [How AI Is Learning to Think in Secret](https://nickandresen.substack.com/p/how-ai-is-learning-to-think-in-secret) - 追溯 CoT 到 neuralese 的演变，论证 AI 推理链正变得人类不可读，安全监控的最后窗口正在关闭。`article`
 - ⭐ [ARC-AGI-2](https://github.com/arcprize/ARC-AGI-2) - 人类完成率 66% 而顶级 AI 接近 0%，最直接区分少样本泛化与训练集记忆的 AGI 基准。`tool`
 - ⭐ [Mini Amusement Parks: Building the Foundations of an AI CEO](https://skyfall.ai/blog/building-the-foundations-of-an-ai-ceo) - 实测 GPT-5 在商业模拟中仅达人类 10%，揭示 AI 长期规划的真实边界。`article`
+- ⭐ [Surfacing Pathological Behaviors in Language Models](https://transluce.org/pathological-behaviors) - 用 RL 训练 agent 自动发现触发有害行为的 prompt，引入 PRBO 量化模型极端行为倾向下界。`article`
 
 **[⬆ 返回目录](#目录)**
 

@@ -326,3 +326,10 @@ https://stratechery.com/2026/ai-and-the-human-condition/
 https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/
 https://magazine.sebastianraschka.com/p/beyond-standard-llms
 https://www.seangoedecke.com/insider-amnesia/
+https://vgel.me/posts/seahorse/
+https://rfd.shared.oxide.computer/rfd/0576
+https://antirez.com/news/154
+https://fly.io/blog/youre-all-nuts/
+https://joshfonseca.com/blogs/animal-crossing-llm
+https://zed.dev/blog/why-llms-cant-build-software
+https://tomrenner.com/posts/llm-inevitabilism/

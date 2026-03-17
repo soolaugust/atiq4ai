@@ -98,6 +98,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [High Consistency Does Not Imply Correctness](https://arxiv.org/abs/2603.00917) - 高一致性不等于正确：临床 AI 中模型可靠地犯错的失效模式研究。`paper`
 - ⭐ [Beyond Standard LLMs: Alternative Architectures](https://magazine.sebastianraschka.com/p/beyond-standard-llms) - 全景梳理非标准 LLM 架构，以线性注意力的生产困境为核心揭示架构取舍。`article`
 - ⭐ [Agents Learn Runtime: Interpreter Persistence as Agent Trace Semantics](https://arxiv.org/abs/2603.01209) - 解释器持久性作为训练语义：训练与部署环境不匹配导致 80% 错误或 3.5x token 浪费。`paper`
+- ⭐ [How Oxide Uses LLMs](https://rfd.shared.oxide.computer/rfd/0576) - Oxide 公司 LLM 使用指南，以责任、严谨、同理心为优先级框架，明确区分鼓励与不鼓励的场景。`article`
+- ⭐ [My Year With LLMs](https://antirez.com/news/154) - antirez 总结 2025 年与 LLM 协作编程的实战方法论，强调人类监督与上下文控制。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -186,6 +188,9 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [MetaMind: Meta-Theory of Mind for Zero-Shot Multi-Agent Coordination](https://arxiv.org/abs/2603.00808) - 以元心智理论实现零样本多智能体协调，无需通信或联合训练。`paper`
 - ⭐ [Agents Over Bubbles](https://stratechery.com/2026/agents-over-bubbles/) - Ben Thompson：少数有主动性的人控制多个 Agent 即可驱动巨大经济影响，AI 不在泡沫中。`article`
 - ⭐ [Domain-Critical Dimensions: Massive Activations as Interpretable Functional Units](https://arxiv.org/abs/2603.00029) - 将 LLM 中的 massive activations 视为可解释的领域关键语义维度，并实现精准激活引导。`paper`
+- ⭐ [LLM Internal Representations and Token Matching Failure](https://vgel.me/posts/seahorse/) - 用海马表情案例剖析 LLM 内部表示与词表匹配失败的机制。`article`
+- ⭐ [You're All Nuts](https://fly.io/blog/youre-all-nuts/) - 反驳 AI 怀疑论，论证 LLM 代理模式带来真实生产力提升。`article`
+- ⭐ [Animal Crossing LLM Villager](https://joshfonseca.com/blogs/animal-crossing-llm) - 用内存注入将 LLM 接入动物森友会，实现实时 AI 村民对话。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -243,6 +248,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Google Antigravity: Indirect Prompt Injection Data Exfiltration](https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data) - Google Antigravity 的 indirect prompt injection 攻击链演示，揭示 agentic AI 无法自我约束的根本困境。`article`
 - ⭐ [AI and the Human Condition](https://stratechery.com/2026/ai-and-the-human-condition/) - Ben Thompson 探讨 AI 时代人类劳动与幸福的本质问题，提出"人类想要人类"这一反直觉命题。`article`
 - [Epicycles All The Way Down](https://www.strangeloopcanon.com/p/epicycles-all-the-way-down) - 以本轮体系类比 LLM：善于拟合模式，难以发现生成规律。`article`
+- [Why LLMs Can't Build Software](https://zed.dev/blog/why-llms-cant-build-software) - Zed 团队论述 LLM 为何无法真正构建软件：缺失心智模型与迭代能力。`article`
+- [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/) - 批判科技领袖用"不可避免论"剥夺公众对 AI 未来的选择权。`article`
 - ⭐ [Constitutional Black-Box Monitors for LLM Agent Scheming Detection](https://arxiv.org/abs/2603.00829) - 用宪法式黑盒监控检测 LLM Agent 隐蔽性失对齐行为的实证研究。`paper`
 - [Adversarial Ranking Causes Catastrophic Failure in LLM Web Agents](https://arxiv.org/abs/2603.00801) - 对抗排名如何让拥有正确信息的 LLM agent 仍然失败的认识论缺陷研究。`paper`
 - [Monotropic Artificial Intelligence](https://arxiv.org/abs/2603.00350) - 以单焦点认知为隐喻，提出刻意专精的 AI 作为通用大模型替代路径。`paper`

@@ -730,3 +730,11 @@ https://quint-lang.org/posts/llm_era
 https://academy.dair.ai/blog/agents-md-evaluation
 https://news.ycombinator.com/item?id=47170501
 https://news.ycombinator.com/item?id=47377220
+https://arxiv.org/abs/2603.03000
+https://arxiv.org/abs/2601.16280
+https://arxiv.org/abs/2601.01498
+https://arxiv.org/abs/2506.06923
+https://arxiv.org/abs/2510.20091
+https://arxiv.org/abs/2503.17365
+https://bounded-regret.ghost.io/oversight-assiturning-compute-into-understanding/
+https://www.prompthub.us/blog/how-to-use-system-2-attention-prompting-to-improve-llm-accuracy

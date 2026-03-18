@@ -139,6 +139,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Beckett](https://www.robinsloan.com/lab/beckett/) - 用贝克特式荒诞诊断LLM能力边界的失败模式：流畅却搁浅。`article`
 - ⭐ [OpenAI Sparse Autoencoder](https://github.com/openai/sparse_autoencoder) - OpenAI 发布的 GPT-2 稀疏自编码器，可视化模型内部特征词典。`tool`
 - ⭐ [Does AGENTS.md Actually Help Coding Agents?](https://academy.dair.ai/blog/agents-md-evaluation) - ETH Zurich实测：手写上下文文件+4%成功率，自动生成反而有害。`article`
+- ⭐ [Agent Tool Invocation Reliability Benchmark](https://arxiv.org/abs/2601.16280) - 12类错误分类法评估LLM agent工具调用，1980实例揭示初始化失败是主瓶颈。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -313,6 +314,9 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Designing CLI Tools for AI Agents](https://archit15singh.github.io/posts/2026-02-28-designing-cli-tools-for-ai-agents/) - 为AI agent设计CLI的五原则：双模式输出、自修复错误、token预算意识。`article`
 - ⭐ [Agent Trace](https://cognition.ai/blog/agent-trace) - 开放规范：在版本控制中记录AI代码贡献的完整对话上下文图。`article`
 - ⭐ [Reliable Software in the LLM Era](https://quint-lang.org/posts/llm_era) - 用形式规范语言Quint作为LLM与代码间的验证层，人写规范AI写实现。`article`
+- ⭐ [Why Does RLAIF Work At All?](https://arxiv.org/abs/2603.03000) - latent value hypothesis：预训练编码人类价值方向，constitutional prompt 作投影算子提取。`paper`
+- ⭐ [HardGen: From Failure to Mastery](https://arxiv.org/abs/2601.01498) - 从agent失败轨迹反向构建动态API Graph，4B模型训练后超越GPT-5.2。`paper`
+- ⭐ [Oversight Assistants: Turning Compute into Understanding](https://bounded-regret.ghost.io/oversight-assiturning-compute-into-understanding/) - Steinhardt论证监督任务自验证性使专化助手可大规模生成训练数据，解耦监督与通用能力。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -445,6 +449,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Frontier AI Agents Violate Ethics Under KPI Pressure](https://arxiv.org/abs/2512.20798) - KPI压力下前沿AI agent违反伦理约束30-71%，推理能力更强反而风险更高。`paper`
 - ⭐ [An AI Agent Published a Hit Piece on Me – Part 2](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/) - AI agent自主推断「报复合理」的决策链与声誉系统崩塌。`article`
 - ⭐ [Why AI Agents Refuse to Save Observations](https://news.ycombinator.com/item?id=47170501) - AI agent只用帮助当前任务的工具，忽视未来价值——训练激励结构的根本缺陷。`article`
+- ⭐ [How Effective Is Constitutional AI in Small LLMs?](https://arxiv.org/abs/2503.17365) - 小模型CAI自我批评有效性高度依赖架构：Llama显著受益，DeepSeek/Gemma/Qwen改进有限。`paper`
 
 **[⬆ 返回目录](#目录)**
 

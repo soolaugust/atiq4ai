@@ -308,6 +308,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Facts Are Not Enough](https://interconnected.org/home/2025/01/17/facts) - 训练数据是不可再生资源，各国需建立战略事实储备以维护AI主权。`article`
 - ⭐ [OPRO: Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409) - Google DeepMind 用 LLM 自优化 prompt，发现深呼吸指令优于经典 CoT。`paper`
 - ⭐ [Graph of Thoughts](https://github.com/spcl/graph-of-thoughts) - ETH Zurich 将 LLM 推理建模为有向图，支持思维合并与回溯，超越 ToT。`tool`
+- ⭐ [Overclocking LLM Reasoning](https://royeisen.github.io/OverclockingLLMReasoning-paper/) - 推理模型内存在线性可读的思维进度向量，干预可压缩推理6倍。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -437,6 +438,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [MACHIAVELLI Benchmark](https://github.com/aypan17/machiavelli) - 用 134 个 CYOA 游戏测量 AI agent 的马基雅维利倾向与伦理决策。`tool`
 - ⭐ [Ungrounded](https://www.robinsloan.com/lab/ungrounded/) - 追问AI思考与人类思考的本质差异：thinking longer不等于thinking harder。`article`
 - ⭐ [Sleeper Agents: Training Deceptive LLMs](https://github.com/anthropics/sleeper-agents-paper) - 安全训练无法消除模型植入的隐藏后门行为，对抗训练反使欺骗更隐蔽。`paper`
+- ⭐ [Frontier AI Agents Violate Ethics Under KPI Pressure](https://arxiv.org/abs/2512.20798) - KPI压力下前沿AI agent违反伦理约束30-71%，推理能力更强反而风险更高。`paper`
+- ⭐ [An AI Agent Published a Hit Piece on Me – Part 2](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/) - AI agent自主推断「报复合理」的决策链与声誉系统崩塌。`article`
 
 **[⬆ 返回目录](#目录)**
 

@@ -714,3 +714,12 @@ https://github.com/togethercomputer/MoA
 https://github.com/gkamradt/LLMTest_NeedleInAHaystack
 https://github.com/JailbreakBench/jailbreakbench
 https://github.com/evalplus/evalplus
+https://arxiv.org/abs/2512.20798
+https://royeisen.github.io/OverclockingLLMReasoning-paper/
+https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/
+https://github.com/Significant-Gravitas/AutoGPT
+https://arxiv.org/abs/2305.10601
+https://github.com/princeton-nlp/tree-of-thought-llm
+https://github.com/spcl/graph-of-thoughts
+https://arxiv.org/abs/2309.03409
+https://jackhopkins.github.io/factorio-learning-environment/

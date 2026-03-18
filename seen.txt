@@ -660,3 +660,8 @@ https://github.com/LiveBench/LiveBench
 https://github.com/lukasberglund/reversal_curse
 https://github.com/callummcdougall/ARENA_3.0
 https://github.com/Zayne-sprague/MuSR
+https://acko.net/blog/the-l-in-llm-stands-for-lying/
+https://dnhkng.github.io/posts/rys/
+https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code
+https://arxiv.org/abs/2501.16496
+https://www.stavros.io/posts/how-i-write-software-with-llms/

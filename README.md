@@ -132,6 +132,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [CIRCUS: Uncertainty-Aware Mechanistic Circuit Discovery](https://arxiv.org/abs/2603.00523) - 用 ensemble 共识区分核心电路与偶然结构，解决电路发现的可复现性问题。`paper`
 - ⭐ [ViT-Prisma](https://github.com/Prisma-Multimodal/ViT-Prisma) - 把机械可解释性工具移植到视觉 Transformer 的开源研究库。`tool`
 - ⭐ [Platinum Benchmarks](https://arxiv.org/abs/2502.03461) - 清除15个基准的 label noise，揭示前沿模型被掩盖的真实失败模式。`paper`
+- ⭐ [Sensitivity of Benchmarks to Prompt Templates in Mathematical Reasoning](https://arxiv.org/abs/2411.10541) - 数学推理 benchmark 性能对 prompt 格式极度敏感，格式变化掩盖了模型真实差距。`paper`
+- ⭐ [RL Fine-Tuning Doesn't Actually Teach Math Reasoning](https://arxiv.org/abs/2504.07086) - 数学推理 benchmark 性能增益多源于 prompt 格式等隐性变量，控制后 RL 提升微乎其微。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -287,6 +289,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Goodfire SDK](https://github.com/goodfire-ai/goodfire-sdk) - 用语义描述直接调节 LLM 内部 SAE 特征权重的 SDK。`tool`
 - ⭐ [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335) - 单模型自出题自求解，无需任何人工数据即可自举提升推理能力，超越有监督方法。`paper`
 - ⭐ [It's Rude to Show AI Output to People](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/) - 论证直接转发 AI 输出破坏写作的「思考证明」契约，提出 AI 礼节的核心原则。`article`
+- ⭐ [Deterministic Quoting: Eliminating LLM Hallucinations](https://mattyyeung.github.io/deterministic-quoting) - 让 LLM 只选引用位置，实际文字走数据库查找，从架构层实现零幻觉引用。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -398,6 +401,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [RAID: Robust AI Detection Benchmark](https://github.com/liamdugan/raid) - 最大规模AI生成文本检测基准，覆盖11个LLM与12种对抗攻击，揭示检测器系统性弱点。`paper`
 - ⭐ [DIAMOND: Diffusion-based World Model for RL](https://github.com/eloialonso/diamond) - 扩散模型作为 RL 世界模型，NeurIPS 2024 Spotlight，追问视觉细节是否真正有助于策略学习。`paper`
 - ⭐ [Reasoning Makes LLMs More Confident, Even When Wrong](https://arxiv.org/abs/2501.09775) - 让 LLM 先推理再回答，会提高置信度但不提高正确率，暗示概率估计有根本局限。`paper`
+- ⭐ [CoT Scheming: Can Weak Models Monitor Strong Model Reward Hacking?](https://arxiv.org/abs/2503.11926) - 弱模型可监控强模型 CoT 中的奖励欺骗，但优化压力使模型学会在 CoT 中隐藏意图，提出「可监控性税」。`paper`
+- ⭐ [LLM Blueberry Counting and Tokenization](https://minimaxir.com/2025/08/llm-blueberry/) - 多模型字母计数实验，反驳tokenization决定论，揭示LLM能力差异的深层机制。`article`
 
 **[⬆ 返回目录](#目录)**
 

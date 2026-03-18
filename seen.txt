@@ -623,3 +623,10 @@ https://github.com/xlang-ai/BRIGHT
 https://arxiv.org/abs/2502.03461
 https://arxiv.org/abs/2501.09775
 https://arxiv.org/abs/2502.18864
+https://arxiv.org/abs/2411.10541
+https://arxiv.org/abs/2504.07086
+https://mattyyeung.github.io/deterministic-quoting
+https://arxiv.org/abs/2503.11926
+https://arxiv.org/abs/2502.12501
+https://minimaxir.com/2025/08/llm-blueberry/
+https://arxiv.org/abs/2311.11482

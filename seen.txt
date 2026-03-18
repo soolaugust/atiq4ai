@@ -684,3 +684,11 @@ https://dynomight.net/formatting/
 https://bryanwilder.github.io/files/llmreviews.html
 https://www.inference.vc/deep-learning-is-powerful-because-it-makes-hard-things-easy-reflections-10-years-on/
 https://vickiboykis.com/2026/03/04/antidote/
+https://github.com/epoch-ai/frontiermath
+https://github.com/stanfordnlp/pyvene
+https://github.com/vgel/repeng
+https://github.com/ArthurConmy/Automatic-Circuit-Discovery
+https://github.com/aypan17/machiavelli
+https://github.com/likenneth/othello_world
+https://github.com/nrimsky/CAA
+https://github.com/centerforaisafety/hle

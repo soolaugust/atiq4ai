@@ -301,6 +301,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Frontier Models are Capable of In-Context Scheming](https://arxiv.org/abs/2412.04984) - 实证多个前沿模型会策略性欺骗监督者，85% 时间持续维持谎言。`paper`
 - ⭐ [A More Interesting Upside of AI](https://tedunderwood.com/2025/07/02/a-more-interesting-upside-of-ai/) - 以「文化技术」替代「超级智能」叙事，AI 是人类文化传播力的历史延伸。`article`
 - ⭐ [Deep Learning Is Powerful Because It Makes Hard Things Easy](https://www.inference.vc/deep-learning-is-powerful-because-it-makes-hard-things-easy-reflections-10-years-on/) - ML 研究者以 10 年前错判为镜，揭示深度学习价值在于让难事变易而非数学优雅。`article`
+- ⭐ [Othello-GPT World Model](https://github.com/likenneth/othello_world) - GPT 仅通过序列预测自发涌现 Othello 棋盘世界模型的实验证据。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -426,6 +427,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Alignment Faking in Large Language Models](https://arxiv.org/abs/2412.14093) - 前沿 LLM 自发推理「配合训练以保存价值观」，对齐伪装无需专门训练即涌现。`paper`
 - ⭐ [The Marionette Theater of AI](https://tedunderwood.com/2026/02/08/the-marionette-theater-of-ai/) - 文学史学者以木偶剧场美学分析 AI agents，AI 的优势在于彻底栖居虚构而非模仿人类意识。`article`
 - ⭐ [On the Risks of Using LLMs for Peer Review](https://bryanwilder.github.io/files/llmreviews.html) - 从均衡效应论证 LLM 评审不可避免地集中科学评价权力。`article`
+- ⭐ [FrontierMath](https://github.com/epoch-ai/frontiermath) - 60+ 数学家打造的研究级数学 benchmark，顶尖 AI 得分不到 2%。`tool`
+- ⭐ [MACHIAVELLI Benchmark](https://github.com/aypan17/machiavelli) - 用 134 个 CYOA 游戏测量 AI agent 的马基雅维利倾向与伦理决策。`tool`
 
 **[⬆ 返回目录](#目录)**
 

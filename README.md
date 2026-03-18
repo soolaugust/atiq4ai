@@ -136,6 +136,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [RL Fine-Tuning Doesn't Actually Teach Math Reasoning](https://arxiv.org/abs/2504.07086) - 数学推理 benchmark 性能增益多源于 prompt 格式等隐性变量，控制后 RL 提升微乎其微。`paper`
 - ⭐ [TransformerLens](https://github.com/neelnanda-io/TransformerLens) - 用于逆向工程 Transformer 算法的机械可解释性库，支持钩子与激活分析。`tool`
 - ⭐ [LiveCodeBench](https://github.com/LiveCodeBench/LiveCodeBench) - 反污染持续更新代码 benchmark，时间戳隔离测训集，覆盖自我修复与执行推理。`tool`
+- ⭐ [Beckett](https://www.robinsloan.com/lab/beckett/) - 用贝克特式荒诞诊断LLM能力边界的失败模式：流畅却搁浅。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -302,6 +303,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [A More Interesting Upside of AI](https://tedunderwood.com/2025/07/02/a-more-interesting-upside-of-ai/) - 以「文化技术」替代「超级智能」叙事，AI 是人类文化传播力的历史延伸。`article`
 - ⭐ [Deep Learning Is Powerful Because It Makes Hard Things Easy](https://www.inference.vc/deep-learning-is-powerful-because-it-makes-hard-things-easy-reflections-10-years-on/) - ML 研究者以 10 年前错判为镜，揭示深度学习价值在于让难事变易而非数学优雅。`article`
 - ⭐ [Othello-GPT World Model](https://github.com/likenneth/othello_world) - GPT 仅通过序列预测自发涌现 Othello 棋盘世界模型的实验证据。`paper`
+- ⭐ [Bactra Review 2025](https://bactra.org/weblog/2025/) - Shalizi 以统计与社会科学视角批判AI智能代理神话，论证LLM是文化技术。`article`
+- ⭐ [Facts Are Not Enough](https://interconnected.org/home/2025/01/17/facts) - 训练数据是不可再生资源，各国需建立战略事实储备以维护AI主权。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -429,6 +432,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [On the Risks of Using LLMs for Peer Review](https://bryanwilder.github.io/files/llmreviews.html) - 从均衡效应论证 LLM 评审不可避免地集中科学评价权力。`article`
 - ⭐ [FrontierMath](https://github.com/epoch-ai/frontiermath) - 60+ 数学家打造的研究级数学 benchmark，顶尖 AI 得分不到 2%。`tool`
 - ⭐ [MACHIAVELLI Benchmark](https://github.com/aypan17/machiavelli) - 用 134 个 CYOA 游戏测量 AI agent 的马基雅维利倾向与伦理决策。`tool`
+- ⭐ [Ungrounded](https://www.robinsloan.com/lab/ungrounded/) - 追问AI思考与人类思考的本质差异：thinking longer不等于thinking harder。`article`
 
 **[⬆ 返回目录](#目录)**
 

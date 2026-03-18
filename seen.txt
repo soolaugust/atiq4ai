@@ -738,3 +738,7 @@ https://arxiv.org/abs/2510.20091
 https://arxiv.org/abs/2503.17365
 https://bounded-regret.ghost.io/oversight-assiturning-compute-into-understanding/
 https://www.prompthub.us/blog/how-to-use-system-2-attention-prompting-to-improve-llm-accuracy
+https://www.thefuriousopposites.com/p/grace-hoppers-revenge
+https://github.com/Tencent-Hunyuan/AutoCodeBenchmark
+https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/
+https://github.com/codelion/optillm/tree/main/optillm/autothink

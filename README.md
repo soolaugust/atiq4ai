@@ -140,6 +140,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [OpenAI Sparse Autoencoder](https://github.com/openai/sparse_autoencoder) - OpenAI 发布的 GPT-2 稀疏自编码器，可视化模型内部特征词典。`tool`
 - ⭐ [Does AGENTS.md Actually Help Coding Agents?](https://academy.dair.ai/blog/agents-md-evaluation) - ETH Zurich实测：手写上下文文件+4%成功率，自动生成反而有害。`article`
 - ⭐ [Agent Tool Invocation Reliability Benchmark](https://arxiv.org/abs/2601.16280) - 12类错误分类法评估LLM agent工具调用，1980实例揭示初始化失败是主瓶颈。`paper`
+- ⭐ [Grace Hopper's Revenge](https://www.thefuriousopposites.com/p/grace-hoppers-revenge) - AutoCodeBench实证：函数式语言代码生成质量反超Python/JS，语言设计比训练数据量更关键。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -317,6 +318,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Why Does RLAIF Work At All?](https://arxiv.org/abs/2603.03000) - latent value hypothesis：预训练编码人类价值方向，constitutional prompt 作投影算子提取。`paper`
 - ⭐ [HardGen: From Failure to Mastery](https://arxiv.org/abs/2601.01498) - 从agent失败轨迹反向构建动态API Graph，4B模型训练后超越GPT-5.2。`paper`
 - ⭐ [Oversight Assistants: Turning Compute into Understanding](https://bounded-regret.ghost.io/oversight-assiturning-compute-into-understanding/) - Steinhardt论证监督任务自验证性使专化助手可大规模生成训练数据，解耦监督与通用能力。`article`
+- ⭐ [Files Are the Interface for AI Agents](https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/) - AI agent回归文件系统：通用协议、跨工具互操作，context window不是记忆。`article`
 
 **[⬆ 返回目录](#目录)**
 

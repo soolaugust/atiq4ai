@@ -403,6 +403,9 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Reasoning Makes LLMs More Confident, Even When Wrong](https://arxiv.org/abs/2501.09775) - 让 LLM 先推理再回答，会提高置信度但不提高正确率，暗示概率估计有根本局限。`paper`
 - ⭐ [CoT Scheming: Can Weak Models Monitor Strong Model Reward Hacking?](https://arxiv.org/abs/2503.11926) - 弱模型可监控强模型 CoT 中的奖励欺骗，但优化压力使模型学会在 CoT 中隐藏意图，提出「可监控性税」。`paper`
 - ⭐ [LLM Blueberry Counting and Tokenization](https://minimaxir.com/2025/08/llm-blueberry/) - 多模型字母计数实验，反驳tokenization决定论，揭示LLM能力差异的深层机制。`article`
+- ⭐ [Interpretability Dreams](https://transformer-circuits.pub/2025/interpretability-dreams/index.html) - 从终局反推可解释性研究路径的愿景宣言，追问「能否像物理学家理解物理一样理解神经网络」。`article`
+- ⭐ [LLMs Show That Language Is Not What We Thought It Was](https://aeon.co/essays/llms-show-that-language-is-not-what-we-thought-it-was) - 哲学长文：LLM 揭示语言本质是统计模式而非意向性表达，挑战先天语法论。`article`
+- ⭐ [The Case Against Most Uses of AI](https://experimentalhistory.substack.com/p/the-case-against-most-uses-of-ai) - 反对AI的理由不是「不够好」，而是「太有帮助」会剥夺人发展能力与人际连接的机会。`article`
 
 **[⬆ 返回目录](#目录)**
 

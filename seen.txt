@@ -630,3 +630,8 @@ https://arxiv.org/abs/2503.11926
 https://arxiv.org/abs/2502.12501
 https://minimaxir.com/2025/08/llm-blueberry/
 https://arxiv.org/abs/2311.11482
+https://transformer-circuits.pub/2025/interpretability-dreams/index.html
+https://aeon.co/essays/llms-show-that-language-is-not-what-we-thought-it-was
+https://experimentalhistory.substack.com/p/the-case-against-most-uses-of-ai
+https://www.robinsloan.com/lab/gemini-agi/
+https://www.robinsloan.com/lab/nobody-knows-anything/

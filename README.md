@@ -295,6 +295,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [SWE-agent](https://github.com/princeton-nlp/SWE-agent) - 提出 ACI（Agent-Computer Interface）设计范式，专为 LLM agent 设计计算机交互界面。`tool`
 - ⭐ [OpenForgeAI: 17 Laws of Production Agentic Architecture](https://github.com/openforgeai/openforgeai) - 生产级 agent 架构 17 定律，EventBus+Saga 模式防止 silent failure。`article`
 - ⭐ [BioTradingArena](https://www.biotradingarena.com/hn) - 655个真实生物医药催化剂测试 LLM 预测股价，揭示特征提取接线性回归优于直接预测。`tool`
+- ⭐ [As Rocks May Think](https://evjang.com/2026/02/04/rocks.html) - Eric Jang 以亲历者视角深度拆解 DeepSeek R1 范式突破的本质，预言推理计算将重塑文明基础设施。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -413,6 +414,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Interpretability Dreams](https://transformer-circuits.pub/2025/interpretability-dreams/index.html) - 从终局反推可解释性研究路径的愿景宣言，追问「能否像物理学家理解物理一样理解神经网络」。`article`
 - ⭐ [LLMs Show That Language Is Not What We Thought It Was](https://aeon.co/essays/llms-show-that-language-is-not-what-we-thought-it-was) - 哲学长文：LLM 揭示语言本质是统计模式而非意向性表达，挑战先天语法论。`article`
 - ⭐ [The Case Against Most Uses of AI](https://experimentalhistory.substack.com/p/the-case-against-most-uses-of-ai) - 反对AI的理由不是「不够好」，而是「太有帮助」会剥夺人发展能力与人际连接的机会。`article`
+- ⭐ [Ultra Instinct](https://evjang.com/2025/07/27/ultra-instinct.html) - Eric Jang 提出 AI 需在 10Hz 频率运行才能真正匹配人类交互，揭示当前 LLM 的本质局限。`article`
 
 **[⬆ 返回目录](#目录)**
 

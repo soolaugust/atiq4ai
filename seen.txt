@@ -742,3 +742,9 @@ https://www.thefuriousopposites.com/p/grace-hoppers-revenge
 https://github.com/Tencent-Hunyuan/AutoCodeBenchmark
 https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/
 https://github.com/codelion/optillm/tree/main/optillm/autothink
+https://arxiv.org/abs/2505.06120
+https://arxiv.org/abs/2504.13171
+https://machinelearning.apple.com/research/illusion-of-thinking
+https://www.prompthub.us/blog/llms-are-eating-the-context-layer
+https://www.prompthub.us/blog/when-thinking-models-stop-thinking
+https://www.prompthub.us/blog/how-to-automatically-pick-the-right-model-for-the-right-job

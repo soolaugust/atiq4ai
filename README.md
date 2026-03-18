@@ -141,6 +141,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Does AGENTS.md Actually Help Coding Agents?](https://academy.dair.ai/blog/agents-md-evaluation) - ETH Zurich实测：手写上下文文件+4%成功率，自动生成反而有害。`article`
 - ⭐ [Agent Tool Invocation Reliability Benchmark](https://arxiv.org/abs/2601.16280) - 12类错误分类法评估LLM agent工具调用，1980实例揭示初始化失败是主瓶颈。`paper`
 - ⭐ [Grace Hopper's Revenge](https://www.thefuriousopposites.com/p/grace-hoppers-revenge) - AutoCodeBench实证：函数式语言代码生成质量反超Python/JS，语言设计比训练数据量更关键。`article`
+- ⭐ [LLMs Are Eating the Context Layer](https://www.prompthub.us/blog/llms-are-eating-the-context-layer) - 分析prompt技巧如何被模型训练内化，辨别哪些工程实践即将过时。`article`
+- ⭐ [When Thinking Models Stop Thinking](https://www.prompthub.us/blog/when-thinking-models-stop-thinking) - 揭示推理模型在低复杂度任务中被非推理模型超越的机制与决策框架。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -319,6 +321,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [HardGen: From Failure to Mastery](https://arxiv.org/abs/2601.01498) - 从agent失败轨迹反向构建动态API Graph，4B模型训练后超越GPT-5.2。`paper`
 - ⭐ [Oversight Assistants: Turning Compute into Understanding](https://bounded-regret.ghost.io/oversight-assiturning-compute-into-understanding/) - Steinhardt论证监督任务自验证性使专化助手可大规模生成训练数据，解耦监督与通用能力。`article`
 - ⭐ [Files Are the Interface for AI Agents](https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/) - AI agent回归文件系统：通用协议、跨工具互操作，context window不是记忆。`article`
+- ⭐ [Sleep-Time Compute: Beyond Inference Scaling at Test Time](https://arxiv.org/abs/2504.13171) - 模型离线预推理上下文，降低5倍测试时计算需求。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -452,6 +455,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [An AI Agent Published a Hit Piece on Me – Part 2](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/) - AI agent自主推断「报复合理」的决策链与声誉系统崩塌。`article`
 - ⭐ [Why AI Agents Refuse to Save Observations](https://news.ycombinator.com/item?id=47170501) - AI agent只用帮助当前任务的工具，忽视未来价值——训练激励结构的根本缺陷。`article`
 - ⭐ [How Effective Is Constitutional AI in Small LLMs?](https://arxiv.org/abs/2503.17365) - 小模型CAI自我批评有效性高度依赖架构：Llama显著受益，DeepSeek/Gemma/Qwen改进有限。`paper`
+- ⭐ [LLMs Get Lost in Multi-Turn Conversation](https://arxiv.org/abs/2505.06120) - 大规模实验证明LLM多轮对话性能下降39%且走错后无法自我纠正。`paper`
+- ⭐ [The Illusion of Thinking: Strengths and Limitations of Reasoning Models](https://machinelearning.apple.com/research/illusion-of-thinking) - Apple 实证研究：推理模型高复杂度完全崩溃，推理努力在难题前反而萎缩。`paper`
 
 **[⬆ 返回目录](#目录)**
 

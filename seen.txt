@@ -643,3 +643,9 @@ https://www.letta.com/blog/guide-to-context-engineering
 https://news.ycombinator.com/item?id=47139978
 https://news.ycombinator.com/item?id=47294126
 https://github.com/openforgeai/openforgeai
+https://www.media.mit.edu/publications/your-brain-on-chatgpt/
+https://margaretstorey.com/blog/2026/02/09/cognitive-debt/
+https://www.kasava.dev/blog/ai-as-exoskeleton
+https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/
+https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails
+https://www.biotradingarena.com/hn

@@ -707,3 +707,10 @@ https://arxiv.org/abs/2402.03620
 https://learnprompting.org/docs/prompt_hacking/intro
 https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
 https://arxiv.org/abs/2502.06547
+https://github.com/anthropics/sleeper-agents-paper
+https://github.com/openai/weak-to-strong
+https://github.com/openai/sparse_autoencoder
+https://github.com/togethercomputer/MoA
+https://github.com/gkamradt/LLMTest_NeedleInAHaystack
+https://github.com/JailbreakBench/jailbreakbench
+https://github.com/evalplus/evalplus

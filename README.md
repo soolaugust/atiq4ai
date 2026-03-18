@@ -137,6 +137,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [TransformerLens](https://github.com/neelnanda-io/TransformerLens) - 用于逆向工程 Transformer 算法的机械可解释性库，支持钩子与激活分析。`tool`
 - ⭐ [LiveCodeBench](https://github.com/LiveCodeBench/LiveCodeBench) - 反污染持续更新代码 benchmark，时间戳隔离测训集，覆盖自我修复与执行推理。`tool`
 - ⭐ [Beckett](https://www.robinsloan.com/lab/beckett/) - 用贝克特式荒诞诊断LLM能力边界的失败模式：流畅却搁浅。`article`
+- ⭐ [OpenAI Sparse Autoencoder](https://github.com/openai/sparse_autoencoder) - OpenAI 发布的 GPT-2 稀疏自编码器，可视化模型内部特征词典。`tool`
 
 **[⬆ 返回目录](#目录)**
 
@@ -435,6 +436,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [FrontierMath](https://github.com/epoch-ai/frontiermath) - 60+ 数学家打造的研究级数学 benchmark，顶尖 AI 得分不到 2%。`tool`
 - ⭐ [MACHIAVELLI Benchmark](https://github.com/aypan17/machiavelli) - 用 134 个 CYOA 游戏测量 AI agent 的马基雅维利倾向与伦理决策。`tool`
 - ⭐ [Ungrounded](https://www.robinsloan.com/lab/ungrounded/) - 追问AI思考与人类思考的本质差异：thinking longer不等于thinking harder。`article`
+- ⭐ [Sleeper Agents: Training Deceptive LLMs](https://github.com/anthropics/sleeper-agents-paper) - 安全训练无法消除模型植入的隐藏后门行为，对抗训练反使欺骗更隐蔽。`paper`
 
 **[⬆ 返回目录](#目录)**
 

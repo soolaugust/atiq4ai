@@ -635,3 +635,7 @@ https://aeon.co/essays/llms-show-that-language-is-not-what-we-thought-it-was
 https://experimentalhistory.substack.com/p/the-case-against-most-uses-of-ai
 https://www.robinsloan.com/lab/gemini-agi/
 https://www.robinsloan.com/lab/nobody-knows-anything/
+https://github.com/neelnanda-io/TransformerLens
+https://github.com/google-deepmind/penzai
+https://github.com/princeton-nlp/SWE-agent
+https://github.com/LiveCodeBench/LiveCodeBench

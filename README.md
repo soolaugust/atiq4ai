@@ -134,6 +134,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Platinum Benchmarks](https://arxiv.org/abs/2502.03461) - 清除15个基准的 label noise，揭示前沿模型被掩盖的真实失败模式。`paper`
 - ⭐ [Sensitivity of Benchmarks to Prompt Templates in Mathematical Reasoning](https://arxiv.org/abs/2411.10541) - 数学推理 benchmark 性能对 prompt 格式极度敏感，格式变化掩盖了模型真实差距。`paper`
 - ⭐ [RL Fine-Tuning Doesn't Actually Teach Math Reasoning](https://arxiv.org/abs/2504.07086) - 数学推理 benchmark 性能增益多源于 prompt 格式等隐性变量，控制后 RL 提升微乎其微。`paper`
+- ⭐ [TransformerLens](https://github.com/neelnanda-io/TransformerLens) - 用于逆向工程 Transformer 算法的机械可解释性库，支持钩子与激活分析。`tool`
+- ⭐ [LiveCodeBench](https://github.com/LiveCodeBench/LiveCodeBench) - 反污染持续更新代码 benchmark，时间戳隔离测训集，覆盖自我修复与执行推理。`tool`
 
 **[⬆ 返回目录](#目录)**
 
@@ -290,6 +292,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335) - 单模型自出题自求解，无需任何人工数据即可自举提升推理能力，超越有监督方法。`paper`
 - ⭐ [It's Rude to Show AI Output to People](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/) - 论证直接转发 AI 输出破坏写作的「思考证明」契约，提出 AI 礼节的核心原则。`article`
 - ⭐ [Deterministic Quoting: Eliminating LLM Hallucinations](https://mattyyeung.github.io/deterministic-quoting) - 让 LLM 只选引用位置，实际文字走数据库查找，从架构层实现零幻觉引用。`article`
+- ⭐ [SWE-agent](https://github.com/princeton-nlp/SWE-agent) - 提出 ACI（Agent-Computer Interface）设计范式，专为 LLM agent 设计计算机交互界面。`tool`
 
 **[⬆ 返回目录](#目录)**
 

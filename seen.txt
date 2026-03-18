@@ -639,3 +639,7 @@ https://github.com/neelnanda-io/TransformerLens
 https://github.com/google-deepmind/penzai
 https://github.com/princeton-nlp/SWE-agent
 https://github.com/LiveCodeBench/LiveCodeBench
+https://www.letta.com/blog/guide-to-context-engineering
+https://news.ycombinator.com/item?id=47139978
+https://news.ycombinator.com/item?id=47294126
+https://github.com/openforgeai/openforgeai

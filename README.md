@@ -293,6 +293,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [It's Rude to Show AI Output to People](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/) - 论证直接转发 AI 输出破坏写作的「思考证明」契约，提出 AI 礼节的核心原则。`article`
 - ⭐ [Deterministic Quoting: Eliminating LLM Hallucinations](https://mattyyeung.github.io/deterministic-quoting) - 让 LLM 只选引用位置，实际文字走数据库查找，从架构层实现零幻觉引用。`article`
 - ⭐ [SWE-agent](https://github.com/princeton-nlp/SWE-agent) - 提出 ACI（Agent-Computer Interface）设计范式，专为 LLM agent 设计计算机交互界面。`tool`
+- ⭐ [OpenForgeAI: 17 Laws of Production Agentic Architecture](https://github.com/openforgeai/openforgeai) - 生产级 agent 架构 17 定律，EventBus+Saga 模式防止 silent failure。`article`
 
 **[⬆ 返回目录](#目录)**
 

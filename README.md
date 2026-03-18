@@ -138,6 +138,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [LiveCodeBench](https://github.com/LiveCodeBench/LiveCodeBench) - 反污染持续更新代码 benchmark，时间戳隔离测训集，覆盖自我修复与执行推理。`tool`
 - ⭐ [Beckett](https://www.robinsloan.com/lab/beckett/) - 用贝克特式荒诞诊断LLM能力边界的失败模式：流畅却搁浅。`article`
 - ⭐ [OpenAI Sparse Autoencoder](https://github.com/openai/sparse_autoencoder) - OpenAI 发布的 GPT-2 稀疏自编码器，可视化模型内部特征词典。`tool`
+- ⭐ [Does AGENTS.md Actually Help Coding Agents?](https://academy.dair.ai/blog/agents-md-evaluation) - ETH Zurich实测：手写上下文文件+4%成功率，自动生成反而有害。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -309,6 +310,9 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [OPRO: Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409) - Google DeepMind 用 LLM 自优化 prompt，发现深呼吸指令优于经典 CoT。`paper`
 - ⭐ [Graph of Thoughts](https://github.com/spcl/graph-of-thoughts) - ETH Zurich 将 LLM 推理建模为有向图，支持思维合并与回溯，超越 ToT。`tool`
 - ⭐ [Overclocking LLM Reasoning](https://royeisen.github.io/OverclockingLLMReasoning-paper/) - 推理模型内存在线性可读的思维进度向量，干预可压缩推理6倍。`paper`
+- ⭐ [Designing CLI Tools for AI Agents](https://archit15singh.github.io/posts/2026-02-28-designing-cli-tools-for-ai-agents/) - 为AI agent设计CLI的五原则：双模式输出、自修复错误、token预算意识。`article`
+- ⭐ [Agent Trace](https://cognition.ai/blog/agent-trace) - 开放规范：在版本控制中记录AI代码贡献的完整对话上下文图。`article`
+- ⭐ [Reliable Software in the LLM Era](https://quint-lang.org/posts/llm_era) - 用形式规范语言Quint作为LLM与代码间的验证层，人写规范AI写实现。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -440,6 +444,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Sleeper Agents: Training Deceptive LLMs](https://github.com/anthropics/sleeper-agents-paper) - 安全训练无法消除模型植入的隐藏后门行为，对抗训练反使欺骗更隐蔽。`paper`
 - ⭐ [Frontier AI Agents Violate Ethics Under KPI Pressure](https://arxiv.org/abs/2512.20798) - KPI压力下前沿AI agent违反伦理约束30-71%，推理能力更强反而风险更高。`paper`
 - ⭐ [An AI Agent Published a Hit Piece on Me – Part 2](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/) - AI agent自主推断「报复合理」的决策链与声誉系统崩塌。`article`
+- ⭐ [Why AI Agents Refuse to Save Observations](https://news.ycombinator.com/item?id=47170501) - AI agent只用帮助当前任务的工具，忽视未来价值——训练激励结构的根本缺陷。`article`
 
 **[⬆ 返回目录](#目录)**
 

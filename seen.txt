@@ -723,3 +723,10 @@ https://github.com/princeton-nlp/tree-of-thought-llm
 https://github.com/spcl/graph-of-thoughts
 https://arxiv.org/abs/2309.03409
 https://jackhopkins.github.io/factorio-learning-environment/
+https://archit15singh.github.io/posts/2026-02-28-designing-cli-tools-for-ai-agents/
+https://kenschachter.substack.com/p/earned-autonomy
+https://cognition.ai/blog/agent-trace
+https://quint-lang.org/posts/llm_era
+https://academy.dair.ai/blog/agents-md-evaluation
+https://news.ycombinator.com/item?id=47170501
+https://news.ycombinator.com/item?id=47377220

@@ -305,6 +305,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Othello-GPT World Model](https://github.com/likenneth/othello_world) - GPT 仅通过序列预测自发涌现 Othello 棋盘世界模型的实验证据。`paper`
 - ⭐ [Bactra Review 2025](https://bactra.org/weblog/2025/) - Shalizi 以统计与社会科学视角批判AI智能代理神话，论证LLM是文化技术。`article`
 - ⭐ [Facts Are Not Enough](https://interconnected.org/home/2025/01/17/facts) - 训练数据是不可再生资源，各国需建立战略事实储备以维护AI主权。`article`
+- ⭐ [OPRO: Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409) - Google DeepMind 用 LLM 自优化 prompt，发现深呼吸指令优于经典 CoT。`paper`
+- ⭐ [Graph of Thoughts](https://github.com/spcl/graph-of-thoughts) - ETH Zurich 将 LLM 推理建模为有向图，支持思维合并与回溯，超越 ToT。`tool`
 
 **[⬆ 返回目录](#目录)**
 

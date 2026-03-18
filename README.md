@@ -131,6 +131,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Towards a Better Hutter Prize](https://gwern.net/hutter-prize) - 解剖Hutter Prize的理论美与实践失效，重新定义AI基准的核心度量。`article`
 - ⭐ [CIRCUS: Uncertainty-Aware Mechanistic Circuit Discovery](https://arxiv.org/abs/2603.00523) - 用 ensemble 共识区分核心电路与偶然结构，解决电路发现的可复现性问题。`paper`
 - ⭐ [ViT-Prisma](https://github.com/Prisma-Multimodal/ViT-Prisma) - 把机械可解释性工具移植到视觉 Transformer 的开源研究库。`tool`
+- ⭐ [Platinum Benchmarks](https://arxiv.org/abs/2502.03461) - 清除15个基准的 label noise，揭示前沿模型被掩盖的真实失败模式。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -396,6 +397,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [The Brand Age](https://paulgraham.com/brandage.html) - 以瑞士表业为案例，论证技术消除差异后品牌主导的必然性与代价，直接类比AI同质化时代的竞争策略。`article`
 - ⭐ [RAID: Robust AI Detection Benchmark](https://github.com/liamdugan/raid) - 最大规模AI生成文本检测基准，覆盖11个LLM与12种对抗攻击，揭示检测器系统性弱点。`paper`
 - ⭐ [DIAMOND: Diffusion-based World Model for RL](https://github.com/eloialonso/diamond) - 扩散模型作为 RL 世界模型，NeurIPS 2024 Spotlight，追问视觉细节是否真正有助于策略学习。`paper`
+- ⭐ [Reasoning Makes LLMs More Confident, Even When Wrong](https://arxiv.org/abs/2501.09775) - 让 LLM 先推理再回答，会提高置信度但不提高正确率，暗示概率估计有根本局限。`paper`
 
 **[⬆ 返回目录](#目录)**
 

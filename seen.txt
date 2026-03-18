@@ -620,3 +620,6 @@ https://github.com/liamdugan/raid
 https://github.com/eloialonso/diamond
 https://github.com/declare-lab/LLM-PuzzleTest
 https://github.com/xlang-ai/BRIGHT
+https://arxiv.org/abs/2502.03461
+https://arxiv.org/abs/2501.09775
+https://arxiv.org/abs/2502.18864

@@ -654,3 +654,9 @@ https://karpathy.github.io/2026/02/12/microgpt/
 https://evjang.com/2026/02/04/rocks.html
 https://evjang.com/2025/07/27/ultra-instinct.html
 https://www.henrikkarlsson.xyz/p/writing-to-think
+https://github.com/jbloomAus/SAELens
+https://github.com/arcprize/ARC-AGI-2
+https://github.com/LiveBench/LiveBench
+https://github.com/lukasberglund/reversal_curse
+https://github.com/callummcdougall/ARENA_3.0
+https://github.com/Zayne-sprague/MuSR

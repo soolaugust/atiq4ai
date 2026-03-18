@@ -415,6 +415,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [LLMs Show That Language Is Not What We Thought It Was](https://aeon.co/essays/llms-show-that-language-is-not-what-we-thought-it-was) - 哲学长文：LLM 揭示语言本质是统计模式而非意向性表达，挑战先天语法论。`article`
 - ⭐ [The Case Against Most Uses of AI](https://experimentalhistory.substack.com/p/the-case-against-most-uses-of-ai) - 反对AI的理由不是「不够好」，而是「太有帮助」会剥夺人发展能力与人际连接的机会。`article`
 - ⭐ [Ultra Instinct](https://evjang.com/2025/07/27/ultra-instinct.html) - Eric Jang 提出 AI 需在 10Hz 频率运行才能真正匹配人类交互，揭示当前 LLM 的本质局限。`article`
+- ⭐ [The Reversal Curse](https://github.com/lukasberglund/reversal_curse) - LLM 学会「A 是 B」却无法推断「B 是 A」，揭示知识理解的根本缺陷。`paper`
+- ⭐ [MuSR](https://github.com/Zayne-sprague/MuSR) - 用谋杀悬疑与对象追踪测试多步软推理，揭示 CoT 在此类任务上接近随机的根本局限。`tool`
 
 **[⬆ 返回目录](#目录)**
 

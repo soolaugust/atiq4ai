@@ -692,3 +692,4 @@ https://github.com/aypan17/machiavelli
 https://github.com/likenneth/othello_world
 https://github.com/nrimsky/CAA
 https://github.com/centerforaisafety/hle
+https://jellyfin.org/docs/general/contributing/llm-policies/

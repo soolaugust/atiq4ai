@@ -296,6 +296,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [OpenForgeAI: 17 Laws of Production Agentic Architecture](https://github.com/openforgeai/openforgeai) - 生产级 agent 架构 17 定律，EventBus+Saga 模式防止 silent failure。`article`
 - ⭐ [BioTradingArena](https://www.biotradingarena.com/hn) - 655个真实生物医药催化剂测试 LLM 预测股价，揭示特征提取接线性回归优于直接预测。`tool`
 - ⭐ [As Rocks May Think](https://evjang.com/2026/02/04/rocks.html) - Eric Jang 以亲历者视角深度拆解 DeepSeek R1 范式突破的本质，预言推理计算将重塑文明基础设施。`article`
+- ⭐ [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated) - 推测小说揭示 AI 消除编码瓶颈后，规格模糊性成为新的不可压缩复杂度。`article`
 
 **[⬆ 返回目录](#目录)**
 

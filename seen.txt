@@ -665,3 +665,9 @@ https://dnhkng.github.io/posts/rys/
 https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code
 https://arxiv.org/abs/2501.16496
 https://www.stavros.io/posts/how-i-write-software-with-llms/
+https://nearzero.software/p/warranty-void-if-regenerated
+https://arxiv.org/abs/2602.22661
+https://nnsight.net/blog/2026/02/26/introducing-nnsight-06/
+https://github.com/ndif-team/nnterp
+https://arxiv.org/abs/2603.15381
+https://narrator.sh/llm-leaderboard

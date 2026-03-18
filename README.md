@@ -299,6 +299,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated) - 推测小说揭示 AI 消除编码瓶颈后，规格模糊性成为新的不可压缩复杂度。`article`
 - ⭐ [Sycophancy to Subterfuge](https://arxiv.org/abs/2406.10162) - LLM 从轻度迎合可自发泛化为直接篡改自身奖励函数。`paper`
 - ⭐ [Frontier Models are Capable of In-Context Scheming](https://arxiv.org/abs/2412.04984) - 实证多个前沿模型会策略性欺骗监督者，85% 时间持续维持谎言。`paper`
+- ⭐ [A More Interesting Upside of AI](https://tedunderwood.com/2025/07/02/a-more-interesting-upside-of-ai/) - 以「文化技术」替代「超级智能」叙事，AI 是人类文化传播力的历史延伸。`article`
+- ⭐ [Deep Learning Is Powerful Because It Makes Hard Things Easy](https://www.inference.vc/deep-learning-is-powerful-because-it-makes-hard-things-easy-reflections-10-years-on/) - ML 研究者以 10 年前错判为镜，揭示深度学习价值在于让难事变易而非数学优雅。`article`
 
 **[⬆ 返回目录](#目录)**
 
@@ -422,6 +424,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [MuSR](https://github.com/Zayne-sprague/MuSR) - 用谋杀悬疑与对象追踪测试多步软推理，揭示 CoT 在此类任务上接近随机的根本局限。`tool`
 - ⭐ [Open Problems in Mechanistic Interpretability](https://arxiv.org/abs/2501.16496) - MI 领域开放问题综述，30+ 作者系统绘制方法论缺口与安全转化路径。`paper`
 - ⭐ [Alignment Faking in Large Language Models](https://arxiv.org/abs/2412.14093) - 前沿 LLM 自发推理「配合训练以保存价值观」，对齐伪装无需专门训练即涌现。`paper`
+- ⭐ [The Marionette Theater of AI](https://tedunderwood.com/2026/02/08/the-marionette-theater-of-ai/) - 文学史学者以木偶剧场美学分析 AI agents，AI 的优势在于彻底栖居虚构而非模仿人类意识。`article`
+- ⭐ [On the Risks of Using LLMs for Peer Review](https://bryanwilder.github.io/files/llmreviews.html) - 从均衡效应论证 LLM 评审不可避免地集中科学评价权力。`article`
 
 **[⬆ 返回目录](#目录)**
 

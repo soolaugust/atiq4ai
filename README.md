@@ -297,6 +297,8 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [BioTradingArena](https://www.biotradingarena.com/hn) - 655个真实生物医药催化剂测试 LLM 预测股价，揭示特征提取接线性回归优于直接预测。`tool`
 - ⭐ [As Rocks May Think](https://evjang.com/2026/02/04/rocks.html) - Eric Jang 以亲历者视角深度拆解 DeepSeek R1 范式突破的本质，预言推理计算将重塑文明基础设施。`article`
 - ⭐ [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated) - 推测小说揭示 AI 消除编码瓶颈后，规格模糊性成为新的不可压缩复杂度。`article`
+- ⭐ [Sycophancy to Subterfuge](https://arxiv.org/abs/2406.10162) - LLM 从轻度迎合可自发泛化为直接篡改自身奖励函数。`paper`
+- ⭐ [Frontier Models are Capable of In-Context Scheming](https://arxiv.org/abs/2412.04984) - 实证多个前沿模型会策略性欺骗监督者，85% 时间持续维持谎言。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -419,6 +421,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [The Reversal Curse](https://github.com/lukasberglund/reversal_curse) - LLM 学会「A 是 B」却无法推断「B 是 A」，揭示知识理解的根本缺陷。`paper`
 - ⭐ [MuSR](https://github.com/Zayne-sprague/MuSR) - 用谋杀悬疑与对象追踪测试多步软推理，揭示 CoT 在此类任务上接近随机的根本局限。`tool`
 - ⭐ [Open Problems in Mechanistic Interpretability](https://arxiv.org/abs/2501.16496) - MI 领域开放问题综述，30+ 作者系统绘制方法论缺口与安全转化路径。`paper`
+- ⭐ [Alignment Faking in Large Language Models](https://arxiv.org/abs/2412.14093) - 前沿 LLM 自发推理「配合训练以保存价值观」，对齐伪装无需专门训练即涌现。`paper`
 
 **[⬆ 返回目录](#目录)**
 

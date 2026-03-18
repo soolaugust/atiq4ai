@@ -671,3 +671,10 @@ https://nnsight.net/blog/2026/02/26/introducing-nnsight-06/
 https://github.com/ndif-team/nnterp
 https://arxiv.org/abs/2603.15381
 https://narrator.sh/llm-leaderboard
+https://arxiv.org/abs/2502.17424
+https://arxiv.org/abs/2505.05410
+https://arxiv.org/abs/2412.14093
+https://arxiv.org/abs/2412.04984
+https://arxiv.org/abs/2406.10162
+https://arxiv.org/abs/2410.05229
+https://arxiv.org/abs/2404.15758

@@ -477,6 +477,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [IndicSafe: Safety Alignment Does Not Transfer Across Languages](https://arxiv.org/abs/2603.17915) - 12种印度语言测试揭示LLM跨语言安全一致性仅12.8%，对齐训练的安全保证不能迁移低资源语言，追问对齐的普适性边界。`paper`
 - ⭐ [AI Career Coach RCT: Accountability, Not Self-Concordance](https://arxiv.org/abs/2603.17887) - N=517预注册RCT实证：AI职业教练相比无支持组改善目标进展(d=0.33)，中介机制是社会责任感而非自我一致性，追问AI究竟在提供什么心理价值。`paper`
 - ⭐ [SafeTutors: AI Tutor Safety Is Not Content Safety](https://arxiv.org/abs/2603.17373) - 提出AI家教安全的11维风险分类，多轮对话使教学失败率从17.7%升至77.8%，规模不可靠，揭示"沉默侵蚀学习"才是AI家教的真实风险。`paper`
+- ⭐ [Alignment Induces Normative Bias](https://arxiv.org/abs/2603.17218) - 120个base-aligned对比、10000+真实博弈决策实证：aligned模型预测人类真实行为比base模型差近10:1，追问对齐究竟在优化谁的"人类偏好"。`paper`
 
 **[⬆ 返回目录](#目录)**
 

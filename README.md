@@ -151,6 +151,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [InfoDensity: Reasoning Quality as Entropy Reduction](https://arxiv.org/abs/2603.17310) - 提出用"每步信息密度"而非长度衡量推理质量：高质量推理轨迹表现为单调熵收敛，用信息论奖励训练出更简洁准确的推理链。`paper`
 - ⭐ [TDAD: TDD Prompting Alone Increases Regressions in Small Models](https://arxiv.org/abs/2603.17973) - 实验发现对小模型单独使用TDD提示反而使回归测试率增加9.94%；上下文信息（测试哪些）优于程序性指令（如何TDD），揭示AI编码agent工具设计的核心原则。`paper`
 - ⭐ [Cross-Lingual Inconsistency as Interpretability Tool in MoE LLMs](https://arxiv.org/abs/2603.17102) - 用跨语言知识失败对比路由logits定位知识专家，停用20/6000个专家导致40%答题失误，将模型缺陷转化为可解释性探针。`paper`
+- ⭐ [Steerling-8B](https://www.guidelabs.ai/post/steerling-8b-base-model-release/) - 首个可追溯每个生成 token 到输入上下文、概念和训练数据的可解释语言模型，推理时直接操控概念替代安全训练。`tool`
 
 **[⬆ 返回目录](#目录)**
 

@@ -911,3 +911,7 @@ https://arxiv.org/abs/2603.17384
 https://arxiv.org/abs/2603.17380
 https://arxiv.org/abs/2603.17378
 https://arxiv.org/abs/2603.17365
+https://www.guidelabs.ai/post/steerling-8b-base-model-release/
+https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/
+https://ivanturkovic.com
+https://github.com/htdt/godogen

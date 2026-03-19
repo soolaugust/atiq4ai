@@ -915,3 +915,8 @@ https://www.guidelabs.ai/post/steerling-8b-base-model-release/
 https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/
 https://ivanturkovic.com
 https://github.com/htdt/godogen
+https://writings.hongminhee.org/2026/03/legal-vs-legitimate/
+https://schipper.ai/posts/parallel-coding-agents/
+https://carlkolon.com/2026/02/27/engineering-747-coding-agents/
+https://www.bassimeledath.com/blog/levels-of-agentic-engineering
+https://sebastianraschka.com/llm-architecture-gallery/

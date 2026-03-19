@@ -754,3 +754,7 @@ https://github.com/richards199999/Thinking-Claude
 https://github.com/letta-ai/letta
 https://github.com/SylphAI-Inc/AdalFlow
 https://github.com/anthropics/anthropic-cookbook/tree/main/misc/building_effective_agents
+https://arxiv.org/abs/2603.18000
+https://arxiv.org/abs/2603.17831
+https://arxiv.org/abs/2603.17787
+https://arxiv.org/abs/2603.17781

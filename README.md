@@ -144,6 +144,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [LLMs Are Eating the Context Layer](https://www.prompthub.us/blog/llms-are-eating-the-context-layer) - 分析prompt技巧如何被模型训练内化，辨别哪些工程实践即将过时。`article`
 - ⭐ [When Thinking Models Stop Thinking](https://www.prompthub.us/blog/when-thinking-models-stop-thinking) - 揭示推理模型在低复杂度任务中被非推理模型超越的机制与决策框架。`article`
 - ⭐ [Priompt: Cursor 的 JSX 优先级 Prompt 编译器](https://github.com/anysphere/priompt) - 用 JSX 编写 prompt，token 超限时按优先级自动裁剪内容。`tool`
+- ⭐ [Knowledge Objects vs In-Context Memory](https://arxiv.org/abs/2603.17781) - 实测证明上下文 8000 事实后精度崩溃、压缩损失 60%，为何时依赖 in-context memory 不可靠提供量化依据。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -324,6 +325,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Files Are the Interface for AI Agents](https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/) - AI agent回归文件系统：通用协议、跨工具互操作，context window不是记忆。`article`
 - ⭐ [Sleep-Time Compute: Beyond Inference Scaling at Test Time](https://arxiv.org/abs/2504.13171) - 模型离线预推理上下文，降低5倍测试时计算需求。`paper`
 - ⭐ [Letta (原 MemGPT): 有状态 Agent 的分层记忆架构](https://github.com/letta-ai/letta) - 用操作系统分层内存架构解决LLM上下文限制的有状态Agent框架。`tool`
+- ⭐ [AgentFactory: Self-Evolving Agents via Executable Subagent Code](https://arxiv.org/abs/2603.18000) - 代码可执行性提供反馈闭环，比文本prompt更有物理意义。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -459,6 +461,8 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [How Effective Is Constitutional AI in Small LLMs?](https://arxiv.org/abs/2503.17365) - 小模型CAI自我批评有效性高度依赖架构：Llama显著受益，DeepSeek/Gemma/Qwen改进有限。`paper`
 - ⭐ [LLMs Get Lost in Multi-Turn Conversation](https://arxiv.org/abs/2505.06120) - 大规模实验证明LLM多轮对话性能下降39%且走错后无法自我纠正。`paper`
 - ⭐ [The Illusion of Thinking: Strengths and Limitations of Reasoning Models](https://machinelearning.apple.com/research/illusion-of-thinking) - Apple 实证研究：推理模型高复杂度完全崩溃，推理努力在难题前反而萎缩。`paper`
+- ⭐ [RPMS: Conflict-Managed Agent Architecture for Embodied Tasks](https://arxiv.org/abs/2603.17831) - 揭示embodied agent失败的结构性原因：无效动作与状态漂移相互放大的退化循环。`paper`
+- ⭐ [Governed Memory: Shared Memory Governance for Enterprise Multi-Agent Systems](https://arxiv.org/abs/2603.17787) - 企业多agent系统的共享记忆治理层，解决记忆孤岛与跨agent内存泄露问题。`paper`
 
 **[⬆ 返回目录](#目录)**
 

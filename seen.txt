@@ -1051,3 +1051,4 @@ https://dynomight.net/coffee/
 https://www.robinsloan.com/lab/wrangler-init/
 https://www.robinsloan.com/lab/gemini-agi/
 https://www.robinsloan.com/lab/nobody-knows-anything/
+https://github.com/alainnothere/llm-circuit-finder

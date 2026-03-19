@@ -145,6 +145,8 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [When Thinking Models Stop Thinking](https://www.prompthub.us/blog/when-thinking-models-stop-thinking) - 揭示推理模型在低复杂度任务中被非推理模型超越的机制与决策框架。`article`
 - ⭐ [Priompt: Cursor 的 JSX 优先级 Prompt 编译器](https://github.com/anysphere/priompt) - 用 JSX 编写 prompt，token 超限时按优先级自动裁剪内容。`tool`
 - ⭐ [Knowledge Objects vs In-Context Memory](https://arxiv.org/abs/2603.17781) - 实测证明上下文 8000 事实后精度崩溃、压缩损失 60%，为何时依赖 in-context memory 不可靠提供量化依据。`paper`
+- ⭐ [How LLMs Generate Verbal Confidence: Cached Retrieval, Not Post-Hoc Reconstruction](https://arxiv.org/abs/2603.17839) - 揭示LLM置信度在答案输出前自动计算并缓存，是真正的自我评估而非事后捏造。`paper`
+- ⭐ [DebugLM: Built-in Data Provenance for LLM Behavior Tracing](https://arxiv.org/abs/2603.17884) - LLM内置数据溯源，可追踪行为到具体训练数据来源并按数据源触发拒绝。`paper`
 
 **[⬆ 返回目录](#目录)**
 

@@ -1047,3 +1047,7 @@ https://arxiv.org/abs/2603.17543
 https://arxiv.org/abs/2603.17522
 https://arxiv.org/abs/2603.17893
 https://arxiv.org/abs/2603.17969
+https://dynomight.net/coffee/
+https://www.robinsloan.com/lab/wrangler-init/
+https://www.robinsloan.com/lab/gemini-agi/
+https://www.robinsloan.com/lab/nobody-knows-anything/

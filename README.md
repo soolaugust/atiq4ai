@@ -341,6 +341,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [If You Thought Code Writing Speed Was Your Problem You Have Bigger Problems](https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems) - 用高德拉特约束理论论证代码生成速度不是瓶颈，AI 提速非瓶颈环节只会制造更大交通拥堵。`article`
 - ⭐ [Vibe Physics: Supervising Claude Through Real Physics Research](https://www.anthropic.com/research/vibe-physics) - Harvard QFT 教授全程监督 Claude 完成量子色动力学 Sudakov shoulder 真实科研计算，定义「AI 读研 G2 阶段」测试框架，揭示 AI 能否完成有训练轮、人类可验证的理论物理项目。`article`
 - ⭐ [autoresearch](https://github.com/karpathy/autoresearch) - 给 AI agent 一个真实单 GPU LLM 训练代码库，让它自主实验过夜：改 train.py → 训练 5 分钟 → 验证改进 → 循环，人类只编写 program.md 研究指令。`tool`
+- ⭐ [steering-reasoning](https://github.com/corl-team/steering-reasoning) - 用 245K 参数 steering vector 替代 14.7B 参数全量 RL 微调，训练时间从 52 分钟降至 34 秒且效果匹配，并用可解释性分析揭示 RL 如何诱导推理能力。`paper`
 
 **[⬆ 返回目录](#目录)**
 

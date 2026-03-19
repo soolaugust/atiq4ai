@@ -150,6 +150,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Successful Language Model Evals](https://www.jasonwei.net/blog/evals) - Jason Wei总结好eval的六条反面清单：噪声、质量差、过复杂、难运行、任务无意义、评分不准——判断benchmark可信度的直接框架。`article`
 - ⭐ [InfoDensity: Reasoning Quality as Entropy Reduction](https://arxiv.org/abs/2603.17310) - 提出用"每步信息密度"而非长度衡量推理质量：高质量推理轨迹表现为单调熵收敛，用信息论奖励训练出更简洁准确的推理链。`paper`
 - ⭐ [TDAD: TDD Prompting Alone Increases Regressions in Small Models](https://arxiv.org/abs/2603.17973) - 实验发现对小模型单独使用TDD提示反而使回归测试率增加9.94%；上下文信息（测试哪些）优于程序性指令（如何TDD），揭示AI编码agent工具设计的核心原则。`paper`
+- ⭐ [Cross-Lingual Inconsistency as Interpretability Tool in MoE LLMs](https://arxiv.org/abs/2603.17102) - 用跨语言知识失败对比路由logits定位知识专家，停用20/6000个专家导致40%答题失误，将模型缺陷转化为可解释性探针。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -474,6 +475,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [CoT Enables Jailbreaks: Pre-CoT Safety Alignment for Reasoning Models](https://arxiv.org/abs/2603.17368) - 实证表明推理模型安全降级仅在CoT启用后出现，提出在CoT生成前提取安全决策信号，追问推理能力与安全性为何天然冲突。`paper`
 - ⭐ [IndicSafe: Safety Alignment Does Not Transfer Across Languages](https://arxiv.org/abs/2603.17915) - 12种印度语言测试揭示LLM跨语言安全一致性仅12.8%，对齐训练的安全保证不能迁移低资源语言，追问对齐的普适性边界。`paper`
 - ⭐ [AI Career Coach RCT: Accountability, Not Self-Concordance](https://arxiv.org/abs/2603.17887) - N=517预注册RCT实证：AI职业教练相比无支持组改善目标进展(d=0.33)，中介机制是社会责任感而非自我一致性，追问AI究竟在提供什么心理价值。`paper`
+- ⭐ [SafeTutors: AI Tutor Safety Is Not Content Safety](https://arxiv.org/abs/2603.17373) - 提出AI家教安全的11维风险分类，多轮对话使教学失败率从17.7%升至77.8%，规模不可靠，揭示"沉默侵蚀学习"才是AI家教的真实风险。`paper`
 
 **[⬆ 返回目录](#目录)**
 

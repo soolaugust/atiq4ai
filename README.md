@@ -337,6 +337,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [CoVerRL: Escaping the Consensus Trap in Label-Free RL](https://arxiv.org/abs/2603.17775) - 揭示多数投票导致多样性崩溃、系统性错误被强化的"共识陷阱"，单模型交替生成/验证角色实现自举共同进化。`paper`
 - ⭐ [Transformer Is a Bayesian Network: Five Formal Proofs](https://arxiv.org/abs/2603.17063) - 五种方式严格证明transformer是贝叶斯网络：attention=AND=Pearl收集步，FFN=OR=更新步；幻觉是无概念操作的结构性后果，无法靠scaling修复。`paper`
 - ⭐ [A Sufficiently Detailed Spec Is Code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code) - 用 OpenAI Symphony SPEC.md 为例，证明足够详细的规格说明本质上就是代码，agentic coding 无法凭空降低复杂度。`article`
+- ⭐ [If You Thought Code Writing Speed Was Your Problem You Have Bigger Problems](https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems) - 用高德拉特约束理论论证代码生成速度不是瓶颈，AI 提速非瓶颈环节只会制造更大交通拥堵。`article`
 
 **[⬆ 返回目录](#目录)**
 

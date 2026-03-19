@@ -339,6 +339,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [Transformer Is a Bayesian Network: Five Formal Proofs](https://arxiv.org/abs/2603.17063) - 五种方式严格证明transformer是贝叶斯网络：attention=AND=Pearl收集步，FFN=OR=更新步；幻觉是无概念操作的结构性后果，无法靠scaling修复。`paper`
 - ⭐ [A Sufficiently Detailed Spec Is Code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code) - 用 OpenAI Symphony SPEC.md 为例，证明足够详细的规格说明本质上就是代码，agentic coding 无法凭空降低复杂度。`article`
 - ⭐ [If You Thought Code Writing Speed Was Your Problem You Have Bigger Problems](https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems) - 用高德拉特约束理论论证代码生成速度不是瓶颈，AI 提速非瓶颈环节只会制造更大交通拥堵。`article`
+- ⭐ [Vibe Physics: Supervising Claude Through Real Physics Research](https://www.anthropic.com/research/vibe-physics) - Harvard QFT 教授全程监督 Claude 完成量子色动力学 Sudakov shoulder 真实科研计算，定义「AI 读研 G2 阶段」测试框架，揭示 AI 能否完成有训练轮、人类可验证的理论物理项目。`article`
 
 **[⬆ 返回目录](#目录)**
 

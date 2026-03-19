@@ -1052,3 +1052,7 @@ https://www.robinsloan.com/lab/wrangler-init/
 https://www.robinsloan.com/lab/gemini-agi/
 https://www.robinsloan.com/lab/nobody-knows-anything/
 https://github.com/alainnothere/llm-circuit-finder
+https://www.anthropic.com/research/vibe-physics
+https://www.anthropic.com/research/long-running-tasks
+https://www.anthropic.com/research/roundup-feb-2026
+https://www.anthropic.com/research/introducing-anthropic-science

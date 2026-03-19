@@ -147,6 +147,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [Knowledge Objects vs In-Context Memory](https://arxiv.org/abs/2603.17781) - 实测证明上下文 8000 事实后精度崩溃、压缩损失 60%，为何时依赖 in-context memory 不可靠提供量化依据。`paper`
 - ⭐ [How LLMs Generate Verbal Confidence: Cached Retrieval, Not Post-Hoc Reconstruction](https://arxiv.org/abs/2603.17839) - 揭示LLM置信度在答案输出前自动计算并缓存，是真正的自我评估而非事后捏造。`paper`
 - ⭐ [DebugLM: Built-in Data Provenance for LLM Behavior Tracing](https://arxiv.org/abs/2603.17884) - LLM内置数据溯源，可追踪行为到具体训练数据来源并按数据源触发拒绝。`paper`
+- ⭐ [Successful Language Model Evals](https://www.jasonwei.net/blog/evals) - Jason Wei总结好eval的六条反面清单：噪声、质量差、过复杂、难运行、任务无意义、评分不准——判断benchmark可信度的直接框架。`article`
 
 **[⬆ 返回目录](#目录)**
 

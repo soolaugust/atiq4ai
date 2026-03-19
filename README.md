@@ -336,6 +336,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [IET: Implicit Execution Tracing for Multi-Agent Accountability](https://arxiv.org/abs/2603.17445) - 向token分布中嵌入密钥信号，从生成文本中重建多agent协作拓扑，实现无需日志的agent可归因审计。`paper`
 - ⭐ [CoVerRL: Escaping the Consensus Trap in Label-Free RL](https://arxiv.org/abs/2603.17775) - 揭示多数投票导致多样性崩溃、系统性错误被强化的"共识陷阱"，单模型交替生成/验证角色实现自举共同进化。`paper`
 - ⭐ [Transformer Is a Bayesian Network: Five Formal Proofs](https://arxiv.org/abs/2603.17063) - 五种方式严格证明transformer是贝叶斯网络：attention=AND=Pearl收集步，FFN=OR=更新步；幻觉是无概念操作的结构性后果，无法靠scaling修复。`paper`
+- ⭐ [A Sufficiently Detailed Spec Is Code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code) - 用 OpenAI Symphony SPEC.md 为例，证明足够详细的规格说明本质上就是代码，agentic coding 无法凭空降低复杂度。`article`
 
 **[⬆ 返回目录](#目录)**
 

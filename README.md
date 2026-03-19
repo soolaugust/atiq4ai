@@ -149,6 +149,7 @@ _关于评判和使用 AI 输出的审美标准与方法论。_
 - ⭐ [DebugLM: Built-in Data Provenance for LLM Behavior Tracing](https://arxiv.org/abs/2603.17884) - LLM内置数据溯源，可追踪行为到具体训练数据来源并按数据源触发拒绝。`paper`
 - ⭐ [Successful Language Model Evals](https://www.jasonwei.net/blog/evals) - Jason Wei总结好eval的六条反面清单：噪声、质量差、过复杂、难运行、任务无意义、评分不准——判断benchmark可信度的直接框架。`article`
 - ⭐ [InfoDensity: Reasoning Quality as Entropy Reduction](https://arxiv.org/abs/2603.17310) - 提出用"每步信息密度"而非长度衡量推理质量：高质量推理轨迹表现为单调熵收敛，用信息论奖励训练出更简洁准确的推理链。`paper`
+- ⭐ [TDAD: TDD Prompting Alone Increases Regressions in Small Models](https://arxiv.org/abs/2603.17973) - 实验发现对小模型单独使用TDD提示反而使回归测试率增加9.94%；上下文信息（测试哪些）优于程序性指令（如何TDD），揭示AI编码agent工具设计的核心原则。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -332,6 +333,7 @@ _有创意的 AI 应用思路、独特使用方式与设计理念。_
 - ⭐ [AgentFactory: Self-Evolving Agents via Executable Subagent Code](https://arxiv.org/abs/2603.18000) - 代码可执行性提供反馈闭环，比文本prompt更有物理意义。`paper`
 - ⭐ [IET: Implicit Execution Tracing for Multi-Agent Accountability](https://arxiv.org/abs/2603.17445) - 向token分布中嵌入密钥信号，从生成文本中重建多agent协作拓扑，实现无需日志的agent可归因审计。`paper`
 - ⭐ [CoVerRL: Escaping the Consensus Trap in Label-Free RL](https://arxiv.org/abs/2603.17775) - 揭示多数投票导致多样性崩溃、系统性错误被强化的"共识陷阱"，单模型交替生成/验证角色实现自举共同进化。`paper`
+- ⭐ [Transformer Is a Bayesian Network: Five Formal Proofs](https://arxiv.org/abs/2603.17063) - 五种方式严格证明transformer是贝叶斯网络：attention=AND=Pearl收集步，FFN=OR=更新步；幻觉是无概念操作的结构性后果，无法靠scaling修复。`paper`
 
 **[⬆ 返回目录](#目录)**
 
@@ -471,6 +473,7 @@ _值得反复思考的 AI 相关问题，好问题比好答案更稀缺。_
 - ⭐ [Governed Memory: Shared Memory Governance for Enterprise Multi-Agent Systems](https://arxiv.org/abs/2603.17787) - 企业多agent系统的共享记忆治理层，解决记忆孤岛与跨agent内存泄露问题。`paper`
 - ⭐ [CoT Enables Jailbreaks: Pre-CoT Safety Alignment for Reasoning Models](https://arxiv.org/abs/2603.17368) - 实证表明推理模型安全降级仅在CoT启用后出现，提出在CoT生成前提取安全决策信号，追问推理能力与安全性为何天然冲突。`paper`
 - ⭐ [IndicSafe: Safety Alignment Does Not Transfer Across Languages](https://arxiv.org/abs/2603.17915) - 12种印度语言测试揭示LLM跨语言安全一致性仅12.8%，对齐训练的安全保证不能迁移低资源语言，追问对齐的普适性边界。`paper`
+- ⭐ [AI Career Coach RCT: Accountability, Not Self-Concordance](https://arxiv.org/abs/2603.17887) - N=517预注册RCT实证：AI职业教练相比无支持组改善目标进展(d=0.33)，中介机制是社会责任感而非自我一致性，追问AI究竟在提供什么心理价值。`paper`
 
 **[⬆ 返回目录](#目录)**
 

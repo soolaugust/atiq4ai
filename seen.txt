@@ -838,3 +838,17 @@ https://arxiv.org/abs/2603.17087
 https://arxiv.org/abs/2603.17070
 https://arxiv.org/abs/2603.17067
 https://arxiv.org/abs/2603.17017
+https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/
+https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial
+https://efitz-thoughts.blogspot.com/2025/08/my-experience-creating-software-with_22.html
+https://twitter.com/karpathy/status/2024987174077432126
+https://www.ai-frontiers.org/articles/the-misguided-quest-for-mechanistic-ai-interpretability
+https://www.neuronpedia.org
+https://arxiv.org/abs/2602.06176
+https://github.com/Peiyang-Song/Awesome-LLM-Reasoning-Failures
+https://github.com/SnapdragonPartners/maestro
+https://github.com/chatml/chatml
+https://chatml.com
+https://jaylol.com/2026/02/23/ai-and-software-engineering-productivity/
+https://arxiv.org/abs/2602.05192
+https://hyper.ai/cn/notebooks/49873

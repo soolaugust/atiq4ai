@@ -1061,3 +1061,5 @@ https://codespeak.dev/
 https://claude.com/blog/1m-context-ga
 https://news.ycombinator.com/item?id=47388646
 https://news.ycombinator.com/item?id=47431237
+https://github.com/karpathy/autoresearch
+https://github.com/Q00/ouroboros
